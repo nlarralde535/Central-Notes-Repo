@@ -15,10 +15,8 @@
 
 
 # ToBuy
-- [ ] bar soap
-- [x] toothpaste 
-- [ ] pencil case
-- [x] mop bucket trash bin
+- [ ] Auto Zone transmission fluid 
+- [ ] Auto Zone transmission plug crush washer
 - [ ] 
 - [ ] Michael's foam cushions for lining storage totes
 - [x] Lowe's 2" (smaller) roll of reflective sheet (living room sliding doors are 70.5in wide in total)
