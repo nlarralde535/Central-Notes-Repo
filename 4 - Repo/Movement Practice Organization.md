@@ -16,3 +16,9 @@ Our movement practice can be organized in the following categories:
         - "Every 3rd Day" Protocols 
 
 What we must do is determine a system for "waving" the movements that we do. The idea is NOT to get super detailed about the specific orders of specific exercises, we will decide when to switch according to how a given movement feels. All this system is meant to do is simplify the "what to switch to?" decision.
+
+8-7-25
+Daily Movement work can follow:
+ - [Strong First split sets](https://youtu.be/9m0AZUEvdu0?si=pz3_WGT_vK43XaOW)
+ - Tabata protocol
+ - Relax Into Stretch 

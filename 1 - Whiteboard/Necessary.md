@@ -26,6 +26,7 @@ Strava? Letterboxed?
  - lack of long term goals/projects
 
 ### What I'm Looking For:
+- someone who is attractive but ALSO is a good hang 🤙 (we can be friends/bros/pahtnas)
 - someone to talk about the problems of the world with
 - someone who I want to be around all/most of the time
 - someone to make and execute big plans with
