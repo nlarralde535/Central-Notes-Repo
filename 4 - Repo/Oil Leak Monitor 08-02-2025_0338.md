@@ -11,3 +11,7 @@ createdDate: "08-02-2025"
 oil measured ~1Qt low
 added ~1Qt
 mileage at 204542
+
+8-22-25
+oil measured ~1Qt low again
+mileage 205279, ~737 miles driven
