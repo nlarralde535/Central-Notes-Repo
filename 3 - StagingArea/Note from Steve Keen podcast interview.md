@@ -1,6 +1,6 @@
 ---
 tags:
-  - CurrentEvents/Economics
+  - Note/Economics
 aliases:
 createdDate: 09-06-2025
 ---

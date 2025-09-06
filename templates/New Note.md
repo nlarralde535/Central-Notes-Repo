@@ -1,6 +1,6 @@
 ---
 tags:
-  - _blah
+  - Note
 aliases:
   - _template
 createdDate: "{{date}}"
