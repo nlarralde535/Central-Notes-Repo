@@ -14,9 +14,9 @@ createdDate: "08-17-2025"
 
 ---
 # Daily Rotation: 
-- [ ] [[Push]]
-- [ ] [[Pull]]
-- [ ] [[Hinge]]
+- [x] [[Push]]
+- [x] [[Pull]]
+- [x] [[Hinge]]
 - [ ] [[Squat]]
 - [ ] [[6th Movement]]
 ---

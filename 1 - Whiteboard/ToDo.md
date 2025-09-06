@@ -1,5 +1,6 @@
-- [ ] Oreily to pick up relay pullers 
-- [ ] Oreily pick up spare starter relay
+- [ ] Make list of go-to YouTube channels
+- [ ] Have a think about how to make tags for notes related to current events
+- [ ] 
 # Grocery List
 - [ ] ham
 - [ ] lentils 
@@ -11,18 +12,13 @@
  - steak sandwiches (cheese | hummus)
  - canned beans + Vienna sausages
  - overnight oats
+---
 
-
-
-# ToBuy
+# To Buy
 - [ ] Auto Zone transmission fluid 
-- [ ] Auto Zone transmission plug crush washer
 - [ ] 
 - [ ] Michael's foam cushions for lining storage totes
 - [x] Lowe's 2" (smaller) roll of reflective sheet (living room sliding doors are 70.5in wide in total)
-- [ ] Lowe's/Auto Zone big shammy cloth for rolling up hand-washed clothes to remove excess water before hanging to dry -- tshirt 29.5" tall x 34" wide
-- [ ] foam board x2
-- [ ] double-side duct tape
 - [ ] 
 - [ ] couple more pocket shirts
 - [ ] couple more shorts
@@ -52,18 +48,6 @@ Storage container section
 Stationary section
 - foam bricks for packing stuff
 
-# Today
-- [x] file 2024 taxes
-- [ ] buy medicine ball to juggle
-- [ ] look for new phone
-- Google Pixel 7
-- [x] buy pen mouse from Amazon
-- [ ] CR-V: clean leaked oil
-- [ ] CR-V: use UV dye to find leak 
-- [x] Find TWIC office
-- [x] go see Lone Star advisors 
-- [x] get brake bleed tool from From AutoZone for Erin's car
-- [x] update John Hancock
 
 
 https://youtu.be/JKMUNJHvA10?si=lLZcJcnW9uGBR3Q8&t=1m34s
@@ -93,3 +77,6 @@ One idea that came to us today was to focus for longer periods on 1 thing, but n
 Most of the notes we have taken while learning the things we've learned live in notebooks. Notebooks are only good for recalling information from the very recent past, not long after the notes have been taken. What we want is a system that we can both add information to as well as recall it relatively easily. This note covers an idea about how to add information to this system. 
 
 We don't need to eliminate the use of paper notebooks, but rather we should think of the system as a git repo, and of our paper notes as changes to tracked files in the working directory: changes to be committed. We still must prepare and commit those changes. What this means in practical terms will involve things like typing those notes up, and preparing any accompanying materials (images, links, diagrams) to all be added to the system.
+
+
+VVD-4808

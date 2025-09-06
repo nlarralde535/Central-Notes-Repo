@@ -2,9 +2,11 @@
 Strava? Letterboxed?
 
 # The Script
-1. Establish that you want to exchange get-to-know-you questions 
+1. Establish that you want to exchange get-to-know-you questions in order to save time
 2. Establish where she would prefer to communicate: in the app, on the phone, in-person, some other alternative 
-3. Start asking questions...
+3. State a bit **About Me** and **What I'm Looking For** 
+4. Start asking questions...
+    -  how do you show interest, or how do you demonstrate that you care about someone?
     - what are you looking for?
     - What is your philosophy of/attitude towards relationships? 
     - What are some of your most important boundaries?
@@ -27,10 +29,10 @@ Strava? Letterboxed?
 
 ### What I'm Looking For:
 - someone who is attractive but ALSO is a good hang 🤙 (we can be friends/bros/pahtnas)
+- someone who will play with me
 - someone to talk about the problems of the world with
 - someone who I want to be around all/most of the time
-- someone to make and execute big plans with
-- someone who will play with me 
+- someone to make and execute big plans with 
 - someone who is very smart
 - someone with personal goals/projects they are focused on
 - someone to laugh with
@@ -95,6 +97,16 @@ Given a box of everything you ever lost, what's the 1st thing you'd look for?
 Suppose I were to do/say something you didn't like, how would you handle that?
 
 ### About me
+Let me tell you a few things about myself that I think should give you a decent idea of whether I'm what you might be looking for.
+
+- I've got a lot of projects I'm working on, and generally get along best with people who have some personal projects(s) they are working on. I enjoy supporting folks in their pursuits, and being supported in mine.
+- 
+- Im at my best when I'm being useful/helpful, I enjoy doing things for others. 
+- 
+- I'm generally a pretty quiet person. I talk less and less as I get comfortable with someone.
+- 
+- I take life pretty seriously for the most part. I spend alot of my time thinking about/studying current events and politics, and so I'm usually immersed in some frustrating horror or depressing tragedy, trying to understand what I can do to help. 
+- 
 - I don't have a plan for how any of this should go, I don't know how to go from zero to something with a total stranger, I'm hoping we'll figure that out together 
 - I'm not going to "fall in love" with you
 - I don't get excited about things, and may not match your energy
@@ -103,6 +115,9 @@ Suppose I were to do/say something you didn't like, how would you handle that?
 - how do I point out when you're wrong about things without hurting your feelings?
 - how do I disagree with you without hurting your feelings?
 - what happens when I feel like being alone?
+
+Let me know what you think.
+I don't mean to suggest that I'm completely set in my ways and unable to learn new tricks, but at the same time, at this point in my life I am who I'm going to be (and I like who I am), and I'm trying to find someone who is an easy/seamless fit for me, and visa versa.
 
 ### What I'm looking for
  

@@ -1,3 +1,6 @@
+# [[Basic Info]] 
+
+---
 # Service Manuals
 ```dataview
 LIST
