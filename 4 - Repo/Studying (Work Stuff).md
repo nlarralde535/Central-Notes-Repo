@@ -18,3 +18,8 @@ Udemy: NodeJS
 
 ### git
 (see git YouTube playlist)
+- git revisions
+- `git clean`
+- `git reset` vs `git revert`
+- [Atlassian advanced git tutorial ](https://www.atlassian.com/git/tutorials/advanced-overview)
+- 

@@ -4,7 +4,6 @@ tags:
 aliases:
 createdDate: 09-06-2025
 ---
-
 ### I Micro + Macro
 #### [Macroeconomics, Wyvern66 Economics](https://www.youtube.com/playlist?list=PL2911D6EB8005E9F4)
 

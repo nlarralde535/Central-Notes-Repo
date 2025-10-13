@@ -1,11 +1,24 @@
 
 Strava? Letterboxed?
 
+# Updated Script
+
+I'm trying to be realistic about what to expect from dating in general, and from dating apps in particular. I'd like to find someone who is alot like me, and then make a life with that person. But so far this has not happened, and as I get older I'm less and less confident that it will. 
+
+So instead, if I can just find someone who I'm physically attracted to, who I don't mind being around, and who does not disturb my peace, that will be more than enough. 
+
+That we are on this app implies neither of us really know how to do/be in a relationship.
+
+
+
 # The Script
 1. Establish that you want to exchange get-to-know-you questions in order to save time
 2. Establish where she would prefer to communicate: in the app, on the phone, in-person, some other alternative 
-3. State a bit **About Me** and **What I'm Looking For** 
-4. Start asking questions...
+3. Share stuff from **About Me**
+    - Ask "What do you think?"
+4. Share **What I'm Looking For** stuff 
+    - Ask "What do you think?"
+5. Start asking questions...
     -  how do you show interest, or how do you demonstrate that you care about someone?
     - what are you looking for?
     - What is your philosophy of/attitude towards relationships? 
@@ -28,10 +41,11 @@ Strava? Letterboxed?
  - lack of long term goals/projects
 
 ### What I'm Looking For:
-- someone who is attractive but ALSO is a good hang 🤙 (we can be friends/bros/pahtnas)
+At this point in my life I'm mainly looking for stability, someone I can trust/rely on. The kind of relationship I imagine myself in is one that is more practical/utilitarian than fun/romantic. 
+
+- someone who is attractive but ALSO a good hang 🤙 (we can be friends/buddies/comrades), someone who I want to be around all/most of the time
 - someone who will play with me
 - someone to talk about the problems of the world with
-- someone who I want to be around all/most of the time
 - someone to make and execute big plans with 
 - someone who is very smart
 - someone with personal goals/projects they are focused on
@@ -97,17 +111,66 @@ Given a box of everything you ever lost, what's the 1st thing you'd look for?
 Suppose I were to do/say something you didn't like, how would you handle that?
 
 ### About me
+
+Sex is cool, but have you ever genuinely liked and been liked by someone?
+
+Everywhere is walking distance if you have the time
+
+Utility 🔧 > Aesthetics 💅 
+Love to play (⚾️ ⚽️ 🏀 🏊‍♂️)
+Love to learn (📚 🧮💻)
+Love to tinker (🧰⚒️⚙️👨‍🔧)
+Hablo español 🇲🇽
+I read your profile 👍
+
 Let me tell you a few things about myself that I think should give you a decent idea of whether I'm what you might be looking for.
 
+I am one of those "let's not waste each other's time" folks, and in that spirit I'd like to tell you a few things about myself that I think should give you a decent idea of whether I'm what you might be looking for.
+
+---
+
+Cool 🙂 here goes. 
+
+So, I'm generally a pretty quiet person. I talk less and less as I get comfortable with someone. 
+
+I love being active: walking, running, lifting, swimming, playing multiple sports. Wiggling around helped me turn my brain off. 
+
+I love being outside and don't mind getting sweaty/dirty working on stuff or just playing around.
+
+Im at my best when I'm being useful/helpful, I enjoy doing things for others. When I'm not being useful I often don't know what to do with myself. 
+
+I take life pretty seriously for the most part. I spend alot of my time thinking about/studying current events and politics, and so I'm usually immersed in some frustrating horror or depressing tragedy, trying to understand what I can do to help. 
+
+I am a planner, I like having some idea of what's going to happen. I think (maybe overthink) things through before I act. But I don't seek to control everything at all times.
+
+I prioritize focusing on the boring/mundane/administrative aspects of life. It's often hard for me to relax unless I know the bills are paid, and my vehicles are in reliable working order, and all responsibilities are accounted for. 
+
+I'm not really big on traditional forms of "fun". Or rather, I don't make having fun a priority. I like struggling/learning/grinding through difficult things, and am hoping to find someone to do that kind of thing with. The easy stuff is easy to do, my focus is on doing the hard stuff. 
+
+And I don't have a plan for how any of this should go, I don't know how to go from zero to something with a total stranger, I'm hoping we'll figure that out together.
+
+---
+
+
+- I am a planner, I like having some idea of what's going to happen. I think (maybe overthink) things through before I act. But I don't seek to control everything at all times; 
+- 
+- 
+- I prioritize focusing on the boring/mundane/administrative aspects of life. It's often hard for me to relax unless I know the bills are paid, and my vehicles are in reliable working order, and all responsibilities are accounted for. 
+- 
+- I love being active: walking, running, lifting, swimming, playing multiple sports. Wiggling around helped me turn my brain off. 
+- 
 - I've got a lot of projects I'm working on, and generally get along best with people who have some personal projects(s) they are working on. I enjoy supporting folks in their pursuits, and being supported in mine.
 - 
-- Im at my best when I'm being useful/helpful, I enjoy doing things for others. 
+- Im at my best when I'm being useful/helpful, I enjoy doing things for others. When I'm not being useful I often don't know what to do with myself. 
 - 
 - I'm generally a pretty quiet person. I talk less and less as I get comfortable with someone.
 - 
 - I take life pretty seriously for the most part. I spend alot of my time thinking about/studying current events and politics, and so I'm usually immersed in some frustrating horror or depressing tragedy, trying to understand what I can do to help. 
 - 
-- I don't have a plan for how any of this should go, I don't know how to go from zero to something with a total stranger, I'm hoping we'll figure that out together 
+- I'm not really big on traditional forms of "fun". Or rather, I don't make having fun a priority. I like struggling/learning/grinding through difficult things, and am hoping to find someone to do that kind of thing with. The easy stuff is easy to do, my focus is on doing the hard stuff. 
+- 
+- I don't have a plan for how any of this should go, I don't know how to go from zero to something with a total stranger, I'm hoping we'll figure that out together
+- 
 - I'm not going to "fall in love" with you
 - I don't get excited about things, and may not match your energy
 - I don't care about birthdays/holidays

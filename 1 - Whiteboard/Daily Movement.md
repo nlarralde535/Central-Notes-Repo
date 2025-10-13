@@ -1,3 +1,19 @@
+-  Squat
+    - Cossacks 
+    - Bodyweight x20
+    - Tai-Chi
+- Wiggle
+    - Leg swings
+    - Arm swings
+    - kicky ball
+    - skate
+- Compression
+    - L-seat holds
+    - Seated forward fold, arms-up holds
+    - Cheerleader holds
+    - Pancakes
+    - Back Bridges
+
 # Hangs (100 breaths) + shoulder dislocates 
 - [ ] 20
 - [ ] 20

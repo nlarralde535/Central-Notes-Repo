@@ -11,7 +11,8 @@ Do these with eyes closed, and close to a wall so that at the end of the set you
  - n sets of 5, alternating, with 5-breath hold at each end range
 
 ## Wave variations:
- - add weight
+ - weighted Cossacks
+ - single-arm overhead Cossacks
  - widen or narrow your stance 
 
 ## Interesting Combinations
