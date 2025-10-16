@@ -2,8 +2,8 @@
 tags:
   - Movement
   - MovementLibrary
-aliases: 
-createdDate: 08-16-2025
+aliases:
+createdDate: "{{date}}"
 ---
 
 ## Sets & Reps:

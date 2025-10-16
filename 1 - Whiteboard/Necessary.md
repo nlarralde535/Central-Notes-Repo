@@ -1,6 +1,13 @@
 
 Strava? Letterboxed?
 
+## Gold Mine Metaphor
+```
+Gold mine metaphor goes like this: when mining for gold you pick a spot where you think there will be gold and you start digging. The longer you dig without striking gold, the more important it becomes to stop and ask yourself whether there simply might not be any gold in this spot, and whether perhaps you should pull yourself up out of the big empty hole you've dug, and pick another spot. If indeed you picked a spot where there is no gold to be found, no amount of hard work on your part will make any gold appear there, it isn't a matter of effort in this case. 
+
+Dating/meeting new people is mining for gold.
+```
+
 # Updated Script
 
 I'm trying to be realistic about what to expect from dating in general, and from dating apps in particular. I'd like to find someone who is alot like me, and then make a life with that person. But so far this has not happened, and as I get older I'm less and less confident that it will. 
@@ -42,6 +49,8 @@ That we are on this app implies neither of us really know how to do/be in a rela
 
 ### What I'm Looking For:
 At this point in my life I'm mainly looking for stability, someone I can trust/rely on. The kind of relationship I imagine myself in is one that is more practical/utilitarian than fun/romantic. 
+
+I want to get good at being with someone, this takes time. Constantly starting from zero work someone new is not what I'm looking to do. 
 
 - someone who is attractive but ALSO a good hang 🤙 (we can be friends/buddies/comrades), someone who I want to be around all/most of the time
 - someone who will play with me
