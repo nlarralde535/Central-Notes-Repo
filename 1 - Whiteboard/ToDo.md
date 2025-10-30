@@ -15,8 +15,9 @@
 ---
 
 # To Buy
-- [ ] Auto Zone transmission fluid 
-- [ ] 
+- [x] Daiso: phone holder
+- [ ] Daiso: whiteboard
+- [x] Daiso: baster (for coolant removal)
 - [ ] Michael's foam cushions for lining storage totes
 - [x] Lowe's 2" (smaller) roll of reflective sheet (living room sliding doors are 70.5in wide in total)
 - [ ] 
