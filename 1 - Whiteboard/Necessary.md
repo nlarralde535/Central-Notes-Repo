@@ -1,5 +1,8 @@
 
 Strava? Letterboxed?
+# Games to play together
+https://wordlecup.io/
+
 
 ## Gold Mine Metaphor
 ```
@@ -48,10 +51,9 @@ That we are on this app implies neither of us really know how to do/be in a rela
  - lack of long term goals/projects
 
 ### What I'm Looking For:
-At this point in my life I'm mainly looking for stability, someone I can trust/rely on. The kind of relationship I imagine myself in is one that is more practical/utilitarian than fun/romantic. 
+I'm looking for stability, someone I can trust and rely on, who makes life easier so we can grow and expand in the ways we each want. A relationship that is more practical/utilitarian than fun/romantic. 
 
-I am looking for a partner I can rely on, who makes like easier so we can each grow and expand in the ways we want. 
-
+I want to find someone I enjoy being around, and then I want to be around that person (almost) all the time.
 I want to get good at being with someone, this takes time. Constantly starting from zero work someone new is not what I'm looking to do. 
 
 - someone who is attractive but ALSO a good hang 🤙 (we can be friends/buddies/comrades), someone who I want to be around all/most of the time
