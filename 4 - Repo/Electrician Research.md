@@ -1,3 +1,10 @@
+---
+tags:
+  - Note/Plate/Electrical
+aliases:
+  - _template
+createdDate: 01-04-2026
+---
 ## [TEA Career and Technical Education, Electrical program of study info](https://tea.texas.gov/academics/college-career-and-military-prep/career-and-technical-education/cte-programs-of-study)
 
 Industry-Based Certifications

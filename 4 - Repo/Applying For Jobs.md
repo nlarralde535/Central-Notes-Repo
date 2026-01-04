@@ -1,7 +1,8 @@
 ---
 tags:
-  - Plates
   - Plates/Group/HaveToDo
+  - Plates/Plate
+  - Note/Plate/ApplyingForJobs
 aliases:
 createdDate: 01-03-2026
 ---

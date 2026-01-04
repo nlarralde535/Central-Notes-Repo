@@ -1,6 +1,6 @@
 ---
 tags:
-  - Plates/HaveToDo/WorkStuff
+  - Note/Plate/WorkStuff
 aliases:
 createdDate: 09-06-2025
 ---

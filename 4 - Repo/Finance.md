@@ -1,7 +1,8 @@
 ---
 tags:
-  - Plates
   - Plates/Group/WantToDo
+  - Plates/Plate
+  - Note/Plate/Finance
 aliases:
   - _template
 createdDate: 01-03-2026

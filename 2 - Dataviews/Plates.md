@@ -1,13 +1,19 @@
+# Top Level
+```dataview
+LIST
+FROM #Plates/Plate 
+```
+---
 # Have To Do
 ```dataview
 LIST
-FROM #Plates/HaveToDo and -"templates"
+FROM #Plates/Group/HaveToDo 
 ```
 
 ---
 # Want To Do
 ```dataview
 LIST
-FROM #Plates/WantToDo and -"templates"
+FROM #Plates/Group/WantToDo 
 ```
 

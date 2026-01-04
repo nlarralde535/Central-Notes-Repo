@@ -1,7 +1,8 @@
 ---
 tags:
-  - Plates
   - Plates/Group/HaveToDo
+  - Plates/Plate
+  - Note/Plate/AdminStuff
 aliases:
   - _template
 createdDate: 01-03-2026
@@ -13,6 +14,9 @@ Having systems for cleaning makes cleaning much easier to work into a regular ro
 
 ## Sources: 
 Default **AP**: 1 source
+Default ap: 4 x 15minute Pomodoro
+
+Cleaning
  -  Bathroom - toilet
  -  Bathroom - sink + tub
  -  Kitchen - surfaces
@@ -20,6 +24,8 @@ Default **AP**: 1 source
  -  Kitchen - appliances
  -  Carpet
 
+Cooking + Meal Prep
+ - Salt Sugar Acid Fat, ___
 ## Progression:
 Honestly I'm not sure how to progress through these things. Something that has emerged is having little spray bottles with cleaning solution set up at each of the Sources, and giving things a "wipe down" after every couple of uses, keeping things relatively clean in the way that we keep our sink/dishes perpetually clean. 
 
