@@ -8,13 +8,42 @@ Add a (.) after completing a set
 
 ---
 
-# Reading
+# Admin Stuff
+### Cleaning
+- [x] .
+- [ ] ..
+- [ ] ...
+- [ ] ....
+### Retirement
+- [x] .
+- [x] ..
+- [ ] ...
+- [ ] ....
 
-### Electrical 
-15 minute Pomodoros
+---
+
+# Work Stuff
+### NodeJS
 - [ ] .
 - [ ] ..
 - [ ] ...
+- [ ] ....
+
+### Test Process Improvement
+- [ ] .
+- [ ] ..
+- [ ] ...
+- [ ] ....
+
+---
+
+# Brain
+
+### Electrical 
+15 minute Pomodoros
+- [x] .
+- [x] ..
+- [x] ...
 - [ ] ....
 
 ### Economics
