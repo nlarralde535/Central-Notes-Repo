@@ -21,7 +21,7 @@ createdDate: "08-17-2025"
 - [ ] [[6th Movement]]
 ---
 # Steady State: 
-- [x] [[Overhead Squats]] + [[Dowel Rod Walkouts]]
-- [ ] [[Front Squats]] + [[Hangs]]
-- [ ] [[Kettlebell Swings]] + [[Kettlebell Snatches]] + [[Pushups]]
-- [ ] [[Cossacks]] + ___ 
+- [ ] [[Overhead Squats]] 
+- [ ] [[Front Squats]] 
+- [ ] [[Kettlebell Swings]] + [[Kettlebell Snatches]] 
+- [ ] [[Sandbag Carries]] 
