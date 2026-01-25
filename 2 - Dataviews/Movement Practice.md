@@ -5,6 +5,10 @@ aliases:
   - " "
 createdDate: "08-17-2025"
 ---
+# Movement Notes
+ - [[Movement Practice Organization]]
+ - [[Movement Practice Organization 2]]
+
 # Accessories
 - neck bridges
 - fingertip kneeling planks

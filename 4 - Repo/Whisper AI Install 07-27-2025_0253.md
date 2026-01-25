@@ -26,7 +26,20 @@ so we have to install
 3. follow the steps in the `README.rst`
 
 **NOTE:** 
-On our system, then we did this ^ python 3.12 was replaced with python 3.11, so we probably messed something up...
+On our system, then we did this ^ python 3.12 was replaced with python 3.11, so we probably messed something up... 
+```
+nic@Fred:~$ which python
+nic@Fred:~$ which python3
+/usr/local/bin/python3
+nic@Fred:~$ ls -l /usr/local/bin/python3
+lrwxrwxrwx 1 root root 10 Jul 19  2025 /usr/local/bin/python3 -> python3.11
+nic@Fred:~$ ls -H /usr/local/bin/python3
+/usr/local/bin/python3
+nic@Fred:~$ ls -l /usr/bin/python3
+lrwxrwxrwx 1 root root 10 Nov 12 06:15 /usr/bin/python3 -> python3.12
+nic@Fred:~$ ls -H /usr/bin/python3
+/usr/bin/python3
+```
 
 ### ( II ) Installing `pip`
 ```
@@ -58,6 +71,18 @@ nic@Fred:~$
 
 ### ( III ) Installing PyTorch
 1. follow the instructions [here](https://pytorch.org/get-started/locally/#linux-installation)
+Added a new directory to the PATH variable as per these instructions 
+```
+~/.bashrc
+==========
+
+# Adding this directory to PATH
+# as suggested by PyTorch install
+# output
+#
+# https://pytorch.org/get-started/locally/#linux-installation
+export PATH="/home/nic/.local/bin:$PATH"
+```
 
 ### ( IV ) Installing Tiktoken
 1. follow the steps [here](https://github.com/openai/tiktoken/blob/main/README.md)
