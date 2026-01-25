@@ -4,9 +4,9 @@ name: Fred
 
 # Controls when the workflow will run
 on:
-  # Triggers the workflow on push or pull request events but only for the "new_master" branch
+  # Triggers the workflow on push or pull request events
   push:
-    branches: [ "new_master" ]
+    branches: [ "new_master", "workflow-tinkering" ]
   pull_request:
     branches: [ "new_master" ]
 
