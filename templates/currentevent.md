@@ -5,7 +5,7 @@ aliases:
   - _template
 createdDate: "{{date}}"
 ---
-{{date}}\_{{time}}
+{{date}}-{{time}}
 
 DESCRIPTION 
 
