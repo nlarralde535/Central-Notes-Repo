@@ -20,7 +20,7 @@ jobs:
         uses: actions/checkout@v4
       - run: |
           touch temp
-          git log -1 --name-only | grep timeline_entries | wc -l > temp
+          git log -1 --name-only  > temp
           cat temp
           NUMBER_OF_NEW_ENTRIES=$(git log -1 --name-only | grep 'timeline_entries/' | wc -l)
           echo "NUMBER_OF_NEW_ENTRIES=$NUMBER_OF_NEW_ENTRIES" >> "$GITHUB_ENV"
