@@ -18,6 +18,10 @@ jobs:
     steps:
       - name: Check
         uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            timeline_entries/*
+          sparse-checkout-cone-mode: false
       - run: |
           touch temp
           git log -1 --name-only  > temp
