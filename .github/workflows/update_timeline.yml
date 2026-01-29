@@ -11,9 +11,6 @@ on:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
-env:
-  NUMBER_OF_NEW_ENTRIES: 0 
-
 jobs:
   checkfortimelineentries:
     name: Check for new entries in timeline_entries/, abort workflow if none
@@ -21,24 +18,23 @@ jobs:
     steps:
       - name: git log -1 --name-only | grep timeline_entriess | wc -l
         uses: actions/checkout@v4
-        run: |
+      - run: |
           temp=$(git log -1 --name-only | grep timeline_entriess | wc -l)
-          ${{ env.NUMBER_OF_NEW_ENTRIES }}=$temp
-          echo 'Number of new entries: ${{ env.NUMBER_OF_NEW_ENTRIES }}'
+          echo "NUMBER_OF_NEW_ENTRIES=$temp" >> "$GITHUB_ENV"
+          echo "Number of new entries: $NUMBER_OF_NEW_ENTRIES"
 
 
   buildtimeline:
-    if: ${{ env.NUMBER_OF_NEW_ENTRIES  > 0 }}
+    if: ${{ github.env.NUMBER_OF_NEW_ENTRIES > 0 }}
     runs-on: ubuntu-latest
     steps:
-      - name: Check out the repository to the runner
+      - name: Checkout the new commit
         uses: actions/checkout@v4
-        uses: actions/setup-python@v6
-          with:
-            python-version: '3.11'
-
       - name: Run the timeline.py script to build a new timeline.html
-        run: |
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.13' 
+      - run: |
           echo "running timeline script..."
           echo 'python ./timeline.py'
           echo "...script completed"
