@@ -21,10 +21,12 @@ jobs:
         with:
           fetch-depth: 2
       - run: |
+          echo "# git log --oneline:"
+          git log --oneline
+          echo "# git diff HEAD^ --name-only | grep 'timeline_entries/' | wc -l"
           touch temp
-          git diff HEAD^ --name-only  > temp
-          cat temp
-          NUMBER_OF_NEW_ENTRIES=$(git diff HEAD^ --name-only | grep 'timeline_entries/' | wc -l)
+          git diff HEAD^ --name-only > temp
+          NUMBER_OF_NEW_ENTRIES=$(cat temp | grep 'timeline_entries/' | wc -l)
           echo "NUMBER_OF_NEW_ENTRIES=$NUMBER_OF_NEW_ENTRIES" >> "$GITHUB_ENV"
           echo "Number of new entries: [$NUMBER_OF_NEW_ENTRIES]"
 
