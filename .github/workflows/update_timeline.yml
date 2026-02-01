@@ -16,7 +16,7 @@ jobs:
     name: Check for new entries in timeline_entries/, abort workflow if none
     runs-on: ubuntu-latest
     outputs: 
-    numberOfNewEntries: ${{ steps.checkForNewEntries.outputs.newEntries }}
+      numberOfNewEntries: ${{ steps.checkForNewEntries.outputs.newEntries }}
     steps:
       - name: Check
         uses: actions/checkout@v4
