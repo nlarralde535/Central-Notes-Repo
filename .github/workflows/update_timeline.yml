@@ -18,11 +18,12 @@ jobs:
     outputs: 
       newEntries: ${{ steps.checking.outputs.entries }}
     steps:
-      - name: Check
+      - name: Checkout the repo with fetch-depth = 2
         uses: actions/checkout@v4
         with:
           fetch-depth: 2
-      - id: checking      
+      - name: Extract the number of new ./timeline_entries/ files in HEAD commit
+        id: checking      
         run: |
           echo "# git log -1 --oneline --name-status"
           git log -1 --oneline --name-status
@@ -37,13 +38,15 @@ jobs:
     steps:
       - name: Checkout the new commit
         uses: actions/checkout@v4
-      - name: Run the timeline.py script to build a new timeline.html
+      - name: Set up python on the runner
         uses: actions/setup-python@v6
         with:
           python-version: '3.13' 
-      - run: |
-          echo "running timeline script..."
+      - name: Run the timeline.py script to build a new timeline.html
+        run: |
           echo "Python version: [$(python --version)]"
+          echo "Running timeline script..."
+          python timeline.py
           echo "...script completed"
           echo "# stat ./timeline.html"
           stat ./timeline.html
@@ -63,5 +66,3 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-
-

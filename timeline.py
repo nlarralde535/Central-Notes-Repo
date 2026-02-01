@@ -14,15 +14,15 @@ def format_entries(entries):
 
 out = Path("timeline.html")
 
-path = "./entries/"
+path = "./timeline_entries/"
 
 rows = []
 arr_dates = []
 dict_dates = {}
-for path in sorted(Path(path).iterdir()):
+for path in sorted(Path(path).iterdir(), reverse=True):
     if path.is_file():
         with path.open(errors="ignore") as f:
-            s = f.read(100)
+            s = f.read(200)
             more = "..." if f.read(1) else ""
         yyyy_mm_dd = Path(path.name).stem
         yyyy_mm = yyyy_mm_dd[:7]
