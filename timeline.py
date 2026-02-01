@@ -12,7 +12,7 @@ def format_entries(entries):
     result += "</table>"
     return result
 
-out = Path("timeline.html")
+out = Path("./pages/timeline.html")
 
 path = "./timeline_entries/"
 
