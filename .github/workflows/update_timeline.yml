@@ -48,8 +48,8 @@ jobs:
           echo "Running timeline script..."
           python timeline.py
           echo "...script completed"
-          echo "# stat ./timeline.html"
-          stat ./timeline.html
+          echo "# stat ./pages/timeline.html"
+          stat ./pages/timeline.html
       - name: Upload static Pages file timeline.html as artifact
         # DOC: https://github.com/marketplace/actions/upload-github-pages-artifact
         id: deployment
