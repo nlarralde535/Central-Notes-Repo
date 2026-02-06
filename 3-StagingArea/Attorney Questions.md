@@ -6,8 +6,13 @@
 
 ### Would studying criminal justice at the community college level be useful for this ^ ?
 
+Public meeting in Kingwood
+ - http://kingwoodassociationmanagement.com/kingwoodmgt/document_view.asp?id=15
+
 ---
 What are the rules/laws around carrying signage in public? Where am I freely allowed to carry a sign? What does "in public" mean?
+ - see City of Houston section of this document for info on public right-of-way
+ - http://kingwoodassociationmanagement.com/kingwoodmgt/document_view.asp?id=15
 
 What are my rights to bear arms in public?
 
