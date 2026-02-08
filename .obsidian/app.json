@@ -1,0 +1,39 @@
+{
+  "livePreview": true,
+  "propertiesInDocument": "visible",
+  "foldHeading": false,
+  "foldIndent": false,
+  "showLineNumber": true,
+  "autoPairBrackets": false,
+  "autoPairMarkdown": false,
+  "useTab": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "3-StagingArea",
+  "attachmentFolderPath": "5-Assets/Attachments",
+  "userIgnoreFilters": [
+    "templates/"
+  ],
+  "mobileToolbarCommands": [
+    "command-palette:open",
+    "editor:undo",
+    "editor:toggle-bold",
+    "editor:toggle-bullet-list",
+    "editor:toggle-checklist-status",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:insert-link",
+    "editor:toggle-numbered-list",
+    "editor:set-heading",
+    "editor:insert-wikilink",
+    "editor:attach-file",
+    "editor:toggle-italics",
+    "editor:toggle-strikethrough",
+    "editor:toggle-highlight",
+    "editor:toggle-code",
+    "editor:toggle-blockquote",
+    "editor:redo",
+    "editor:configure-toolbar"
+  ],
+  "readableLineLength": false,
+  "promptDelete": false
+}
