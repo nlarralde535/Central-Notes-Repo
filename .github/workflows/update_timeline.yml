@@ -13,7 +13,7 @@ on:
 
 jobs:
   check:
-    name: Check for new entries in timeline_entries/, abort workflow if none
+    name: Check for new entries in timeline/timeline_entries/
     runs-on: ubuntu-latest
     outputs: 
       newEntries: ${{ steps.checking.outputs.entries }}
@@ -46,17 +46,21 @@ jobs:
         run: |
           echo "Python version: [$(python --version)]"
           echo "Running timeline script..."
-          python timeline.py
+          python timeline/timeline.py
           echo "...script completed"
-          echo "# stat ./pages/timeline.html"
-          stat ./pages/timeline.html
-      - name: Upload static Pages file timeline.html as artifact
+          echo "# stat ./timeline/pages/index.html"
+          stat ./timeline/pages/index.html
+      - name: Upload static Pages file index.html as artifact
         # DOC: https://github.com/marketplace/actions/upload-github-pages-artifact
         id: deployment
         uses: actions/upload-pages-artifact@v3 # or specific "vX.X.X" version tag for this action
         with:
-          path: ./pages
+          path: ./timeline/pages
   deploy:
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}

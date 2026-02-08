@@ -12,9 +12,9 @@ def format_entries(entries):
     result += "</table>"
     return result
 
-out = Path("./pages/timeline.html")
+out = Path("./timeline/pages/index.html")
 
-path = "./timeline_entries/"
+path = "./timeline/timeline_entries/"
 
 rows = []
 arr_dates = []
