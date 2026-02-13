@@ -57,4 +57,13 @@ Note_6: ELECTRIC FIELD
 Take the case of two positively-charged bodies A and B, the force each experts on the other is a repulsive force. "A more fruitful way to imagine the repulsion between A and B is as a two-step process." 
  1. First imagine that A, as a result of the NET POSITIVE charge that it carries, *somehow modifies the properties of the space around it*
  2. Second, body B, due to its own NET POSITIVE charge,  senses how the space at the position that it occupies relative to A has been modified by A
-This ^ two-step process results in B feeling the repulsive force. "We take the point of view that this force is exerted BY the field AT the point in space where B sits."
+This ^ two-step process results in B feeling the repulsive force. "We take the point of view that this force is exerted BY the field AT the point in space where B sits. **The electric force on a charger body is exerted by the electric field created by other charged bodies**"
+
+A charged body CANNOT exert an electric charge on itself. "To find out experimentally whether there is an electric field at a given point in space, we place a charged body called a **test charge** at the point. If the test charge experiences an electric force then there is an electric field at that point."
+
+DEFINITION: the electric field $\vec{E}$  at a point in space $(x_0, y_0, z_0)$ occupied by a test charge $q_0$ IS DEFINED AS the electric force $\vec{F_0}$ experienced by the test charge at that point in space. "That is, the electric field at a certain point is equal to the *electric force per unit charge* experienced by a charge at that point." $$\vec{E} = \frac{\vec{F_0}}{q_0}$$
+![[direction-of-electric-force-relative-to-elec-field.svg#center]]
+
+"If $q_0$ is POSITIVE, the force $\vec{F_0}$ experienced by the test charge is in the SAME DIRECTION as $\vec{E}$ " If $q_0$ is NEGATIVE, the force $\vec{F_0}$ experienced by the test charge is in the OPPOSITE DIRECTION as $\vec{E}$ "
+This ^ is because, as we will see, electric field lines radiate OUT from POSITIVELY CHARGED bodies, and radiate IN towards NEGATIVELY CHARGED bodies. And so in the figure above, it is a POSITIVELY CHARGED body that is producing the electric field which acts on the test charges.
+
