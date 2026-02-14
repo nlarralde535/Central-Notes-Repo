@@ -1,6 +1,7 @@
 ---
 tags:
   - currentevent
+  - Note/CurrentEvents
 aliases:
   - _template
 createdDate: "{{date}}"

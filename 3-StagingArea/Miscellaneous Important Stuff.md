@@ -1,0 +1,19 @@
+---
+tags:
+  - Note
+aliases:
+  - _template
+createdDate: 2026-02-14
+---
+## Cut off the Spigot 
+https://cutoffthespigot.substack.com/
+"My goal is to find alternatives to corporations that only care about enriching their shareholders and executive suite, and care nothing for the actual product or experience they create. Companies like Amazon do not want you to love their products or service, they want you to feel like there’s no other choice so you keep coming back.
+Reducing your dependence on these corporations is an act of defiance, a push back against what the oligarchs see as the inevitable - they own everything and we just pay for what little space we can afford."
+
+## Urban Harvest
+https://www.urbanharvest.org/gardens/affiliate-gardens/
+"Urban Harvest’s Affiliate Garden community includes one of the largest networks of edible gardens in the country. Our organization teaches people how to start and maintain a community garden; provides volunteers, materials, and seasonal plants; and offers ongoing training, education, and expertise on community engagement, gardening skills, and healthy eating to affiliate gardens."
+
+## Open Source Ecology
+https://www.opensourceecology.org/
+"An open source, libre economy is an efficient economy which increases innovation by open collaboration. To get there, OSE is currently developing a set of open source blueprints for the Global Village Construction Set (GVCS) – a set of the 50 most important machines that it takes for modern life to exist – everything from a tractor, to an oven, to a circuit maker. In the process of creating the GVCS, OSE intends to develop a modular, scalable platform for documenting and developing open source, libre hardware – including blueprints for both physical artifacts and for related open enterprises."
