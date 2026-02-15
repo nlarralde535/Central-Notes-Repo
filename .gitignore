@@ -1,8 +1,8 @@
 .trash/**
-.obsidian/app.json
-.obsidian/appearance.json
-.obsidian/workspace-mobile.json
-.obsidian/workspace.json
+.obsidian/*
+!.obsidian/snippets
+.obsidian/snippets/*
+!.obsidian/snippets/align-images-nic.css
 1-Whiteboard/DAILY_STUFF.md
 1-Whiteboard/Necessary.md
 1-Whiteboard/ToDo.md
