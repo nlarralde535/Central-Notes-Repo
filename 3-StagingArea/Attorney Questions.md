@@ -29,7 +29,7 @@ Public meeting in Kingwood
 
 ## 5. I'm going to be antagonizing people, and it's reasonable to assume that some of them will want to fight me. What do I need to know regard self defense laws? 
 
-# Flowchart:
+# Flowchart :
 This is a diagram outlining how I imagine my interactions with my neighbors might go
 
 ```mermaid
