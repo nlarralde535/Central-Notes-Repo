@@ -44,3 +44,9 @@ So far, the topics that have been introduced are
  4. Electric field lines  (Ch 22)
  5. Electric flux  $\Phi_E$  (Ch 23)
  6. Gauss's Law  (Ch 22)
+
+--- 
+Note_6: EXCESS CHARGE ON A CONDUCTOR 
+Under ELECTROSTATIC conditions: "*When excess charge is placed on a solid conductor, and that charge is at rest, that excess charge resides entirely on the surface, NOT in the interior of the material.*"
+
+We know from [[Electrical Theory Ch 22]] Note_8 that in an electrostatic situation,  $\vec{E}=0$  at every point within the material of a conductor. Suppose we construct a Gaussian Surface within the material of the conductor, just below it's exterior surface. Because  $\vec{E}=0$  everywhere on this surface, Gauss's Law requires that the total net charge contained within this surface be ZERO. imagine collapsing this Gaussian Surface down towards the center of the conductor: at every interval it is still the case that  $\vec{E}=0$ everywhere on the surface, all the way down to the point where the surface is collapsed down to a single point. CONCLUSION: *there can be NO excess charge at any point within a solid conductor; ANY excess charge must reside on the conductor's surface.*

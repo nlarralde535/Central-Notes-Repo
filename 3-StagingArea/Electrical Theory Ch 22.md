@@ -79,3 +79,7 @@ Note_7: ELECTRIC FIELD LINES
 "An **electric field line** is an imaginary line or curve drawn through a region of space so that it's TANGENT at any point along the curve is in the direction of the electric field at that point. ... A field line is NOT a curve of constant electric field magnitude: in general, the magnitude of the electric field is different at different points along a given field line. ... $\vec{E}$ has only one unique direction at every point in space, and therefore electric field lines do NOT intersect."
 
 "Electric field lines show the direction of $\vec{E}$ at each point in space, NOT the magnitude of $\vec{E}$ ; rather, it is the relative spacing of electric field lines that gives a general idea of the magnitude of $\vec{E}$ at each point: where $\vec{E}$ is strong we draw field lines bunched closer together, where $\vec{E}$ is weaker we draw them spaced farther apart."
+
+---
+Note_8: IN A CONDUCTOR  $\vec{E}=0$  EVERYWHERE
+Proof by contradiction: "If there is an electric field within a conductor, that field will exert a force on EVERY charge within the material of the conductor, giving any free charges a NET MOTION. However, by definition, an ELECTROSTATIC situation is one in which the charges have NO NET MOTION. Therefore, *in electrostatics, the electric field at every point within the material of a conductor must be ZERO*"
