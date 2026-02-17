@@ -25,7 +25,13 @@ I believe Americans should be made to feel the real-world consequences of their 
 
 I believe the average American should pay far more attention to the policies and actions of their government both at home and abroad. 
 
+I believe I do not have all of the answers to the question "how should a society govern itself". 
+
+I believe I have a good set of tools for assessing/analyzing suggested answers to the question "how should a society govern itself". 
+
 ---
+
+I want input from my fellow Americans in regards to answering the question "how should a society govern itself?", since I can't answer that question all by myself .
 
 I want to challenge the confidence with which the average American holds their political beliefs. 
 
