@@ -2,6 +2,7 @@
 tags:
   - Essay
   - Essay/GazaIsntUnique
+  - Essay/todo
 aliases:
   - _template
 createdDate: 09-11-2025

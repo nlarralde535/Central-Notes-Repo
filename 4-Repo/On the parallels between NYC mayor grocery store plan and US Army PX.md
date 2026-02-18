@@ -1,6 +1,7 @@
 ---
 tags:
   - Essay/NYCgroceryStoresVsArmyPX
+  - Essay/todo
 aliases:
   - _template
 createdDate: 2026-02-14

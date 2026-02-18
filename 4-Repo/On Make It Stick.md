@@ -2,6 +2,7 @@
 tags:
   - Essay
   - Essay/MakeItStick
+  - Essay/done
 aliases:
   - _template
 createdDate: 10-16-2025

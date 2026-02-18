@@ -1,6 +1,7 @@
 ---
 tags:
   - Note
+  - Note/WhatToDo
 aliases:
 createdDate: 2026-02-01
 ---

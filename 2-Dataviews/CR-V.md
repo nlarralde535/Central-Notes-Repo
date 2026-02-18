@@ -11,6 +11,7 @@ FROM #CR-V/ServiceManuals
 ```dataview
 LIST
 FROM #VehicleMaintenance/HowTo 
+SORT createdDate DESCENDING
 ```
 ---
 # Oil
@@ -29,4 +30,5 @@ FROM #CR-V/RegularMaintenance/Transmission
 ```dataview
 LIST
 FROM #CR-V/Issues 
+SORT createdDate DESCENDING
 ```

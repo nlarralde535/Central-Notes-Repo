@@ -2,6 +2,7 @@
 tags:
   - Essay
   - Essay/AtomicHabits
+  - Essay/done
 aliases:
 createdDate: 10-13-2025
 ---

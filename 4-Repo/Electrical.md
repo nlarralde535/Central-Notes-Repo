@@ -27,3 +27,11 @@ Default **ap**: 4x15min Pomodoro
 
 ## In-focus Source: 
 
+
+# Electrical Theory notes: 
+```dataview
+LIST
+FROM #ElectricalTheory and -#ElectricalTheory/template
+SORT createdDate DESCENDING 
+```
+
