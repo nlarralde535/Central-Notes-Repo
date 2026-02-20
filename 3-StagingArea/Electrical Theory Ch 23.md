@@ -50,3 +50,10 @@ Note_6: EXCESS CHARGE ON A CONDUCTOR
 Under ELECTROSTATIC conditions: "*When excess charge is placed on a solid conductor, and that charge is at rest, that excess charge resides entirely on the surface, NOT in the interior of the material.*"
 
 We know from [[Electrical Theory Ch 22]] Note_8 that in an electrostatic situation,  $\vec{E}=0$  at every point within the material of a conductor. Suppose we construct a Gaussian Surface within the material of the conductor, just below it's exterior surface. Because  $\vec{E}=0$  everywhere on this surface, Gauss's Law requires that the total net charge contained within this surface be ZERO. imagine collapsing this Gaussian Surface down towards the center of the conductor: at every interval it is still the case that  $\vec{E}=0$ everywhere on the surface, all the way down to the point where the surface is collapsed down to a single point. CONCLUSION: *there can be NO excess charge at any point within a solid conductor; ANY excess charge must reside on the conductor's surface.*
+![[electric-charge-on-a-solid-conductor.png#center|300]]
+
+IF the solid conductor has a cavity somewhere within it, AND there is NO CHARGE within that cavity, then the net charge ON THE SURFACE OF THE CAVITY must be ZERO, because the net charge still resides on the outer surface of the conductor.
+![[electric-charge-on-a-solid-conductor-with-cavity.png#center|300]]
+IF a charge  $q$  is placed inside the cavity, THEN there will be a charge  $-q$  distributed across the surface cavity. And since the TOTAL CHARGE on the conductor must remain ZERO, since no charge has been added/removed in any of these scenarios, a charge equal to  $q$  must now appear on the outer surface. 
+![[electric-charge-on-a-solid-conductor-with-cavity-containing-a-charge.png#center|300]]
+If the originally had charge  $q_c$  , then the total charge on the outer surface must be  $q_c + q$  once charge  $q$  is inserted into the cavity. 
