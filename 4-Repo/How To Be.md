@@ -11,6 +11,13 @@ createdDate: 2026-02-15
 # Question!
 Ask as many "Why?"s as possible. 
 
+# Acknowledge your limitations 
+Say "I don't know" when you don't know something. 
+
+# Admit when you're wrong
+ - remain capable of being convinced 
+ - acknowledge good/valid points from others
+
 # Nothing is Black & White
  This ^ means some things ARE black & white. Embrace nuance.
 # Show Your Work

@@ -54,3 +54,13 @@ Regardless of the polarity of a test charge, the electric potential energy of th
 You "load the spring" by moving the test charge in the opposite direction as the electric force is pulling it. 
 
 **CAUTION**: the electric force acting on a test charge DOES NOT necessarily point in the same direction as the ELECTRIC FIELD the test charge is within. 
+
+![[electric_potential_orientation_for_point_charges.png#center|300]]
+
+---
+
+Note_7: ELECTRIC POTENTIAL $V$ 
+Electric potential is DEFINED as *potential energy per unit charge* $$V = \frac{U}{q_0} = \frac{1}{q_0}\frac{qq_0}{4\pi\epsilon_0r} = \frac{q}{4\pi\epsilon_0r}$$
+Here ^ we are pretending that the test charge is a UNIT CHARGE  ($q_0 = 1$ )
+
+This ^ definition comes from dividing the equation for the work done by a conservative force  ($W_{a \rightarrow{} b} = -\Delta U$)  by the value of the test charge  $q_0$. 
