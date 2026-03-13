@@ -11,6 +11,68 @@ Gold mine metaphor goes like this: when mining for gold you pick a spot where yo
 Dating/meeting new people is mining for gold.
 ```
 
+# Get to the point...
+
+ I am curious to get to know you a bit, and to share with you things about myself that I think are important. I'm a texter 📱 so I don't mind chatting here in the app for a while. But if you'd rather talk on the phone I'm open to doing so.
+
+# Questions
+
+### On Relationships ___ ___ ___ ___ ___ 
+What is your relationship philosophy? What does a good relationship look like to you?
+
+How do you show interest, or how do you demonstrate that you care about someone?
+
+What kinds of behaviours demonstrate to you that someone is interested in you or cares about you? 
+
+What are some of your most important boundaries?
+what are some of red flags you look for?
+
+How do you feel about cohabitation?
+
+How do you feel about parallel-play or body doubling?
+
+### On them as an individual 
+In what ways are you working on yourself?
+
+When is the last time you admitted you were wrong?
+
+Do you enjoy being active/physical activities? (will you play with me?) 
+
+What is occupying your attention these days?
+
+Do you try to keep up with current events?
+
+(IG) If you were in a room full of everyone you've ever met, who would you look for first?
+
+(IG) Given a box of everything you ever lost, what's the 1st thing you'd look for?
+
+(IG) Suppose I were to do/say something you didn't like, how would you handle that?
+
+# What I'm Looking For:
+
+I'm looking for stability, someone I can trust and rely on, who makes life easier so we can grow and expand in the ways we each want. A relationship that is more practical/utilitarian than fun/romantic. 
+
+I want to find someone I enjoy being around, and then I want to be around that person (almost) all the time.
+I want to get good at being with someone, this takes time. Constantly starting from zero work someone new is not what I'm looking to do. 
+
+- someone who is attractive but ALSO a good hang 🤙 (we can be friends/buddies/comrades), someone who I want to be around all/most of the time
+- someone who will play with me
+- someone to talk about the problems of the world with
+- someone to make and execute big plans with 
+- someone who is very smart
+- someone with personal goals/projects they are focused on
+- someone to laugh with
+- a reliable + trustworthy partner
+ - a positive role model
+ - someone who is forward-looking, a planner 
+ - someone with whom I'm comfortable being alone 
+ - a partner who will give me grace when I make mistakes
+ - 
+
+
+---
+---
+
 # Updated Script
 
 I'm trying to be realistic about what to expect from dating in general, and from dating apps in particular. I'd like to find someone who is alot like me, and then make a life with that person. But so far this has not happened, and as I get older I'm less and less confident that it will. 
