@@ -34,7 +34,11 @@ How do you feel about parallel-play or body doubling?
 ### On them as an individual 
 In what ways are you working on yourself?
 
-When is the last time you admitted you were wrong?
+What is your attitude towards having fun?
+
+What is your attitude towards happiness? 
+
+When is the last time you were wrong about something? When is the last time you admitted you were wrong?
 
 Do you enjoy being active/physical activities? (will you play with me?) 
 
@@ -48,6 +52,13 @@ Do you try to keep up with current events?
 
 (IG) Suppose I were to do/say something you didn't like, how would you handle that?
 
+### About me: 
+
+I'm into athletic nerds. In general I'm more interested in/attracted to how you think than how you look. Physically, I'm more interested in/attracted to how you move than how you look/dress. 
+
+I'm curious to see whether we are able to do one of two things together: (ideally both...)
+ - support each other in our work on our own separate projects 
+ - work together on some common project
 # What I'm Looking For:
 
 I'm looking for stability, someone I can trust and rely on, who makes life easier so we can grow and expand in the ways we each want. A relationship that is more practical/utilitarian than fun/romantic. 
@@ -228,7 +239,6 @@ And I don't have a plan for how any of this should go, I don't know how to go fr
 
 
 - I am a planner, I like having some idea of what's going to happen. I think (maybe overthink) things through before I act. But I don't seek to control everything at all times; 
-- 
 - 
 - I prioritize focusing on the boring/mundane/administrative aspects of life. It's often hard for me to relax unless I know the bills are paid, and my vehicles are in reliable working order, and all responsibilities are accounted for. 
 - 

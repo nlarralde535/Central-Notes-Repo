@@ -38,3 +38,8 @@ Treat serious matters seriously: no joking, no sarcasm.
 Make people explain themselves as much as possible. Do not make their arguments for them: make them articulate their own thoughts. 
 
 # Say what you mean, mean what you say
+
+# Emotions are inevitable, acknowledge them
+
+# Learning is not linear
+Learning is characterized by long periods of frustrating grind punctuated by Aha! moments. You must have a well-defined learning system and clear learning objectives in order to keep your spirits up through the periods of frustrating grind, when you're in between Aha! moments.
