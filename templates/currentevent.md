@@ -11,6 +11,6 @@ createdDate: "{{date}}"
 ++DESCRIPTION++
 
 ++REFERENCES++
-Link Title: link URL
+
 
 {{date}}-{{time}}
