@@ -31,6 +31,8 @@ How do you feel about cohabitation?
 
 How do you feel about parallel-play or body doubling?
 
+I'm curious to know what red flags you perceive about me, or know things you don't like about me. 
+
 ### On them as an individual 
 In what ways are you working on yourself?
 
@@ -79,7 +81,11 @@ I want to get good at being with someone, this takes time. Constantly starting f
  - someone with whom I'm comfortable being alone 
  - a partner who will give me grace when I make mistakes
  - 
+# My Ideal Relationship 
 
+A relationship characterized by mutual support and understanding, where we are able to switch between goofing around and getting things done. A relationship where we alternative between parallel play/body doubling while we each work on our own separate projects, and coming together to work on shared projects.
+
+So parallel play is a type of play observed in young children, it's when they share space while playing with different/separate toys, both in the same space but each one focused on their own thing. And body doubling is an ADHD therapy/treatment thing where the presence of another person (the body double) helps one focus on whatever task they are working on.
 
 ---
 ---
