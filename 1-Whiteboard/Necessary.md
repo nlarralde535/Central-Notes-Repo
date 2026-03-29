@@ -11,6 +11,12 @@ Gold mine metaphor goes like this: when mining for gold you pick a spot where yo
 Dating/meeting new people is mining for gold.
 ```
 
+# Relationship Spectrum 
+```
+Imagine relationships existing on a spectrum, where on one end is the absolute worst relationship you could be in, and on the other end is the absolute best/ideal/dream relationship. 
+
+I believe there is a range of relationships somewhere below the absolute best/ideal/dream relationship which, even though they are not the absolute best relationship, they are still worth pursuing and investing time into. These are the kinds of relationships I'm looking for.
+```
 # Get to the point...
 
  I am curious to get to know you a bit, and to share with you things about myself that I think are important. I'm a texter 📱 so I don't mind chatting here in the app for a while. But if you'd rather talk on the phone I'm open to doing so.
@@ -32,6 +38,8 @@ How do you feel about cohabitation?
 How do you feel about parallel-play or body doubling?
 
 I'm curious to know what red flags you perceive about me, or know things you don't like about me. 
+
+What are some of your favorite fictional characters?
 
 ### On them as an individual 
 In what ways are you working on yourself?
@@ -61,6 +69,8 @@ I'm into athletic nerds. In general I'm more interested in/attracted to how you 
 I'm curious to see whether we are able to do one of two things together: (ideally both...)
  - support each other in our work on our own separate projects 
  - work together on some common project
+
+I transition between tasks pretty quickly, and it can be jarring to people, so I try to go with the flow when I'm around others. But I would love to meet someone who understands this characteristic of mine and is ok with it.
 # What I'm Looking For:
 
 I'm looking for stability, someone I can trust and rely on, who makes life easier so we can grow and expand in the ways we each want. A relationship that is more practical/utilitarian than fun/romantic. 
