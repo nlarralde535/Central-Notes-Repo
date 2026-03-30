@@ -34,7 +34,9 @@ Practice the basics, then practice doing the basics perfectly. Spend time focusi
 # Be Serious
 Treat serious matters seriously: no joking, no sarcasm.
 
-# "Can you be more specific?"
+# Ask probing open-ended questions 
+ - "Can you be more specific?"
+ - "Who benefits from your proposed idea? Who suffers? Who is not impacted at all?"
 Make people explain themselves as much as possible. Do not make their arguments for them: make them articulate their own thoughts. 
 
 # Say what you mean, mean what you say
