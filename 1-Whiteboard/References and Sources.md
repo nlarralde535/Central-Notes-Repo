@@ -9,6 +9,10 @@ Steve Keen
 
 # Politics
 
+# Military
+Theodor Pistol
+Scott Ritter 
+
 
 
 # Tech 
