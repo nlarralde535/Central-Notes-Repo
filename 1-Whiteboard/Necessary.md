@@ -19,11 +19,14 @@ I believe there is a range of relationships somewhere below the absolute best/id
 ```
 # Get to the point...
 
- I am curious to get to know you a bit, and to share with you things about myself that I think are important. I'm a texter 📱 so I don't mind chatting here in the app for a while. But if you'd rather talk on the phone I'm open to doing so.
+ I am curious to get to know you a bit, and to share with you things about myself that I think are important, to share some stories and hopefully some laughs. I'm a texter 📱 so I don't mind chatting here in the app for a while. But if you'd rather talk on the phone I'm open to doing so.
 
 # Questions
 
-### On Relationships ___ ___ ___ ___ ___ 
+### On Relationships ___ ___ ___ 
+
+Do you believe you're in a position to invest time into a serious relationship?
+
 What is your relationship philosophy? What does a good relationship look like to you?
 
 How do you show interest, or how do you demonstrate that you care about someone?
@@ -41,7 +44,9 @@ I'm curious to know what red flags you perceive about me, or know things you don
 
 What are some of your favorite fictional characters?
 
-### On them as an individual 
+### On them as an individual
+What's on your mind these days?
+
 In what ways are you working on yourself?
 
 What is your attitude towards having fun?
