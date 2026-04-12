@@ -45,6 +45,9 @@ I'm curious to know what red flags you perceive about me, or know things you don
 What are some of your favorite fictional characters?
 
 ### On them as an individual
+
+What does an honest apology look like to you? When someone hurts or offends you, what do you need from them in order to forgive them?
+
 What's on your mind these days?
 
 In what ways are you working on yourself?
@@ -68,6 +71,8 @@ Do you try to keep up with current events?
 (IG) Suppose I were to do/say something you didn't like, how would you handle that?
 
 ### About me: 
+
+I like you, I'm on your side, I'm on your team. This means I'm never going to do anything to deliberately hurt or offend you. If I do hurt or offend you please know that was not my intention and I am truly sorry. 
 
 I'm into athletic nerds. In general I'm more interested in/attracted to how you think than how you look. Physically, I'm more interested in/attracted to how you move than how you look/dress. 
 
@@ -252,7 +257,7 @@ I am a planner, I like having some idea of what's going to happen. I think (mayb
 
 I prioritize focusing on the boring/mundane/administrative aspects of life. It's often hard for me to relax unless I know the bills are paid, and my vehicles are in reliable working order, and all responsibilities are accounted for. 
 
-I'm not really big on traditional forms of "fun". Or rather, I don't make having fun a priority. I like struggling/learning/grinding through difficult things, and am hoping to find someone to do that kind of thing with. The easy stuff is easy to do, my focus is on doing the hard stuff. 
+I'm not really big on traditional forms of "fun" or entertainment. Or rather, I don't make having fun/entertainment a priority. I like struggling/learning/grinding through difficult things, and am hoping to find someone to do that kind of thing with. The easy stuff is easy to do, my focus is on doing the hard stuff. 
 
 And I don't have a plan for how any of this should go, I don't know how to go from zero to something with a total stranger, I'm hoping we'll figure that out together.
 

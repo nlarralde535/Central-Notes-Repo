@@ -15,3 +15,12 @@ It occured to us while reading this ^ that a useful system for designing a set o
  - determine as many final/terminal states as makes sense
  - elaborate as many paths between the set of initial states and the set of final/terminal states as makes sense
  - write path tests for each of these ^ paths
+
+# Chapter 5: Automated Testing
+Pg 106 & 113: **Task Libraries**
+"Analyze use cases into constituent tasks. Each tasks should be conceptually distinct. Creating library functions for these tasks can be used in your test scripts. "
+
+Task Libraries as an abstraction for specific test case procedures follow/build upon the pattern that Playwright Fixtures establish for setup/tear down of test state. 
+
+Following the above system outline, another step can be added to improve the maintainability of the test suite: 
+ - factor-out common test procedures into task library scripts for reuse across multiple tests

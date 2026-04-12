@@ -45,3 +45,5 @@ Make people explain themselves as much as possible. Do not make their arguments 
 
 # Learning is not linear
 Learning is characterized by long periods of frustrating grind punctuated by Aha! moments. You must have a well-defined learning system and clear learning objectives in order to keep your spirits up through the periods of frustrating grind, when you're in between Aha! moments.
+
+# You can't track what you don't measure
