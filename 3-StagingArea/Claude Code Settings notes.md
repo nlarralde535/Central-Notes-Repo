@@ -9,6 +9,24 @@ createdDate: 2026-04-10
 # Claude Code Settings doc
 https://code.claude.com/docs/en/settings
 
+# Anthropic example settings
+https://github.com/anthropics/claude-code/tree/main/examples/settings
+
+# Second Pass Hilights 
+ - When the same setting is configured in multiple scopes, more specific scopes take precedence:
+    1. Managed (highest) - can’t be overridden by anything
+    2. Command line arguments - temporary session overrides
+    3. Local - overrides Project and user settings, Claude Code will configure git to ignore `settings.local.json`
+    4. Project - saved in your project directory, overrides User settings
+    5. User (lowest) - applies to all projects, when nothing else specifies the setting"
+- Global configuration settings are stored in `~/.claude.json` rather than `settings.json`
+- Run `/status` inside Claude Code to see which settings sources are active and where they come from. The output shows each configuration layer (managed, user, project) along with its origin. 
+    - If a settings file contains errors, /status reports the issue so you can fix it.
+- Related configuration docs (configured inside of `settings.json`) 
+    - [[Claude Code Permissions notes]]
+    -  [[Claude Code Hooks notes]]
+    -  [[Claude Code Sandboxing notes]]
+
 # General Notes 
  - "You can configure Claude Code by running the /config command when using the interactive REPL, which opens a tabbed Settings interface where you can view status information and modify configuration options."
 - "Claude Code uses a scope system to determine where configurations apply and who they’re shared with."
@@ -27,16 +45,31 @@ https://code.claude.com/docs/en/settings
  - Configure a custom command for @ file path autocomplete. The built-in file suggestion uses fast filesystem traversal, but large monorepos may benefit from project-specific indexing such as a pre-built file index or custom tooling. `fileSuggestion`
 
 # Interesting Claude Code  `settings.json` options 
- - alwaysThinkingEnabled
- - env
- - hooks
- - spinnerVerbs
+
+ General settings:
+     - `alwaysThinkingEnabled`
+     - disableAutoMode
+     - env
+         - List of Claude Codes env variables
+         - https://code.claude.com/docs/en/env-vars
+     - fileSuggestion
+     - hooks
+     - model
+     - permissions
+         - `allow`
+         - `deny`
+         - `ask`
+         - `additionalDirectories`
+         - `defaultMode`
+     - spinnerVerbs
+ Sandbox settings
+     - `enabled`
+     - `excludedCommands`
 
 # Interesting Global Settings`claude.json` options 
- - editor more
+ - editor mode
  - allow
  - ask
  - deny
  - enabled (bash sandboxing) 
- - 
 

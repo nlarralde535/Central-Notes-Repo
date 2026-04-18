@@ -9,6 +9,19 @@ createdDate: 2026-04-06
 # Claude Code Memory doc: 
 https://code.claude.com/docs/en/memory
 
+# Second Pass Hilights
+ - "CLAUDE.md and CLAUDE.local.md files in the directory hierarchy above the working directory are loaded in full at launch."
+     - Claude Code reads CLAUDE.md files by walking up the directory tree from your current working directory, checking each directory along the way for CLAUDE.md and CLAUDE.local.md files. 
+     - Claude also discovers CLAUDE.md and CLAUDE.local.md files in subdirectories under your current working directory. Instead of loading them at launch, they are included when Claude reads files in those subdirectories.
+     - All discovered files are concatenated into context rather than overriding each other. 
+ - For larger projects, you can organize instructions into multiple files using the `.claude/rules/` directory. 
+     - Rules can be scoped to specific files using YAML frontmatter with the paths field. These conditional rules only apply when Claude is working with files matching the specified patterns.
+     - Rules load into context every session or when matching files are opened. 
+ - the difference between memory files (`CLAUDE.md`, or .`claude/rules/` files) and `skills/` is that memory files are loaded into context in their entirety every session, while `skills/` are only loaded when they are manually invoked or when Claude decides to use them. 
+     - the exception to this ^ is `rules/` files using YAML frontmatter with the paths field. These rules are scoped to specific files and are only loaded into context when Claude is working with files matching the specified patterns.
+ - "The `/memory` command lists all CLAUDE.md, CLAUDE.local.md, and rules files loaded in your current session, lets you toggle auto memory on or off, and provides a link to open the auto memory folder. Select any file to open it in your editor."
+ - "Files over 200 lines consume more context and may reduce adherence. Move detailed content into separate files referenced with `@path` imports (see Import additional files), or split your instructions across `.claude/rules/` files."
+ - "Project-root CLAUDE.md survives compaction: after `/compact`, Claude re-reads it from disk and re-injects it into the session. Nested CLAUDE.md files in subdirectories are not re-injected automatically; they reload the next time Claude reads a file in that subdirectory."
 
 # General Notes: 
  - "Each Claude Code session begins with a fresh context window. Two mechanisms carry knowledge across sessions: 

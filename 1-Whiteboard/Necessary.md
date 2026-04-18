@@ -19,7 +19,9 @@ I believe there is a range of relationships somewhere below the absolute best/id
 ```
 # Get to the point...
 
- I am curious to get to know you a bit, and to share with you things about myself that I think are important, to share some stories and hopefully some laughs. I'm a texter 📱 so I don't mind chatting here in the app for a while. But if you'd rather talk on the phone I'm open to doing so.
+ I am curious to get to know you a bit, and to share with you things about myself that I think are important, to share some stories and hopefully some laughs. I'd also like to discuss what we're each looking for, boundaries, and expectations. Are you open to that?
+ 
+  I'm a texter 📱 so I don't mind chatting here in the app for a while. But if you'd rather talk on the phone I'm open to doing so. What do you think?
 
 # Questions
 
@@ -144,10 +146,16 @@ That we are on this app implies neither of us really know how to do/be in a rela
     - (IG) Given a box of everything you ever lost, what's the 1st thing you'd look for?
     - (IG) Suppose I were to do/say something you didn't like, how would you handle that?
 ### Red Flags
- - a reckless attitude/being irresponsible 
- - putting me/us in compromising situations
+ - being reckless/irresponsible
+ - identifying as "not political"
+ - bad grammar
  - taking advantage of the fact that I will help/pay attention to you
- - lack of long term goals/projects
+
+### Green Flags
+ - a well-balanced sense of humor
+ - demonstrable examples of responsibility (have your own place, have your own car, registration is up to date, have car insurance, things like that )
+ - never in a rush/hurry
+ - organized
 
 ### What I'm Looking For:
 I'm looking for stability, someone I can trust and rely on, who makes life easier so we can grow and expand in the ways we each want. A relationship that is more practical/utilitarian than fun/romantic. 

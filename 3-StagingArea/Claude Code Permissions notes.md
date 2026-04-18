@@ -12,7 +12,22 @@ https://code.claude.com/docs/en/permissions
 https://code.claude.com/docs/en/permission-modes
 # Claude Tools reference doc
 https://code.claude.com/docs/en/tools-reference
-# General Bites
+# Anthropic example settings 
+https://github.com/anthropics/claude-code/tree/main/examples/settings
+
+# Second Pass Hilights 
+
+ - You can view and manage Claude Code’s tool permissions with `/permissions` command. This UI lists all permission rules and the settings.json file they are sourced from.
+ - Rules are evaluated in order: **deny -> ask -> allow**. The first matching rule wins, so deny rules always take precedence.
+ - Permissions are set for TOOLS in a `settings.json` file: 
+     - https://code.claude.com/docs/en/tools-reference 
+     - **deny** or **ask** Tool permissions that can be used to protect parts of you system include: 
+         - Bash(`<command>`)
+         - Read(`/path`)
+         - Edit(`/path`)
+         - WebFetch(`domain:`)
+
+# General Notes
 - "Claude Code supports fine-grained permissions so that you can specify exactly what the agent is allowed to do and what it cannot"
 - **Permissions** control which TOOLS Claude Code can use and which files or domains it can access. They apply to all tools (Bash, Read, Edit, WebFetch, MCP, and others).
 -  **Permission Modes**: When Claude wants to edit a file, run a shell command, or make a network request, it pauses and asks you to approve the action. Permission modes control how often that pause happens. 
@@ -52,7 +67,7 @@ https://code.claude.com/docs/en/tools-reference
      - **Ask** rules prompt for confirmation whenever Claude Code tries to use the specified tool.
      - **Deny** rules prevent Claude Code from using the specified tool.
  - "Rules are evaluated in order: **deny -> ask -> allow**. The first matching rule wins, so deny rules always take precedence."
- - Claude Code understanda the following different tool categories: 
+ - Claude Code understand the following different tool categories: 
      - Bash
      - WebFetch
      - Edit
@@ -74,7 +89,7 @@ https://code.claude.com/docs/en/tools-reference
  - "By default, Claude has access to files in the directory where it was launched. You can extend this access:
      - During startup: use `--add-dir <path>` CLI argument
      - During session: use /add-dir command
-     - Persistent configuration: add to additionalDirectories in settings files"
+     - Persistent configuration: add to `additionalDirectories` in settings files"
 
  - "Files in additional directories follow the same permission rules as the original working directory: they become readable without prompts, and file editing permissions follow the current permission mode."
   - "Adding a directory extends where Claude can read and edit files. It does not make that directory a full configuration root. ...  The following configuration types are loaded from ` --add-dir` directories:" 
