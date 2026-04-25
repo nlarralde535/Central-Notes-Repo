@@ -15,6 +15,16 @@ https://code.claude.com/docs/en/settings#sandbox-settings
 # Anthropic example settings
 https://github.com/anthropics/claude-code/tree/main/examples/settings
 
+# Second Pass Hilights
+
+ - **Prerequisites**: "On Linux and WSL2, install the required packages first:" 
+ ```
+ sudo apt-get install bubblewrap socat
+ ```
+ -  Sandboxing vs. Permissions
+     - Permissions control which **TOOLS** Claude Code can use and are evaluated before any tool runs. They apply to all **TOOLS**: Bash, Read, Edit, WebFetch, MCP, and others. Read, Edit, and Write use the permission system directly rather than running through the sandbox. 
+     - Sandboxing provides OS-level enforcement that restricts what Bash commands can access at the filesystem and network level. It applies only to Bash commands and their child processes. See **File System Isolation** for details. Sandboxed network traffic is managed exclusively by a while-list mechanism, only approved domains can be accessed. See **Network Isolation** for more details
+ - 
 # General Notes:
  - "Claude Code features native sandboxing to provide a more secure environment for agent execution while reducing the need for constant permission prompts. Instead of asking permission for each bash command, sandboxing creates defined boundaries upfront where Claude Code can work more freely with reduced risk."
      - "The sandboxed bash tool uses OS-level primitives to enforce both filesystem and network isolation."

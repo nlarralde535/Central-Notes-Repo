@@ -3,6 +3,13 @@ Strava? Letterboxed?
 # Games to play together
 https://wordlecup.io/
 
+# Date Ideas:
+ - coffee
+ - walk around a park
+ - walk around Costco
+ - Menil 
+ - farmer's market
+
 
 ## Gold Mine Metaphor
 ```
@@ -83,6 +90,8 @@ I'm curious to see whether we are able to do one of two things together: (ideall
  - work together on some common project
 
 I transition between tasks pretty quickly, and it can be jarring to people, so I try to go with the flow when I'm around others. But I would love to meet someone who understands this characteristic of mine and is ok with it.
+
+There is some nuance around the details that I want to share with you. The nuance is this: Im only attempting to describe to you the way I understand myself to be as I am now, and the way I am now is not necessarily the way I will be in the future, or under different circumstances. One important circumstance that my attempts at describing myself cannot cover is how I would be when around someone I'm truly comfortable with. It's very possible that I'd be more talkative. But I can't say for sure because I've never been truly comfortable around anyone. Does that make sense?
 # What I'm Looking For:
 
 I'm looking for stability, someone I can trust and rely on, who makes life easier so we can grow and expand in the ways we each want. A relationship that is more practical/utilitarian than fun/romantic. 
@@ -153,6 +162,7 @@ That we are on this app implies neither of us really know how to do/be in a rela
 
 ### Green Flags
  - a well-balanced sense of humor
+ - admits when they are wrong or acknowledges that they might be wrong
  - demonstrable examples of responsibility (have your own place, have your own car, registration is up to date, have car insurance, things like that )
  - never in a rush/hurry
  - organized

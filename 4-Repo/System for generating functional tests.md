@@ -2,11 +2,14 @@
 tags:
   - Note/Plate/Tech/SoftwarePhilosophy/Testing
   - Note/Book/LessonsLearnedInSoftwareTesting
+  - Project/SoftwareDevelopmentPhilosophy
 aliases:
   - _template
 createdDate: 2026-04-02
 ---
-# Chapter 3: Testing Techniques 
+
+# Reference: Lessons Learned in Software Testing 
+##  Chapter 3: Testing Techniques 
 Pg 37-38:
 In this chapter the authors describe two coverage-based test techniques: state-based testing and path testing. State-based testing involves walking a program thru a series of state transitions and checking the results of each transition. Path testing involves the steps associated with getting the program to a given state (think happy-path testing).
 
@@ -16,7 +19,7 @@ It occured to us while reading this ^ that a useful system for designing a set o
  - elaborate as many paths between the set of initial states and the set of final/terminal states as makes sense
  - write path tests for each of these ^ paths
 
-# Chapter 5: Automated Testing
+## Chapter 5: Automated Testing
 Pg 106 & 113: **Task Libraries**
 "Analyze use cases into constituent tasks. Each tasks should be conceptually distinct. Creating library functions for these tasks can be used in your test scripts. "
 
