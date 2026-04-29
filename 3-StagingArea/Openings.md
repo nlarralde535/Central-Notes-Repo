@@ -46,3 +46,4 @@ Are y'all aware that there are horrifying things being done by or facilitated by
  - RHETORICAL: An I exaggerating or over reacting to the reports of abuse by ICE? Or to reports of Israeli violence? If so, what evidence can you provide to put these things into proper context?
  - RHETORICAL: Your indifference/ignorance negatively affects others. You have a responsibility to understand the actions and policies of the government that represents you.
  - RHETORICAL: Have you seen any ICE arrest videos? Have you read reports of the conditions in ICE detention centers? Have you seen videos of IDF soldiers firing on civilians? Firing on children? Bombing hospitals? Bombing medical first responders as they are responding?
+ - did you teach your children that sharing is important?

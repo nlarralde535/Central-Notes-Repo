@@ -21,3 +21,6 @@ https://www.opensourceecology.org/
 # Federal Register
 https://www.federalregister.gov/reader-aids/understanding-the-federal-register/related-resources
 The Office of the Federal Register (OFR) of the National Archives and Records Administration (NARA), and the U.S. Government Publishing Office (GPO) jointly administer the FederalRegister.gov website. We developed this website to make it easier for citizens and communities to understand the regulatory process and to participate in Government decision-making. ... (WIKIPEDIA) The Federal Register (FR or sometimes Fed. Reg.) is the official journal of the federal government of the United States that contains government agency rules, proposed rules, and public notices. It is published every weekday, except on federal holidays. The final rules promulgated by a federal agency and published in the Federal Register are ultimately reorganized by topic or subject matter and codified in the Code of Federal Regulations (CFR), which is updated quarterly.
+
+# The Emperor Has No Clothes: How to Code Claude Code in 200 Lines of Code
+https://www.mihaileric.com/The-Emperor-Has-No-Clothes/

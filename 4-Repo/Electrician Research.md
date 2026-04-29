@@ -9,7 +9,7 @@ createdDate: 01-04-2026
 
 Industry-Based Certifications
 - C-200 Certified Industry 4.0 Automation Systems Specialist I—201 Electrical Systems 1
-- [Electrical Apprenticeship Certificate Level 1](https://iecoftexas.org/apprentice.php)
+- IEC [Electrical Apprenticeship Certificate Level 1](https://iecoftexas.org/apprentice.php)
 - [HBI Pre-Apprenticeship Certificate Training (PACT), Basic Electrical](https://hbi.org/certification/electrical/)
     - detailed list if exam objectives 
 - NCCER Core

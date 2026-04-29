@@ -1,53 +1,23 @@
--  Squat
-    - Cossacks 
-    - Bodyweight x20
-    - Tai-Chi
-- Wiggle
-    - Leg swings
-    - Arm swings
-    - kicky ball
-    - skate
-- Compression
-    - L-seat holds
-    - Seated forward fold, arms-up holds
-    - Cheerleader holds
-    - Pancakes
-    - Back Bridges
+# What to do when we're away from our home gym
+## Library
+Squats 
+ - Assisted Pistol Squats 
+ - Cossack Squats (arms out)
+Isometrics
+ - Horse Stance
+ - Archer Pushups
+ - Cheerleader holds
+ - Pancakes 
+ Sixth Movement 
+ - Back Bridge Rotations
+ - Bear Crawls
+ - Leg swings + Arm shakes
+ - kicks
+ - Hinge Jumps
+     - staggered stance, load the hinge,  then jump and fully extend the spine and hips
 
-# Hangs (100 breaths) + shoulder dislocates 
-- [ ] 20
-- [ ] 20
-- [ ] 20
-- [ ] 20
-- [ ] 20
-
-
----
-# Cossack transitions (40)
-- [x] 10
-- [ ] 10
-- [ ] 10
-- [ ] 10
-
-
----
-
-# Tai Chi squats (40)
-- [ ] 10
-- [ ] 10
-- [ ] 10
-- [ ] 10
----
-
-# Figure4 holds (100 breaths per leg)
-
-
----
-
-# Cheerleader Holds (100 breaths)
-- [ ] 10R 10L
-- [ ] 12R 12L
-- [ ] 15R 15L
-- [ ] 15R 15L
-- [ ] 15R 15L
-- [ ] 15R 15L
+### Combinations
+1. Pistol Squats + 1-Arm Pushups
+2. Cossack Squats + Archer Pushups
+3. Bear Crawls + Leg Swings
+4. Back Bridge Rotations + Pancakes
