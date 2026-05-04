@@ -1,10 +1,10 @@
 {
-  "livePreview": true,
+  "livePreview": false,
   "propertiesInDocument": "visible",
   "foldHeading": false,
   "foldIndent": false,
   "showLineNumber": true,
-  "autoPairBrackets": false,
+  "autoPairBrackets": true,
   "autoPairMarkdown": false,
   "useTab": false,
   "newFileLocation": "folder",

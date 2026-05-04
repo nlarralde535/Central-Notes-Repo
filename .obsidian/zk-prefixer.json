@@ -1,5 +1,5 @@
 {
-  "folder": "2025",
-  "template": "templates/New Note",
-  "format": "MM-DD-YYYY_hhmm"
+  "folder": "3-StagingArea",
+  "template": "templates/Current Event",
+  "format": "YYYY-MM-DD-hhmmss"
 }

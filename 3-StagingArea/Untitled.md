@@ -1,10 +1,8 @@
 ---
 tags:
-  - currentevent
   - Note/CurrentEvents
-aliases:
-  - _template
-createdDate: "{{date}}"
+references: 
+  
 ---
 ++TITLE++
 
@@ -13,4 +11,3 @@ createdDate: "{{date}}"
 ++REFERENCES++
 
 
-{{date}}-{{time}}
