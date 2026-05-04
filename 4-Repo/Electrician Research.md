@@ -5,6 +5,15 @@ aliases:
   - _template
 createdDate: 01-04-2026
 ---
+## IBEW Apprenticeship program
+We learned about this Houston JATC program from Zach's contact Carlisle Smith. We've ordered our TCHS official transcript and plan to apply to this program BEFORE the application window closes on June 1 2026.
+
+https://ibew716.net/become-an-apprentice/
+
+https://www.houstonjatc.com/
+
+
+
 ## [TEA Career and Technical Education, Electrical program of study info](https://tea.texas.gov/academics/college-career-and-military-prep/career-and-technical-education/cte-programs-of-study)
 
 Industry-Based Certifications

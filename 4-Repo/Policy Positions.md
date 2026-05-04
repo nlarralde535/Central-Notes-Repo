@@ -10,3 +10,6 @@ I believe that compulsory voting would greatly reduce the rates of malignant inc
 
 # Compulsory Public Service
 I believe that citizens should engage in public service of some kind as a matter of course. That is, service rendered towards one's local community. Something like 1-2 years after highschool, serving either with the local police, or withing the county court system, or the corrections system, or public utility departments. 
+
+# Uncap the US House of Representatives
+Mr. Beat: https://youtu.be/5tGkkXpVZxA?si=twsDs2HNAUL0cuyk
