@@ -1,12 +1,9 @@
 ---
 tags:
   - Note/CurrentEvents
+title: 'blah'
 references:
-  - source: XYZ
-    url: www.news.fuck
-  - source: XYZ2
-    url: www.news2.fuck
+  - source: "XYZ"
+    url: "www.news.fuck"
 ---
 # XYZ
-
-# XYZ2

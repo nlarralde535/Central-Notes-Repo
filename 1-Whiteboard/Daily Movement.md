@@ -6,7 +6,7 @@ Squats
 Isometrics
  - Horse Stance
  - Archer Pushups
- - Cheerleader holds
+ - Cheerleader Holds
  - Pancakes 
  Sixth Movement 
  - Back Bridge Rotations
@@ -20,7 +20,7 @@ Isometrics
 ### Combinations
 1. Pistol Squats + 1-Arm Pushups
 2. Cossack Squats + Archer Pushups
-3. Bear Crawls + Leg Swings
+3. Bear Crawls + Leg Swings + Cheerleader Holds 
 4. Back Bridge Rotations + Pancakes
 5. Horse Stance + 1-Arm plank belly openers 
 
