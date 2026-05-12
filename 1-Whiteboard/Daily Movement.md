@@ -19,9 +19,11 @@ Isometrics
 
 ### Combinations
 1. Pistol Squats + 1-Arm Pushups
+    - + 1-Arm Planks
 2. Cossack Squats + Archer Pushups
-3. Bear Crawls + Leg Swings + Cheerleader Holds 
-4. Back Bridge Rotations + Pancakes
-5. Horse Stance + 1-Arm plank belly openers 
+3. Leg Swings + Cheerleader Holds 
+4. Bear Crawls + Back Bridge Rotations 
+5. Reverse Nordic Curls + Pancakes
+6. Horse Stance + 1-Arm plank belly openers 
 
 $U^2$
