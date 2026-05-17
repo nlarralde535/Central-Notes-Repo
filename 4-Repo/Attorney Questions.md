@@ -43,6 +43,7 @@ Start --> B
 ### 1. What are the rules/laws around carrying signage in public? Where am I freely allowed to carry a sign? What does "in public" mean?
  - see City of Houston section of this document for info on public right-of-way
   - http://kingwoodassociationmanagement.com/kingwoodmgt/document_view.asp?id=15
+  - HPD Positive Interaction Program meeting 3rd Tuesday 7pm @ 2901 Woodland Hills Drive
  
 
 ### 2. What are the rules/laws surrounding making personal threats to people? Is there a legally defensible way to say something like "I want to do you personal harm" or "I'd like to kick your ass for saying that"?
