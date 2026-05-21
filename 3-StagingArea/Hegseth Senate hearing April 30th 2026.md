@@ -1,0 +1,142 @@
+
+https://www.youtube.com/live/-ffD2_no_TY?si=R5q21ugLwOtSkw96
+
+# 27:00  
+General Caine refers to General George C Marshall and his commitment to civilian control of the military 
+
+# 32:46 
+Chairman Wicker asks SecDef how much of the $154B has the Pentagon "put on contract". Hegseth replies ~$25B
+
+# ^ - 37:20
+Listing initiatives to be funded: Golden Dome, expanded drone manufacturing, etc...
+
+# 37:30
+Sen. Reed asks SecDef about firing of one General Marshall and the reason for doing so. SecDef responds that for privacy purposes those reasons are not shared publicly. SecDef says only merit is considered in firing decisions. 
+
+# 40:17
+"I don't know what you're insinuating Senator, but I'm not ashamed of my faith in Jesus Christ" 
+
+# 41:20
+Sen Reed asks about effectiveness of stikes against Iran and points out Iran maintains a high level of missile effectiveness after all US strikes 
+
+# 42:43
+SecDef responds that US military objectives have been very effective and claims Iran's defense industrial base has been degraded such that "they are completely incapable at scale of reconstituting the capabilities [Sen Reed] refers to"
+
+# 44:19
+Sen Fischer question about changes to Pentagon project procurement processes
+
+# 47:55
+Sen Fischer question about how Pentagon budget request addresses "modernized nuclear triad and NC3 architecture"
+
+# 49:27
+Sen Shaheen question about funds intended for spending on Ukraine war,  PEARL program funds, and how usage of those funds conflicts with Congress's intent
+
+# 55:00
+Sen Cotton question on the nature of the impact of the Iran war on US munitions supplies and supply chains
+
+# 57:45
+Sen Cotton  acknowledges US casualties from Iran war, asks SecDef to describe the steps taken to minimize casualties in the middle east
+
+# 59:50
+Sen Cotton asks SecDef if he has lied to the president about what's happening in Iran or about  Operation Epic Fury
+
+# 1:01:40
+Sen Gillibrand asks SecDef "why do you continue to prosecute a war that the American people are not behind?" SecDef asks rhetorical question "what price do you put on Iran not having a nuclear weapon?"
+
+# 1:03:45
+SecDef invoked Iraq and Afghanistan wars and claims "this time it's different"
+
+# 1:08:00
+Sen Rounds asks SecDef his opinion of the B12 program
+
+# 1:10:36
+Sen Blumenthal asks about the costs of the Iran war. The estimate has been $25B. Mentions the Major Richard Star Act. Points out that Americans are not "buying" the picture of the war that the Admin is selling.
+# 1:14:30
+Sen Blumenthal asks SecDef if he believes the President's statement that Ukraine has been militarily defeated. SecDef claims that "it is because of defeatist Democrats like you that cloud the minds of the American people"
+
+# 1:16:00
+Sen Ernst asks about why Administration hastened the retirement of Army chief of staff Randy George and General James J Ming is.
+
+# 1:19:35
+Sen Ernst asks about when we will see a clean Pentagon audit. SecDef answers FY 2028.
+
+# 1:21:00 
+Sen Horno mentions details of "illegal war": $25B expenditure so far on to prosecute wat "with no end in sight", expenses munitions, extended deployments, fractured relationships with allies, etc... mentions "no clear rationale for starting this war, and not exit strategy"
+
+# 1:23:05
+Sen Hirono asks Gen Caine about women in combat roles. 
+
+# 1:25:05
+Sen Hirono asks SecDef about potential decision to remove women from combat roles 
+
+# 1:26:45
+Sen Scott bullshit softball question for SecDef "what are you most proud of so far?" SecDef claims recruiting is highest it has been in years, this seems to be the case
+- https://recruiting.army.mil/pao/facts_figures/
+- https://www.war.gov/News/News-Stories/Article/Article/4365687/fy25-sees-best-recruiting-numbers-in-15-years/
+
+# 1:29:50
+Sen Scott asks about foreign military sales
+
+# 1:31:50
+Sen Kaine asks Mr. Hurst about portion of 40% Pentagon budget request being allocates to service people. 
+
+# 1:32:50
+Sen Kaine asks Gen Caine about the legal justification for Operation Southern Spear 
+- https://www.navy.mil/Press-Office/Press-Releases/display-pressreleases/Article/4044322/operation-southern-spear-latest-development-in-operationalizing-robotic-and-aut/
+but it seems like he's actually asking about the operations the Navy carried out against Venezuela since last year, destroying alleged narco traffic boats in international waters, without any evidence that the boats indeed carry narcotics. Gen Caine appeals to the documents that comprise the given orders. 
+
+# 1:35:15
+Sen Kaine asks about the 60-day deadline on unapproved military action. Asks whether the president intends to seek congressional authorization for continued military action against Iran.
+
+# 1:36:45
+Sen Sullivan
+
+# 1:42:30
+Sen King asks SecDef why 25% of the $1.5T budget is being passed via the partisan mechanism of budget reconciliation, and not for this committee to vote on. 
+
+# 1:50:28
+Sen Schmitt asks SecDef how he thinks Cultural Marxism and DEI have negatively impacted the military and how the change in focus of the War Department is responsible for the increase in recruitment and morale
+1:52:23 SecDef says "...go visit the troops at any level and their morale is at record levels"
+
+# 1:53:00
+Sen Warren
+
+# 1:5900
+Sen Sheehy
+
+# 2:03:50 - 2:09:30
+Sen Peters invokes Clauseitz and asks SecDef and Gen Kaine to describe the "center of gravity" for this was with Iran
+
+# 2:10:00
+Sen Sheehy
+
+# 2:13:00
+Sen Slotkin asks how many munitions were fired at Iran 
+
+# More stable video
+https://www.youtube.com/live/x148BBVfZNg?si=9_JxbDMFlB_oLBmQ
+
+# 2:20:45
+Sen Kelly asks SecDef  whether he stands by his "no quarter" comment from March 13th
+
+# 2:22:00
+Sen  Slotkin asks SecDef if he will deploy troops to polls. 
+
+!! she is good, look into her
+
+# 2:27:30
+Sen Duckworth asks Gen Kaine about the status of the IRGC Navy after US strikes
+
+!! she is good, follow her
+
+# 2:33:00
+Sen Rosen asks about AI and the claim about labeling Anthropic a public security risk
+
+# 2:37:26
+Sen Rosen asks SecDef about his characterization of detractors in Congress and in the press as "Pharisees"
+
+# 2:39:45
+Sen Kelly asks about allocation of Pentagon budget request
+
+# 2:46:15
+Sen Blumenthal asks follow to Gen Kaine about Trump's comment that Ukraine is "militarily defeated"
