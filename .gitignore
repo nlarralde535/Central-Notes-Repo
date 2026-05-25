@@ -6,3 +6,10 @@
 1-Whiteboard/DAILY_STUFF.md
 1-Whiteboard/Necessary.md
 1-Whiteboard/ToDo.md
+
+# React build output
+timeline/pages/index.html
+timeline/pages/assets/
+timeline/pages/favicon.svg
+timeline/pages/icons.svg
+timeline/pages/timeline-data.json
