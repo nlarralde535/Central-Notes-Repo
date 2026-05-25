@@ -45,6 +45,7 @@ jobs:
       - name: Install dependencies and build the React app
         working-directory: timeline/react-app
         run: |
+          echo "PWD: [$(pwd)]"
           echo "Node version: [$(node --version)]"
           npm ci
           echo "RUNNING: npm run prebuild"
@@ -54,7 +55,7 @@ jobs:
           npm run build
           echo "...DONE"
           echo "# stat ./timeline/pages/index.html"
-          stat ../../pages/index.html
+          stat ../pages/index.html
       - name: Upload static Pages file index.html as artifact
         # DOC: https://github.com/marketplace/actions/upload-github-pages-artifact
         id: deployment
