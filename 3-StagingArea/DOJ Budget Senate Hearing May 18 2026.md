@@ -1,6 +1,97 @@
 https://www.youtube.com/live/ROXtga6b6j4?si=IB9aDkXgvdEp7i2D
 
-# 
+
+
+
+
+# 1.34.05
+Sen Gillibrand asks about proposed budget cuts cuts to  the "whole of government" approach.
+!! Look into this
+
+Asks about gun trafficking enforcement and case tracking
+
+Asks about cuts to Community Violence Intervention grants
+
+!! She is good, look into her
+
+# 1.30.45
+Sen Hagerty asks AG about Weaponization of the DOJ under Biden in Operation Arctic Frost
+https://www.judiciary.senate.gov/press/rep/releases/biden-fbi-spied-on-eight-republican-senators-as-part-of-arctic-frost-investigation-grassley-oversight-reveals
+
+!! This guy is a partisan hack
+!! Look into Arctic Frost. Sen Hagerty mentioned that DOJ got his phone records from Verizon
+
+# 1.27.37
+Sen Hagerty refers to Operation Memphis Safe 
+https://www.whitehouse.gov/presidential-actions/2025/09/restoring-law-and-order-in-memphis/
+and lessons learned that can be applied to other jurisdictions, and what to do about non-compliant jurisdictions 
+
+# 1.25.00
+Sen Peters asks AG about Trump executive order:
+https://www.whitehouse.gov/presidential-actions/2026/03/ensuring-citizenship-verification-and-integrity-in-federal-elections/
+and the DOJ's role in implementing the order. Asks whether DOJ is taking policy direction from Deputy Assistant DHS Secretary in charge of election integrity Heather Honey, whose prior work includes debunked claims of the 2020 election being stolen.
+
+# 1.21.10
+Sen Peters asks about Inspectors General (IGs) fired by Trump administration and why current DOJ budget proposal cuts IGs budget by 1/3 when study shows IGs responsible for identifying billions in waste fraud and abuse
+
+!! He's good, look into him 
+
+# 1.13.35
+Sen Reed asks about taxpayer info leaked during 2020 breach of IRS contractor and whether those people have received monetary reimbursement. Asks multiple meandering questions about the Anti Weaponization Fund.
+
+...this guy is a fucking idiot
+# 1.12.30
+Sen Moran asks about DOJ local law enforcement grants administration 
+
+# 1.08.45
+Sen Moran asks about Bureau of Prison labor shortage
+
+# 1.4.30
+Sen Murray gives AG the opportunity to apologize for the manner in which the skeleton File release was handled and apologize to the survivors. Asks will DOJ will meet with victims and survivors 
+
+# 1.01.55
+Sen Murray asks about Anti Weaponization Fund, "sitting president looting from the Treasury", and not comparable to the Keepseagel case 
+
+# 59.30
+ Sen Fischer asks about proposed budget cuts to the Organized Crime and Drug Enforcement Task force , instead directing funds to DEA and FBI. Omaha humano trafficking task force
+# 55.35
+Sen Fischer asks AG how DOJ will address increasing police officer resignations and retirements, given the local law enforcement grants cuts in the proposed budget
+# 52.50
+Sen Markley asks AG whether the Epstein investigation is closed or open. Sen refers to comments by Trump directing DOJ and FBI to investigate Democrats "enemies list" linked to Epstein. Asks whether AG will open investigations regardless of party affiliation. 
+# 50.10
+Sen Markley asks AG whether he will urge Anti Weaponization Fund commissioners to establish guidelines saying no one convicted of violence against police officers will get compensation from this gund
+
+# 48.07
+Sen Merkley asks about cuts on the budget to local law enforcement grants and about a bill that makes funding available for a study of troubled youths 
+
+# 44.51
+Sen Britt asks about how increased budget request will contribute to continuing the crackdown on crime and decreased murder rate
+
+# 42.08
+Sen Britt asks about backlog of cases in Executive Office for Immigration Reform  which oversees immigration courts. Claims Trump admin far more "efficient" at processing immigration cases. Asks how the EOIR budget increase will help continue this.
+
+# 38.09
+Sen Shaheen again asks about cuts to the Violence Against Women office, and about how the DOJ has withheld FY2025 grant funding 
+
+# 35:37
+Sen Shaheen asks about labor storage at Bureau of Prisons and new DEA drug lab in Londonderry NH
+
+# 29:20
+Sen Murkowski asks many questions about budget: cuts to tribal policing grant programs, cuts to the Violence Against Women program.
+
+# 26:39
+Sen Coons again points out that the Keepseagel case that AG referenced as being similar to Trump v IRS is not at all similar. Asks whether AG will commit to ensure that none of Trump's family will benefit from this fund. 
+
+!! This guy is good, look into him
+
+# 25:45
+Sen Coons asks about the Trump v IRS settlement fund (Anti Weaponization Fund) and whether the quarterly fund reports will be public
+
+# 23:00
+Sen Coons asks why funds for IP enforcement have been cut in the current budget proposal 
+
+# 16:36
+Sen Kennedy asks AG what DOJ is doing about misuse of Medicaid funds in states like California. Claims that for every $1 California spends toward Medicaid, the Federal Government spends $9 in that state.
 
 # 13:30
 Sen Van Hollen asks AG where he stands on the Epstein investigation and whether AG will agree to meet with survivors
@@ -9,6 +100,9 @@ Sen Van Hollen asks AG where he stands on the Epstein investigation and whether 
 Sen Van Hollen asks AG whether Jan6ers accused of assaulting Capitol Police are eligible for the Anti Weaponization Fund
 
 Sen Van Hollen gets AG to admit that no federal judge has approved this fund, unlike the Obama-era fund AG referenced earlier 
+
+Note: the Obama-era fund referenced here is from the case Keepseagel v Vilsack
+https://www.kcra.com/article/trump-irs-settlement-fact-check/71367530
 
 # 9:14
 Sen Collins asks about reauthorization of the Violence against Women Act and how the current DOJ budget proposal cuts funding for domestic violence protection 

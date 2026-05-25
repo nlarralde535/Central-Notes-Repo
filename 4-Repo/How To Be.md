@@ -56,3 +56,5 @@ Learning is characterized by long periods of frustrating grind punctuated by Aha
 # Everything is Transient, you don't get to keep anything: do good anyway, be good anyway
 
 # We decide what matters and what does not matter. And something that matters only matters for as long as we decide that it should matter.
+
+# How do you eat an elephant? One bite at a time
