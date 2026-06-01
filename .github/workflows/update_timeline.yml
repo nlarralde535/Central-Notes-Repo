@@ -38,18 +38,24 @@ jobs:
     steps:
       - name: Checkout the new commit
         uses: actions/checkout@v4
-      - name: Set up python on the runner
-        uses: actions/setup-python@v6
+      - name: Set up Node on the runner
+        uses: actions/setup-node@v4
         with:
-          python-version: '3.13' 
-      - name: Run the timeline.py script to build a new timeline.html
+          node-version: '22'
+      - name: Install dependencies and build the React app
+        working-directory: timeline/react-app
         run: |
-          echo "Python version: [$(python --version)]"
-          echo "Running timeline script..."
-          python timeline/timeline.py
-          echo "...script completed"
+          echo "PWD: [$(pwd)]"
+          echo "Node version: [$(node --version)]"
+          npm ci
+          echo "RUNNING: npm run prebuild"
+          npm run prebuild
+          echo "...DONE"
+          echo "RUNNING: npm run build"
+          npm run build
+          echo "...DONE"
           echo "# stat ./timeline/pages/index.html"
-          stat ./timeline/pages/index.html
+          stat ../pages/index.html
       - name: Upload static Pages file index.html as artifact
         # DOC: https://github.com/marketplace/actions/upload-github-pages-artifact
         id: deployment
