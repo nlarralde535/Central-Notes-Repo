@@ -13,3 +13,6 @@ I believe that citizens should engage in public service of some kind as a matter
 
 # Uncap the US House of Representatives
 Mr. Beat: https://youtu.be/5tGkkXpVZxA?si=twsDs2HNAUL0cuyk
+
+# Undo the state's monopoly on the use of force/violence
+I'm general, "law enforcement" should be the responsibility of all voting-age citizens. More research is needed to properly detail this policy position. Specifically, how law enforcement fits into the broader justice system.
