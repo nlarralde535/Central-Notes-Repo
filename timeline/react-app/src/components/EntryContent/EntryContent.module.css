@@ -1,0 +1,28 @@
+.body {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.section {
+  display: flex;
+  flex-direction: column;
+  gap: 0.375rem;
+}
+
+.source {
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: #374151;
+}
+
+.source a {
+  color: #2563eb;
+}
+
+.content {
+  font-size: 0.875rem;
+  color: #374151;
+  line-height: 1.65;
+  white-space: pre-wrap;
+}
