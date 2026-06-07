@@ -1,5 +1,3 @@
-# This is a basic workflow to help you get started with Actions
-
 name: Fred
 
 on:
@@ -15,33 +13,48 @@ jobs:
   check:
     name: Check for new entries in timeline/timeline_entries/
     runs-on: ubuntu-latest
+    # DOC: https://docs.github.com/en/actions/how-tos/write-workflows/choose-what-workflows-do/pass-job-outputs
+    # DOC: https://docs.github.com/en/actions/reference/workflows-and-actions/workflow-syntax#jobsjob_idoutputs
     outputs: 
       newEntries: ${{ steps.checking.outputs.entries }}
+      reactAppUpdates: ${{ steps.checking.outputs.react_app_updates }}
     steps:
       - name: Checkout the repo with fetch-depth = 2
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           fetch-depth: 2
-      - name: Extract the number of new ./timeline_entries/ files in HEAD commit
+      - name: Extract the number of new ./timeline_entries/ and or react-app/ files in HEAD commit
         id: checking      
         run: |
+          echo "# ------------------------------------"
+          echo "#    CHECKING FOR NEW timeline_entries/"
           echo "# git log -1 --oneline --name-status"
           git log -1 --oneline --name-status
-          echo "# git diff HEAD^ --name-only | grep 'timeline_entries/' | wc -l"
           NUMBER_OF_NEW_ENTRIES=$(git diff HEAD^ --name-only  | grep 'timeline_entries/' | wc -l)
+          # DOC: https://docs.github.com/en/actions/reference/workflows-and-actions/workflow-commands#setting-an-environment-variable
+          # DOC: https://docs.github.com/en/actions/reference/workflows-and-actions/workflow-commands#setting-an-output-parameter
+          # DOC: https://docs.github.com/en/actions/reference/workflows-and-actions/variables
           echo "entries=$NUMBER_OF_NEW_ENTRIES" >> "$GITHUB_OUTPUT"
           echo "Number of new entries: [$NUMBER_OF_NEW_ENTRIES]"
+          echo "# -----------------------------------"
+          echo "#    CHECKING FOR UPDATES TO react-app/"
+          REACT_APP_UPDATES=$(git diff HEAD^ --name-only | grep 'react-app/' | wc -l)
+          echo "react_app_updates=$REACT_APP_UPDATES" >> "$GITHUB_OUTPUT"
+          echo "Number of React App updates: [$REACT_APP_UPDATES]"
   build:
     runs-on: ubuntu-latest
     needs: check
-    if: ${{ needs.check.outputs.newEntries > 0 }}
+    # DOC: https://docs.github.com/en/actions/reference/workflows-and-actions/workflow-syntax#jobsjob_idif
+    # DOC: https://docs.github.com/en/actions/reference/workflows-and-actions/expressions
+    # DOC: https://docs.github.com/en/actions/reference/workflows-and-actions/contexts#needs-context
+    if: ${{ needs.check.outputs.newEntries > 0  ||  needs.check.outputs.reactAppUpdates > 0 }}
     steps:
       - name: Checkout the new commit
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
       - name: Set up Node on the runner
         uses: actions/setup-node@v4
         with:
-          node-version: '22'
+          node-version: '24'
       - name: Install dependencies and build the React app
         working-directory: timeline/react-app
         run: |
