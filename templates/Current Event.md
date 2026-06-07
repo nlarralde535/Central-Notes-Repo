@@ -1,7 +1,7 @@
 ---
 tags:
   - Note/CurrentEvents
-title: 'blah'
+title: "blah"
 references:
   - source: "XYZ"
     url: "www.news.fuck"
