@@ -1,3 +1,13 @@
+
+# 2026-06-08: Daily Isometric Time Accumulations
+ - vertical hangs: 3 minutes
+ - horizontal hangs: 1 minute
+ - horse Stance: 3 minutes
+ - pancake: 1 minute
+ - hollow body hold: 1 minute 
+ - long plank: 1 minute
+
+
 # What to do when we're away from our home gym
 ## Library
 Squats 
@@ -25,5 +35,3 @@ Isometrics
 4. Bear Crawls + Back Bridge Rotations 
 5. Reverse Nordic Curls + Pancakes
 6. Horse Stance + 1-Arm plank belly openers 
-
-$U^2$
