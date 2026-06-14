@@ -3,6 +3,8 @@ tags:
   - ToDo
 dueDate: 
 category:
+priority: "1 - 10"
+category: "Project | Plate | Misc"
 createdDate: "{{date}}"
 ---
 # Description 
@@ -10,3 +12,7 @@ createdDate: "{{date}}"
 
 # Implementation Intention
 ....
+**When to do**: 
+**Where to do**: 
+**How to do**:
+**With what to do**:
