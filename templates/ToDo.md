@@ -1,10 +1,9 @@
 ---
 tags:
-  - ToDo
-dueDate: 
-category:
-priority: "1 - 10"
-category: "Project | Plate | Misc"
+  - ToDo/Template
+dueDate:
+priority: 1 - 10
+category: Project | Plate | Misc
 createdDate: "{{date}}"
 ---
 # Description 
