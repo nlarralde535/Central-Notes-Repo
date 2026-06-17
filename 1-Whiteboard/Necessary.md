@@ -206,7 +206,7 @@ I transition between tasks pretty quickly, and it can be jarring to people, so I
 There is some nuance around the details that I want to share with you. The nuance is this: Im only attempting to describe to you the way I understand myself to be as I am now, and the way I am now is not necessarily the way I will be in the future, or under different circumstances. One important circumstance that my attempts at describing myself cannot cover is how I would be when around someone I'm truly comfortable with. It's very possible that I'd be more talkative. But I can't say for sure because I've never been truly comfortable around anyone. Does that make sense?
 
 
-So, I'm generally a pretty quiet person. I talk less and less as I get comfortable with someone. 
+So, I'm generally a pretty quiet person. I talk less and less as I get comfortable with someone. I can still be chatty sometimes, depending on the topic of discussions, but I'm very comfortable with silence/not talking.
 
 I love being active: walking, running, lifting, swimming, playing multiple sports. Wiggling around helped me turn my brain off. 
 
