@@ -1,7 +1,6 @@
 ---
 tags:
   - Note/Book/LessonsLearnedInSoftwareTesting
-  - Project/SoftwareDevelopmentPhilosophy
 aliases:
   - _template
 createdDate: 2026-05-14

@@ -1,7 +1,6 @@
 ---
 tags:
   - Project/SoftwareDevelopmentPhilosophy
-  - Project
 completed: no
 aliases:
 createdDate: 2026-04-21
@@ -30,3 +29,16 @@ Reliable voices we believe we have found:
 1. Read books or listen to talks by the above
 2. Take note of details that contribute to a Software development philosophy 
 3. Compile notes into a coherent philosophy 
+
+# Software Testing Reading 
+
+### Lessons Learned in Software Testing 
+```dataview
+LIST
+FROM #Note/Book/LessonsLearnedInSoftwareTesting 
+```
+### Test Driven Development 
+```dataview
+LIST
+FROM #Note/Book/TDD 
+```

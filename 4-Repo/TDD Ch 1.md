@@ -1,6 +1,5 @@
 ---
 tags:
-  - Project/SoftwareDevelopmentPhilosophy
   - Note/Book/TDD
 aliases:
   - _template

@@ -1,6 +1,6 @@
 ---
 tags:
-  - Project
+  - Project/Template
 completed: no
 aliases:
 createdDate: "{{date}}"

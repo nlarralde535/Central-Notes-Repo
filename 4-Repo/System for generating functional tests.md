@@ -1,7 +1,6 @@
 ---
 tags:
   - Note/Plate/Tech/SoftwarePhilosophy/Testing
-  - Note/Book/LessonsLearnedInSoftwareTesting
   - Project/SoftwareDevelopmentPhilosophy
 aliases:
   - _template
