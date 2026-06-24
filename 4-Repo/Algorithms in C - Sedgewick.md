@@ -1,6 +1,6 @@
 ---
 tags:
-  - Note/Plate/Tech/Source/CS
+  - Note/Plate/Tech/Source/AlgorithmsDataStructures
 plate: Tech
 progressionPosition: "1"
 createdDate: 2026-06-12

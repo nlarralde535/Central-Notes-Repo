@@ -2,7 +2,7 @@
 tags:
   - Plates/Group/WantToDo
   - Plates/Plate
-  - Note/Plate/Economics
+  - Plate/Economics
 aliases:
   - _template
 createdDate: 01-03-2026

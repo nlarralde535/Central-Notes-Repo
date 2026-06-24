@@ -2,7 +2,6 @@
 tags:
   - Plates/Group/WantToDo
   - Plates/Plate
-  - Note/Plate/Tech
 aliases:
   - _template
 createdDate: 01-04-2026
@@ -10,31 +9,14 @@ createdDate: 01-04-2026
 ## Priority: 1 
 
 ## Description:
-1/4/2026: This Plate represents the tech-related material we want to study which we believe will serve dual purposes: usefulness for personal projects + usefulness for career advancement. 
+**6/23/2026:** We broke this one plate up into many individual plates, collected below:
+**1/4/2026:** This Plate represents the tech-related material we want to study which we believe will serve dual purposes: usefulness for personal projects + usefulness for career advancement. 
 
-## Sources: 
-
-Linux
+## Individual Plates:
 ```dataview
 LIST
-FROM #Note/Plate/Tech/Source/Linux 
+FROM #Plate/Tech 
 ```
-Networking
-```dataview
-LIST
-FROM #Note/Plate/Tech/Source/Networking 
-```
-Software Development Philosophy
-```dataview
-LIST
-FROM #Note/Plate/Tech/Source/Philosophy 
-```
-Computer Science
-```dataview
-LIST
-FROM #Note/Plate/Tech/Source/CS 
-```
-
 Misc
  - [b33p b00p playlist](https://www.youtube.com/playlist?list=PLYhxy8fpOlfqvxVK8_EVvGrjwMOiQeGZm)
 

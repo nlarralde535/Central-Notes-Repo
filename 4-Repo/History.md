@@ -2,7 +2,7 @@
 tags:
   - Plates/Group/WantToDo
   - Plates/Plate
-  - Note/Plate/History
+  - Plate/History
 aliases:
   - _template
 createdDate: 01-03-2026

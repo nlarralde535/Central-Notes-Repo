@@ -1,8 +1,8 @@
 ---
 tags:
-  - Note/Plate/Tech/Source/Philosophy
+  - Note/Plate/Tech/Source/SoftwareDevelopmentPhilosophy
 plate: Tech
-progressionPosition: "1"
+progressionPosition: "2"
 createdDate: 2026-06-12
 ---
 # Description

@@ -6,9 +6,10 @@ progressionPosition: "5"
 createdDate: 2026-06-12
 ---
 # Description
-Martin Fowler and Thoughtworks seem to come up alot in discussions about how to build good software. So here we are. 
+Digital book in out Google Drive
+
+**6/21/2026:** This is one of the books that has come onto out radar while looking into software development philosophy
+
 **Scope**: entire book
 **AP**:  
 **ap**:  
-
-# [Link to Bookmark]

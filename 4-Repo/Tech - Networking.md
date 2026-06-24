@@ -1,22 +1,20 @@
 ---
 tags:
-  - Plate/...
-  - Plates/Group
+  - Plate/Tech/Networking
   - Plates/Plate
 aliases:
   - _template
-createdDate: "{{date}}"
+createdDate: 2026-06-23
 ---
 ## Priority: 
 
 ## Description:
 
 ## Sources: 
-Default **AP**: 1/3 
-Default **ap**: 4x15min Pomodoro
- - ___
- - ___
-
+```dataview
+LIST
+FROM #Note/Plate/Tech/Source/Networking 
+```
 ## Progression:
 
 ## In-focus Source: 
