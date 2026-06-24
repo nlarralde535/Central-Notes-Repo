@@ -11,12 +11,15 @@ createdDate: 2026-02-16
 ## Description:
 We got the idea to study Criminal Justice from Huey P. Newton and Bobby Seale
 
+**6/21/2026:** This Plate came out of out reading Huey Newton and learning about the Black Panther Party around the beginning of this year. Huey understood that a solid understanding of the laws and procedures of the land makes navigating society and applying real meaningful pressure to citizens and systems alike far more effective and sustainable. Continued reading of Huey and other Panthers is part of this Plate's curriculum, but there is necessarily also study of general criminal justice topics (like Huey studied at Merritt College in Oakland) as well as the City of Houston Code of Ordinances.
+
 ## Sources: 
-Default **AP**: 1/3 
-Default **ap**: 4x15min Pomodoro
- - [Intro to Criminal Justice, Dr. Daniel Clay](https://www.youtube.com/playlist?list=PLbdszkFsChTqLxSWqfTXbC6znNA-j4D0t) YouTube Playlist
- - [Criminal Procedure, Studicata](https://www.youtube.com/playlist?list=PL0JgU9zLKXAE3glp6FSfCJx_OTIZyPOcY) YouTube Playlist
- - [Texas Code of Criminal Procedure](https://statutes.capitol.texas.gov/?tab=1&code=CR&chapter=CR.1&artSec=)
+**Note:** While (1) and (2) provide important motivation and guidance, it is most immediately practical to study (5), (3), and (4), in that order.
+```dataview
+LIST
+FROM #Note/Plate/CriminalJustice/Source 
+```
+## Textbooks from SHSU Criminal Justice curriculum
  - Intro to Criminal Justice, SHSU
      - Burke, Carter, Fedorek, Morey, Rutz-Burri, & Sanchez. Introduction to the American Criminal Justice System
      - Rennison, C.M. 2022. Introduction to Criminal Justice. (4th ed). Sage Publications
