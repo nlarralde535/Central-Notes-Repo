@@ -37,6 +37,8 @@ I have this idea about politics, do you mind if I get your feedback on it?
 
 Are y'all aware that there are horrifying things being done by or facilitated by our government, in our names?
 
+# Initiating the hard conversation:
+"How would you go about initiating a difficult conversation? How would you being to tell someone that their way of life is actively harmful to others?"
 
 # Replies, Ripostes, taking the initiative ♟️:
  - SELF-CRITICISM: When is the last time you criticized your own party, or reevaluated your own beliefs? 
@@ -48,3 +50,5 @@ Are y'all aware that there are horrifying things being done by or facilitated by
  - RHETORICAL: Have you seen any ICE arrest videos? Have you read reports of the conditions in ICE detention centers? Have you seen videos of IDF soldiers firing on civilians? Firing on children? Bombing hospitals? Bombing medical first responders as they are responding?
  - did you teach your children that sharing is important?
  - when have you ever participated in a group decision-making process? Do you only know how to either give or take orders? Why should anyone listen to you then?
+ - RHETORICAL: I won't simply take your word for anything, i'm treating you as a used car salesman trying to sell me a car: I need definitive proof of the assertions you're making.
+ - RHETORICAL: If you studied proposed and existing legislation as closely as you study your Bible then there may well be far less nefarious behavior baked into law.
