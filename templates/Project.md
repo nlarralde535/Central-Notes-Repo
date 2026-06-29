@@ -1,8 +1,11 @@
 ---
 tags:
   - Project/Template
-completed: no
-aliases:
+status: "nil | in progress | paused| completed"
+title: "blah"
+correspondingTags:
+  - aaa
+  - bbb
 createdDate: "{{date}}"
 ---
 # Description 
@@ -10,3 +13,6 @@ createdDate: "{{date}}"
 
 # Requirements 
 ....
+
+# LOG
+...

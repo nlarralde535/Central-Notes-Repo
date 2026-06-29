@@ -7,6 +7,7 @@ aliases:
 createdDate: 2026-02-15
 ---
 # Systems > Individuals
+Individuals in 1-1 interactions are far more open and amenable to reason than groups are. Groups need systems to operate rationally. 
 
 # Question!
 Ask as many "Why?"s as possible. 
@@ -45,6 +46,9 @@ Make people explain themselves as much as possible. Do not make their arguments 
 
 # Learning is not linear
 Learning is characterized by long periods of frustrating grind punctuated by Aha! moments. You must have a well-defined learning system and clear learning objectives in order to keep your spirits up through the periods of frustrating grind, when you're in between Aha! moments.
+
+# Learning takes time, understanding requires effort
+"I can explain it to you, but I can't make you understand it" - Adam
 
 # You can't improve what you don't measure
 
