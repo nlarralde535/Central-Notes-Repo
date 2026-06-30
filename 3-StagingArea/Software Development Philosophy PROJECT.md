@@ -1,12 +1,14 @@
 ---
 tags:
   - Project/SoftwareDevelopmentPhilosophy
-completed: no
-aliases:
+status: in progress
+title: blah
+correspondingTags:
+  - Note/Project/SoftwareDevelopmentPhilosophy
+  - bbb
 createdDate: 2026-04-21
 ---
 # Description 
-
 Over the course of trying  to grow in our career (and out of cPanel) it has become apparent that we lack a set of guiding principles w/r/t this field of software development, which includes software testing. 
 
 We are currently reading *Lessons Learned in Software Testing* by Bach, Kaner, and Petichord, and this book has helped solidify the need for us to compose a software development philosophy. 
@@ -42,3 +44,21 @@ FROM #Note/Book/LessonsLearnedInSoftwareTesting
 LIST
 FROM #Note/Book/TDD 
 ```
+
+# Requirements 
+....
+
+# Notes tagged "Note/Project/SoftwareDevelopmentPhilosophy"
+```dataview
+LIST
+FROM #Note/Project/SoftwareDevelopmentPhilosophy 
+```
+
+# Notes tagged "bbb"
+```dataview
+LIST
+FROM #bbb
+```
+
+# LOG
+6-29-2026: this project note was created and the content of the previous note was copied over into this one. (I didn't realize there was already a Project note for this when I stared making this one)

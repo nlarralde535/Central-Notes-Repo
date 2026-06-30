@@ -1,7 +1,7 @@
 ---
 tags:
   - Note/Plate/Tech/AI/ClaudeCode
-  - Project/CurrentEventsTimelineApp
+  - Note/Project/CurrentEventsTimelineApp
 aliases:
   - _template
 createdDate: 2026-04-06

@@ -1,18 +1,13 @@
 ---
 tags:
-  - Project/Template
-status: "nil | in progress | paused| completed"
-title: "blah"
+  - Essay
+  - Essay/template
 correspondingTags:
   - aaa
   - bbb
 createdDate: "{{date}}"
 ---
-# Description 
-....
-
-# Requirements 
-....
+# Thesis:
 
 # Notes tagged "aaa"
 ```dataview

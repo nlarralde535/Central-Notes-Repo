@@ -1,7 +1,7 @@
 ---
 tags:
   - Note/Plate/Tech/SoftwarePhilosophy/Testing
-  - Project/SoftwareDevelopmentPhilosophy
+  - Note/Project/SoftwareDevelopmentPhilosophy
 aliases:
   - _template
 createdDate: 2026-04-02

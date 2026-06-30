@@ -3,21 +3,26 @@ tags:
   - Plate/...
   - Plates/Group
   - Plates/Plate
-aliases:
-  - _template
+correspondingTags:
+  - aaa
+  - bbb
 createdDate: "{{date}}"
 ---
 ## Priority: 
 
 ## Description:
 
-## Sources: 
-Default **AP**: 1/3 
-Default **ap**: 4x15min Pomodoro
- - ___
- - ___
+# Notes tagged "aaa"
+```dataview
+LIST
+FROM #aaa
+```
 
-## Progression:
+# Notes tagged "bbb"
+```dataview
+LIST
+FROM #bbb
+```
 
-## In-focus Source: 
-
+# LOG
+...

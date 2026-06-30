@@ -1,17 +1,14 @@
 ---
 tags:
-  - Project/Template
-status: "nil | in progress | paused| completed"
-title: "blah"
+  - Book
+  - Book/Template
+title: blah
 correspondingTags:
   - aaa
   - bbb
 createdDate: "{{date}}"
 ---
 # Description 
-....
-
-# Requirements 
 ....
 
 # Notes tagged "aaa"
