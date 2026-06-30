@@ -1,6 +1,5 @@
 ---
 tags:
-  - Note/Book/TheWorldyPhilosophers
   - Note/City_of_Houston
 aliases:
   - _template

@@ -1,7 +1,7 @@
 ---
 tags:
   - Note
-  - Note/MakeItStick
+  - Note/Book/MakeItStick
 aliases:
   - _template
 createdDate: 10-05-2025

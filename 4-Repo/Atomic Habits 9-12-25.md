@@ -1,7 +1,7 @@
 ---
 tags:
   - Note
-  - Note/AtomicHabits
+  - Note/Book/AtomicHabits
 aliases:
   - _template
 createdDate: 09-12-2025

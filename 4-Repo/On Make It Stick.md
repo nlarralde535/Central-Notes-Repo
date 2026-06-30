@@ -1,4 +1,5 @@
 ---
+status: "done"
 tags:
   - Essay
   - Essay/MakeItStick
@@ -12,7 +13,7 @@ This is what I learned from Make it Stick
 
 ```dataview
 LIST
-FROM #Note/MakeItStick 
+FROM #Note/Book/MakeItStick 
 SORT createdDate
 ```
 

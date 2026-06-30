@@ -5,7 +5,7 @@
   "foldIndent": false,
   "showLineNumber": true,
   "autoPairBrackets": true,
-  "autoPairMarkdown": false,
+  "autoPairMarkdown": true,
   "useTab": false,
   "newFileLocation": "folder",
   "newFileFolderPath": "3-StagingArea",

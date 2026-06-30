@@ -2,6 +2,7 @@
 tags:
   - Essay
   - Essay/template
+status: "todo | in-progress | done"
 correspondingTags:
   - aaa
   - bbb

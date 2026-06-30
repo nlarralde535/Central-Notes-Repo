@@ -1,4 +1,5 @@
 ---
+status: "todo"
 tags:
   - Essay/PoliticalLanguage
   - Essay/todo

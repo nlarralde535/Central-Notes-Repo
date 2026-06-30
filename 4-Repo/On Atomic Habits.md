@@ -1,4 +1,5 @@
 ---
+status: "done"
 tags:
   - Essay
   - Essay/AtomicHabits
@@ -11,7 +12,7 @@ Here is what we learned from reading Atomic Habits
 
 ```dataview
 LIST
-FROM #Note/AtomicHabits 
+FROM #Note/Book/AtomicHabits 
 SORT createdDate
 ```
 
