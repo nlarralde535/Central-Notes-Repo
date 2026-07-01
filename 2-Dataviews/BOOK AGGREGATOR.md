@@ -1,6 +1,6 @@
-# All Books:
+# Books Table
 ```dataview
-TABLE status, createdDate
-FROM #Note/Book
-SORT createdDate DESCENDING
+TABLE status, dateStarted
+FROM #Book and -#Book/Template
+SORT status ASC
 ```

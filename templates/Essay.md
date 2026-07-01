@@ -7,16 +7,18 @@ correspondingTags:
   - aaa
   - bbb
 createdDate: "{{date}}"
+dateStarted: "null"
+dateCompleted: "null"
 ---
 # Thesis:
 
-# Notes tagged "aaa"
+# Corresponding Tag: "aaa"
 ```dataview
 LIST
 FROM #aaa
 ```
 
-# Notes tagged "bbb"
+# Corresponding Tag: "bbb"
 ```dataview
 LIST
 FROM #bbb

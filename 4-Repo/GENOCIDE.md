@@ -1,18 +1,15 @@
 ---
 tags:
-  - Question
-  - Question/Template
-status: "nil | in progress | paused| completed"
+  - Question/GENOCIDE
+status: "nil"
 correspondingTags:
   - aaa
   - bbb
-createdDate: "{{date}}"
+createdDate: "2026-06-30"
 dateStarted: "null"
 dateCompleted: "null"
 description: |
-  Lorem ipsum dolor sit amet, 
-  consectetur adipiscing elit, 
-  sed do eiusmod tempor...
+  How does the genocide of white farmers in South Africa compare to the genocide in Gaza?
 ---
 # Description 
 ....
@@ -30,4 +27,4 @@ FROM #bbb
 ```
 
 # LOG
-...
+6-30-2026: created this note from the original 1-Whiteboard/QuestionsToEssays.md note 
