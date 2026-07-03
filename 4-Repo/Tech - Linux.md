@@ -2,7 +2,8 @@
 tags:
   - Plate/Tech/Linux
   - Plates/Plate
-priority: "A"
+priority: A
+focusedSource: "[[How Linux Works - Ward]]"
 correspondingTags:
   - aaa
   - bbb

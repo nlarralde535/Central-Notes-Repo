@@ -2,7 +2,8 @@
 tags:
   - Plate/Tech/SoftwareDevelopmentPhilosophy
   - Plates/Plate
-priority: "A"
+priority: A
+focusedSource: "[[Test-Driven Development]]"
 correspondingTags:
   - aaa
   - bbb

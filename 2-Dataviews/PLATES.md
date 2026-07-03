@@ -1,6 +1,6 @@
 # Priority A
 ```dataview
-TABLE priority
+TABLE focusedSource AS "In-Focus Source"
 FROM #Plates/Plate and -#Plates/Template
 WHERE priority = "A"
 ```

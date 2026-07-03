@@ -3,7 +3,8 @@ tags:
   - Plates/Plate
   - Plates/Group/WantToDo
   - Plate/CriminalJustice
-priority: "A"
+priority: A
+focusedSource: "[[Intro to Criminal Justice - Dr Daniel Clay]]"
 correspondingTags:
   - aaa
   - bbb
