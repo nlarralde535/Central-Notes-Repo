@@ -2,8 +2,10 @@
 tags:
   - Plate/Tech/AlgorithmsDataStructures
   - Plates/Plate
-aliases:
-  - _template
+priority: "B"
+correspondingTags:
+  - aaa
+  - bbb
 createdDate: 2026-06-23
 ---
 ## Priority: 
@@ -22,5 +24,14 @@ FROM #Note/Plate/Tech/Source/AlgorithmsDataStructures
 ## Progression:
 
 
-## In-focus Source: 
+# Corresponding Tag: "aaa"
+```dataview
+LIST
+FROM #aaa
+```
 
+# Corresponding Tag: "bbb"
+```dataview
+LIST
+FROM #bbb
+```

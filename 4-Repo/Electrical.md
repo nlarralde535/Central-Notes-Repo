@@ -3,8 +3,10 @@ tags:
   - Plates/Plate
   - Plates/Group/HaveToDo
   - Note/Plate/Electrical
-aliases:
-  - _template
+priority: "D"
+correspondingTags:
+  - ElectricalTheory
+  - bbb
 createdDate: 01-04-2026
 ---
 ## Priority: 1
@@ -29,10 +31,15 @@ FROM #Note/Plate/Electrical/Source
 ## In-focus Source: 
 
 
-# Electrical Theory notes: 
+# Corresponding Tag: "ElectricalTheory"
 ```dataview
 LIST
 FROM #ElectricalTheory and -#ElectricalTheory/template
 SORT createdDate DESCENDING 
 ```
 
+# Corresponding Tag: "bbb"
+```dataview
+LIST
+FROM #bbb
+```

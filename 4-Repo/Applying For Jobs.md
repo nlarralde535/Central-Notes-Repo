@@ -2,8 +2,8 @@
 tags:
   - Plates/Group/HaveToDo
   - Plates/Plate
-  - Note/Plate/ApplyingForJobs
-aliases:
+  - Plate/ApplyingForJobs
+priority: "A"
 createdDate: 01-03-2026
 ---
 ## Priority: 1

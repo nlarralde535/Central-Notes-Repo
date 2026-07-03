@@ -3,8 +3,10 @@ tags:
   - Plates/Group/WantToDo
   - Plates/Plate
   - Note/Plate/Finance
-aliases:
-  - _template
+priority: "D"
+correspondingTags:
+  - aaa
+  - bbb
 createdDate: 01-03-2026
 ---
 ## Priority: 2
@@ -22,5 +24,15 @@ Default **ap**: 4x15min Pomodoro
 ## Progression:
 I really have no background or frame of reference for this finance stuff, but the first 2 Sources up there ^ I think will be good foundational material. 
 
-## In-focus Source: 
+# Corresponding Tag: "aaa"
+```dataview
+LIST
+FROM #aaa
+```
+
+# Corresponding Tag: "bbb"
+```dataview
+LIST
+FROM #bbb
+```
 

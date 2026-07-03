@@ -2,8 +2,10 @@
 tags:
   - Plates/Group/WantToDo
   - Plates/Plate
-aliases:
-  - _template
+priority: "null"
+correspondingTags:
+  - aaa
+  - bbb
 createdDate: 01-04-2026
 ---
 ## Priority: 1 
@@ -27,5 +29,14 @@ Projects
 ## Progression:
 1/4/2026: The materials for the above sources are well-defined, but I'm undecided on whether to focus on Linux first or to alternate between these two the way we have decided to do for [[History]]. 
 
-## In-focus Source: 
+# Corresponding Tag: "aaa"
+```dataview
+LIST
+FROM #aaa
+```
 
+# Corresponding Tag: "bbb"
+```dataview
+LIST
+FROM #bbb
+```

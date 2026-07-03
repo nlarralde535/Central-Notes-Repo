@@ -2,9 +2,11 @@
 tags:
   - Plates/Group/HaveToDo
   - Plates/Plate
-  - Note/Plate/Automotive
-aliases:
-  - _template
+  - Plate/Automotive
+priority: "D"
+correspondingTags:
+  - aaa
+  - bbb
 createdDate: 01-03-2026
 ---
 ## Priority: 3
@@ -25,5 +27,15 @@ CR-V maintenance
 ## Progression:
 1/4/2026: We don't have any formal structure for studying this stuff; will come back to this once other, higher-priority Plates stabilize. 
 
-## In-focus Source: 
+# Corresponding Tag: "aaa"
+```dataview
+LIST
+FROM #aaa
+```
+
+# Corresponding Tag: "bbb"
+```dataview
+LIST
+FROM #bbb
+```
 

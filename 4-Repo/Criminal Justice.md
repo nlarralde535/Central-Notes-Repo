@@ -2,8 +2,11 @@
 tags:
   - Plates/Plate
   - Plates/Group/WantToDo
-  - Note/Plate/CriminalJustice
-aliases:
+  - Plate/CriminalJustice
+priority: "A"
+correspondingTags:
+  - aaa
+  - bbb
 createdDate: 2026-02-16
 ---
 ## Priority: 
@@ -36,6 +39,14 @@ FROM #Note/Plate/CriminalJustice/Source
      - Police in America: An Introduction. By Samuel Walker & Charles Katz, 2022
 
 
-## Progression:
+# Corresponding Tag: "aaa"
+```dataview
+LIST
+FROM #aaa
+```
 
-## In-focus Source: 
+# Corresponding Tag: "bbb"
+```dataview
+LIST
+FROM #bbb
+```

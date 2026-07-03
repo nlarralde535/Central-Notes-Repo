@@ -2,8 +2,10 @@
 tags:
   - Plate/Tech/CProgramming
   - Plates/Plate
-aliases:
-  - _template
+priority: "B"
+correspondingTags:
+  - aaa
+  - bbb
 createdDate: 2026-06-23
 ---
 ## Priority: 
@@ -18,5 +20,14 @@ FROM #Note/Plate/Tech/Source/CProgramming
 ```
 ## Progression:
 
-## In-focus Source: 
+# Corresponding Tag: "aaa"
+```dataview
+LIST
+FROM #aaa
+```
 
+# Corresponding Tag: "bbb"
+```dataview
+LIST
+FROM #bbb
+```

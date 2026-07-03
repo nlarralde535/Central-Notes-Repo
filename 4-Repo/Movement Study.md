@@ -2,9 +2,11 @@
 tags:
   - Plates/Group/WantToDo
   - Plates/Plate
-  - Note/Plate/Movement
-aliases:
-  - _template
+  - Plate/Movement
+priority: "D"
+correspondingTags:
+  - aaa
+  - bbb
 createdDate: 01-04-2026
 ---
 ## Priority: 3
@@ -20,4 +22,14 @@ FROM #Note/Plate/Movement/Source
 ## Progression:
 1/3/2026: Whenever we get back to this material I believe we should take a similar approach to the one we took when getting back into Economics after a long period away: start by rereading the stuff that resonated with us in the past. In this case that means reading Pavel and Dan John. 
 
-## In-focus Source:        -->
+# Corresponding Tag: "aaa"
+```dataview
+LIST
+FROM #aaa
+```
+
+# Corresponding Tag: "bbb"
+```dataview
+LIST
+FROM #bbb
+```

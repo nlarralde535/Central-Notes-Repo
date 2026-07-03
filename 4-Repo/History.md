@@ -3,8 +3,10 @@ tags:
   - Plates/Group/WantToDo
   - Plates/Plate
   - Plate/History
-aliases:
-  - _template
+priority: "B"
+correspondingTags:
+  - aaa
+  - bbb
 createdDate: 01-03-2026
 ---
 ## Priority: 1
@@ -22,4 +24,14 @@ FROM #Note/Plate/History/Source
 
 The idea with the above sources is to alternate between them according to the prescribed Local **AP** cadence, not to complete one before pivoting to the other. 
 
-## In-focus Source: 
+# Corresponding Tag: "aaa"
+```dataview
+LIST
+FROM #aaa
+```
+
+# Corresponding Tag: "bbb"
+```dataview
+LIST
+FROM #bbb
+```

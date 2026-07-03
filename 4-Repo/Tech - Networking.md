@@ -2,8 +2,10 @@
 tags:
   - Plate/Tech/Networking
   - Plates/Plate
-aliases:
-  - _template
+priority: "B"
+correspondingTags:
+  - aaa
+  - bbb
 createdDate: 2026-06-23
 ---
 ## Priority: 
@@ -17,5 +19,15 @@ FROM #Note/Plate/Tech/Source/Networking
 ```
 ## Progression:
 
-## In-focus Source: 
+# Corresponding Tag: "aaa"
+```dataview
+LIST
+FROM #aaa
+```
+
+# Corresponding Tag: "bbb"
+```dataview
+LIST
+FROM #bbb
+```
 

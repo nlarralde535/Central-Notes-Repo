@@ -2,9 +2,11 @@
 tags:
   - Plates/Plate
   - Plates/Group/WantToDo
-  - Note/Plate/Accounting
-aliases:
-  - _template
+  - Plate/Accounting
+priority: "D"
+correspondingTags:
+  - aaa
+  - bbb
 createdDate: 01-03-2026
 ---
 
@@ -19,4 +21,14 @@ LIST
 FROM #Note/Plate/Accounting/Source 
 ```
 
-## In-focus Source: 
+# Corresponding Tag: "aaa"
+```dataview
+LIST
+FROM #aaa
+```
+
+# Corresponding Tag: "bbb"
+```dataview
+LIST
+FROM #bbb
+```

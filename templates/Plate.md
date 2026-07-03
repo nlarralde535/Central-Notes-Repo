@@ -1,8 +1,9 @@
 ---
 tags:
   - Plate/...
-  - Plates/Group
   - Plates/Plate
+  - Plates/Template
+priority: "A | B | C | D"
 correspondingTags:
   - aaa
   - bbb

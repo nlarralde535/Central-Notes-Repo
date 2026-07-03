@@ -2,14 +2,24 @@
 tags:
   - Plates/Group/HaveToDo
   - Plates/Plate
-  - Note/Plate/AdminStuff
-aliases:
-  - _template
+  - Plate/AdminStuff
+priority: "D"
+correspondingTags:
+  - aaa
+  - bbb
 createdDate: 01-03-2026
 ---
 ## Priority:  1
 
 ## Description:
+**07-3-2026:**  This Plate can capture notes related to things like: 
+ - our around-the-house cleaning system
+ - DIY home repair projects
+     - Thermal imaging
+     - insulation
+     - passive cooling
+     - etc...
+
 Having systems for cleaning makes cleaning much easier to work into a regular routine without having to explicitly plan "cleaning days". We currently don't have much in the way of cleaning systems. 
 
 ## Sources: 
@@ -38,4 +48,14 @@ Retirement
 ## Progression:
 Honestly I'm not sure how to progress through these things. Something that has emerged is having little spray bottles with cleaning solution set up at each of the Sources, and giving things a "wipe down" after every couple of uses, keeping things relatively clean in the way that we keep our sink/dishes perpetually clean. 
 
-## In-focus Source: 
+# Corresponding Tag: "aaa"
+```dataview
+LIST
+FROM #aaa
+```
+
+# Corresponding Tag: "bbb"
+```dataview
+LIST
+FROM #bbb
+```

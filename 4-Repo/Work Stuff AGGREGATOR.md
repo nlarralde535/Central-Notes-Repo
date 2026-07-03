@@ -2,9 +2,11 @@
 tags:
   - Plates/Group/HaveToDo
   - Plates/Plate
-  - Note/Plate/WorkStuff
-aliases:
-  - _template
+  - Plate/WorkStuff
+priority: "null"
+correspondingTags:
+  - aaa
+  - bbb
 createdDate: 01-04-2026
 ---
 ## Priority: 1
@@ -17,4 +19,15 @@ This is all shit that mostly only has utility in the context of work.
 LIST
 FROM #Note/Plate/WorkStuff/Source  
 ```
-## In-focus Source: 
+
+# Corresponding Tag: "aaa"
+```dataview
+LIST
+FROM #aaa
+```
+
+# Corresponding Tag: "bbb"
+```dataview
+LIST
+FROM #bbb
+```

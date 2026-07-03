@@ -2,9 +2,11 @@
 tags:
   - Plates/Group/WantToDo
   - Plates/Plate
-  - Note/Plate/Math
-aliases:
-  - _template
+  - Plate/Math
+priority: "C"
+correspondingTags:
+  - aaa
+  - bbb
 createdDate: 01-04-2026
 ---
 ## Priority: 
@@ -21,4 +23,14 @@ FROM #Note/Plate/Math/Source
 ## Progression:
 The above ordering is a sensible progression
 
-## In-focus Source:
+# Corresponding Tag: "aaa"
+```dataview
+LIST
+FROM #aaa
+```
+
+# Corresponding Tag: "bbb"
+```dataview
+LIST
+FROM #bbb
+```
