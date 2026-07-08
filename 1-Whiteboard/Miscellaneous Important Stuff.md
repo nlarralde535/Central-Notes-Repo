@@ -24,3 +24,7 @@ The Office of the Federal Register (OFR) of the National Archives and Records Ad
 
 # The Emperor Has No Clothes: How to Code Claude Code in 200 Lines of Code
 https://www.mihaileric.com/The-Emperor-Has-No-Clothes/
+
+# Stuff from HOSS Al Wong
+ - [Linux From Scratch](https://www.linuxfromscratch.org/lfs/download.html)
+ - [emacs org mode](https://irreal.org/blog/?p=12817)
