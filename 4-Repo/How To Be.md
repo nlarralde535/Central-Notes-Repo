@@ -12,6 +12,9 @@ Individuals in 1-1 interactions are far more open and amenable to reason than gr
 # Question!
 Ask as many "Why?"s as possible. 
 
+# First things first 
+Gray Cook says "We should not put fitness on movement dysfunction." While this quote is specific to the fitness/movement context, the point applies more generally: understand your current state and the limitations of it. Do not add load to yourself that you're not prepared to handle. 
+
 # Acknowledge your limitations 
 Say "I don't know" when you don't know something. 
 
@@ -31,7 +34,6 @@ When deciding to take on a new project, front-load as much of the decision-makin
 
 # Slow is Smooth, Smooth is Fast
 Practice the basics, then practice doing the basics perfectly. Spend time focusing on your weaknesses. 
-
 # Be Serious
 Treat serious matters seriously: no joking, no sarcasm.
 
