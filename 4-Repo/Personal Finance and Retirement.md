@@ -1,20 +1,19 @@
 ---
 tags:
-  - Plate/____
+  - Plate/PersonalFinanceAndRetirement
   - Plates/Plate
-  - Plates/Template
-priority: "A | B | C | D"
+priority: "C"
 correspondingTags:
   - aaa
   - bbb
-createdDate: "{{date}}"
+createdDate: "2026-07-14"
 ---
-## Description:
+# Description:
 
 # Sources
 ```dataview
 TABLE progressionPosition
-FROM #Note/Plate/_____/Source 
+FROM #Note/Plate/PersonalFinanceAndRetirement/Source 
 SORT progressionPosition ASC
 ```
 

@@ -3,7 +3,8 @@ tags:
   - ToDo/Template
 dueDate:
 priority: 1 - 10
-category: Project | Plate | Misc
+category: "Project | Plate | General | Misc"
+status: "todo | in progress | paused | completed"
 createdDate: "{{date}}"
 ---
 # Description 

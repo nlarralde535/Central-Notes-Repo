@@ -1,5 +1,6 @@
 {
   "enabledCssSnippets": [
     "align-images-nic"
-  ]
+  ],
+  "baseFontSize": 16
 }

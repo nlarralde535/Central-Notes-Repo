@@ -24,6 +24,11 @@ Imagine relationships existing on a spectrum, where on one end is the absolute w
 
 I believe there is a range of relationships somewhere below the absolute best/ideal/dream relationship which, even though they are not the absolute best relationship, they are still worth pursuing and investing time into. These are the kinds of relationships I'm looking for.
 ```
+
+# Misc points
+ - people are not disposable, but also not every connection will last a lifetime. 
+
+
 # Get to the point...
 
  I am curious to get to know you a bit, and to share with you things about myself that I think are important, to share some stories and hopefully some laughs. I'd also like to discuss what we're each looking for, boundaries, and expectations. Are you open to that?
@@ -126,6 +131,8 @@ What does demonstrating interest, or being intentional look like to you?
 What does an honest apology look like to you? When someone hurts or offends you, what do you need from them in order to forgive them?
 
 What's on your mind these days?
+
+What does a typical day look like for you?
 
 In what ways are you working on yourself?
 
