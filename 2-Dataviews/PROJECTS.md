@@ -1,5 +1,6 @@
 ```dataview
-TABLE title, status
+TABLE status, createdDate
 FROM #Project and -#Project/Template
-SORT status
+SORT createdDate DESC
 ```
+
