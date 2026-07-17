@@ -4,7 +4,7 @@ tags:
 dueDate: 2026-07-16
 priority: 1
 category: "Admin"
-status: "todo"
+status: "done"
 createdDate: "2026-07-15"
 ---
 # Description 

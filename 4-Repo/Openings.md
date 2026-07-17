@@ -66,3 +66,4 @@ Are y'all aware that there are horrifying things being done by or facilitated by
  - when have you ever participated in a group decision-making process? Do you only know how to either give or take orders? Why should anyone listen to you then?
  - RHETORICAL: I won't simply take your word for anything, i'm treating you as a used car salesman trying to sell me a car: I need definitive proof of the assertions you're making.
  - RHETORICAL: If you studied proposed and existing legislation as closely as you study your Bible then there may well be far less nefarious behavior baked into law.
+ - REPLY TO SOCIAL MEDIA POSTS: "This is an entirely emotional response, your claims do not hold up to the merest scrutiny. All you're doing here is stroking your audience, and in return they strike you here in the comments. None of you are taken seriously by anyone who is actually trying to solve problems."
