@@ -33,7 +33,13 @@
   cursor: default;
 }
 
+/* The tag tree collapses on narrow screens; see the breakpoint at the bottom.
+   Children use margins rather than the sidebar's flex gap, because a <details>
+   wraps its non-summary children in a box that gap cannot reach into. */
 .heading {
+  display: flex;
+  align-items: center;
+  gap: 0.375rem;
   font-size: 0.75rem;
   font-weight: 600;
   text-transform: uppercase;
@@ -41,12 +47,34 @@
   color: #6b7280;
   padding-bottom: 0.5rem;
   border-bottom: 1px solid #e5e7eb;
+  list-style: none;
+  cursor: pointer;
+}
+
+.heading::-webkit-details-marker {
+  display: none;
+}
+
+/* Active-filter count, so a collapsed panel still shows filters are applied. */
+.headingCount {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 1.05rem;
+  height: 1.05rem;
+  padding: 0 0.3rem;
+  border-radius: 999px;
+  background: #dbeafe;
+  color: #1d4ed8;
+  font-size: 0.65rem;
+  letter-spacing: 0;
 }
 
 .chips {
   display: flex;
   flex-wrap: wrap;
   gap: 0.375rem;
+  margin-top: 0.75rem;
 }
 
 .chip {
@@ -71,6 +99,7 @@
   display: flex;
   flex-direction: column;
   gap: 0.1rem;
+  margin-top: 0.75rem;
 }
 
 .treeNode {
@@ -117,4 +146,27 @@
   display: flex;
   flex-direction: column;
   gap: 0.1rem;
+}
+
+/* Desktop: the tag tree is always open and the heading is inert, exactly as it
+   behaved before it became a <summary>. */
+@media (min-width: 641px) {
+  .heading {
+    cursor: default;
+    pointer-events: none;
+  }
+}
+
+/* Mobile: collapsible, with a disclosure marker to make that discoverable. */
+@media (max-width: 640px) {
+  .heading::before {
+    content: '▸';
+    display: inline-block;
+    font-size: 0.7rem;
+    transition: transform 0.15s ease;
+  }
+
+  .filters[open] .heading::before {
+    transform: rotate(90deg);
+  }
 }

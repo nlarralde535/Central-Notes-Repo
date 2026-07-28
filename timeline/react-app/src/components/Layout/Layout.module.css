@@ -20,3 +20,29 @@
   overflow-y: auto;
   padding: 1.5rem 2rem;
 }
+
+/* On phones a fixed 260px rail leaves almost nothing for the timeline, so the
+   sidebar stacks above it as a short bar instead. dvh rather than vh so the
+   mobile browser chrome does not push the bottom of the page out of reach. */
+@media (max-width: 640px) {
+  .layout {
+    flex-direction: column;
+    height: 100dvh;
+  }
+
+  .sidebar {
+    width: 100%;
+    height: auto;
+    max-height: 60dvh;
+    flex-shrink: 0;
+    border-right: none;
+    border-bottom: 1px solid #e5e7eb;
+    padding: 0.875rem 1rem;
+  }
+
+  .main {
+    height: auto;
+    min-height: 0;
+    padding: 1rem;
+  }
+}
