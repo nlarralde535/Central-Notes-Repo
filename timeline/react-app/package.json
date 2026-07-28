@@ -4,9 +4,9 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "prebuild": "node scripts/build-data.mjs",
+    "prebuild": "node scripts/build-data.mjs && node scripts/build-review-html.mjs",
     "build": "tsc -b && vite build",
-    "dev": "node scripts/build-data.mjs && vite",
+    "dev": "node scripts/build-data.mjs && node scripts/build-review-html.mjs && vite",
     "lint": "eslint .",
     "preview": "vite preview"
   },
@@ -25,6 +25,8 @@
     "eslint-plugin-react-refresh": "^0.5.2",
     "globals": "^17.6.0",
     "gray-matter": "^4.0.3",
+    "isomorphic-dompurify": "^3.19.0",
+    "marked": "^18.0.7",
     "typescript": "~6.0.2",
     "typescript-eslint": "^8.59.2",
     "vite": "^8.0.12"

@@ -1,17 +1,21 @@
 import { useState } from 'react'
 import { useTimelineData } from './hooks/useTimelineData'
+import { useReviewData } from './hooks/useReviewData'
 import { filterEntries, groupByMonth } from './utils/filterEntries'
 import { pickRandom } from './utils/randomSelection'
 import { Layout } from './components/Layout'
 import { TagFilterSidebar } from './components/TagFilterSidebar'
 import { TimelineMonth } from './components/TimelineMonth'
 import { MorningNewspaper } from './components/MorningNewspaper'
+import { DailyReview } from './components/DailyReview'
 import type { TimelineEntry } from './types'
 
 function App() {
   const { entries, tagTree, loading, error } = useTimelineData()
+  const { notes, loading: reviewLoading, error: reviewError } = useReviewData()
   const [activeFilters, setActiveFilters] = useState<Set<string>>(new Set())
   const [newspaper, setNewspaper] = useState<TimelineEntry[] | null>(null)
+  const [dailyReview, setDailyReview] = useState(false)
 
   function toggleFilter(path: string) {
     setActiveFilters(prev => {
@@ -27,6 +31,9 @@ function App() {
 
   function openNewspaper() { setNewspaper(pickRandom(entries)) }
   function closeNewspaper() { setNewspaper(null) }
+
+  function openDailyReview() { setDailyReview(true) }
+  function closeDailyReview() { setDailyReview(false) }
 
   if (loading) return <div className="status-message">Loading...</div>
   if (error) return <div className="status-message error">Error: {error}</div>
@@ -44,6 +51,8 @@ function App() {
             onToggleFilter={toggleFilter}
             onOpenNewspaper={openNewspaper}
             newspaperDisabled={entries.length === 0}
+            onOpenDailyReview={openDailyReview}
+            dailyReviewDisabled={reviewLoading || !!reviewError || notes.length === 0}
           />
         }
         main={
@@ -55,6 +64,7 @@ function App() {
         }
       />
       {newspaper && <MorningNewspaper entries={newspaper} onClose={closeNewspaper} />}
+      {dailyReview && <DailyReview notes={notes} onClose={closeDailyReview} />}
     </>
   )
 }

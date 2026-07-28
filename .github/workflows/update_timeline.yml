@@ -15,9 +15,10 @@ jobs:
     runs-on: ubuntu-latest
     # DOC: https://docs.github.com/en/actions/how-tos/write-workflows/choose-what-workflows-do/pass-job-outputs
     # DOC: https://docs.github.com/en/actions/reference/workflows-and-actions/workflow-syntax#jobsjob_idoutputs
-    outputs: 
+    outputs:
       newEntries: ${{ steps.checking.outputs.entries }}
       reactAppUpdates: ${{ steps.checking.outputs.react_app_updates }}
+      reviewNoteUpdates: ${{ steps.checking.outputs.review_note_updates }}
     steps:
       - name: Checkout the repo with fetch-depth = 2
         uses: actions/checkout@v5
@@ -41,13 +42,21 @@ jobs:
           REACT_APP_UPDATES=$(git diff HEAD^ --name-only | grep 'react-app/' | wc -l)
           echo "react_app_updates=$REACT_APP_UPDATES" >> "$GITHUB_OUTPUT"
           echo "Number of React App updates: [$REACT_APP_UPDATES]"
+          echo "# -----------------------------------"
+          echo "#    CHECKING FOR UPDATES TO THE DAILY REVIEW NOTES"
+          # These 4-Repo/ notes are converted to HTML by
+          # scripts/build-review-html.mjs, so editing one has to redeploy the
+          # site or the published Daily Review goes stale.
+          REVIEW_NOTE_UPDATES=$(git diff HEAD^ --name-only | grep -E '^4-Repo/(What To Do|How To Be|Policy Positions|Openings|Test Questions)\.md$' | wc -l)
+          echo "review_note_updates=$REVIEW_NOTE_UPDATES" >> "$GITHUB_OUTPUT"
+          echo "Number of Daily Review note updates: [$REVIEW_NOTE_UPDATES]"
   build:
     runs-on: ubuntu-latest
     needs: check
     # DOC: https://docs.github.com/en/actions/reference/workflows-and-actions/workflow-syntax#jobsjob_idif
     # DOC: https://docs.github.com/en/actions/reference/workflows-and-actions/expressions
     # DOC: https://docs.github.com/en/actions/reference/workflows-and-actions/contexts#needs-context
-    if: ${{ needs.check.outputs.newEntries > 0  ||  needs.check.outputs.reactAppUpdates > 0 }}
+    if: ${{ needs.check.outputs.newEntries > 0  ||  needs.check.outputs.reactAppUpdates > 0  ||  needs.check.outputs.reviewNoteUpdates > 0 }}
     steps:
       - name: Checkout the new commit
         uses: actions/checkout@v5

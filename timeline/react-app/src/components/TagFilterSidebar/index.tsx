@@ -9,18 +9,37 @@ interface Props {
   onToggleFilter: (path: string) => void
   onOpenNewspaper: () => void
   newspaperDisabled: boolean
+  onOpenDailyReview: () => void
+  dailyReviewDisabled: boolean
 }
 
-export function TagFilterSidebar({ tagTree, activeFilters, onToggleFilter, onOpenNewspaper, newspaperDisabled }: Props) {
+export function TagFilterSidebar({
+  tagTree,
+  activeFilters,
+  onToggleFilter,
+  onOpenNewspaper,
+  newspaperDisabled,
+  onOpenDailyReview,
+  dailyReviewDisabled,
+}: Props) {
   return (
     <aside className={styles.sidebar}>
-      <button
-        className={styles.newspaperBtn}
-        onClick={onOpenNewspaper}
-        disabled={newspaperDisabled}
-      >
-        📰 Morning Newspaper
-      </button>
+      <div className={styles.actions}>
+        <button
+          className={styles.sidebarBtn}
+          onClick={onOpenNewspaper}
+          disabled={newspaperDisabled}
+        >
+          📰 Morning Newspaper
+        </button>
+        <button
+          className={styles.sidebarBtn}
+          onClick={onOpenDailyReview}
+          disabled={dailyReviewDisabled}
+        >
+          📓 Daily Review
+        </button>
+      </div>
       <h2 className={styles.heading}>Filter by tag</h2>
       <ActiveFilterChips activeFilters={activeFilters} onRemove={onToggleFilter} />
       <ul className={styles.tree}>

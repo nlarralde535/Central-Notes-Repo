@@ -1,0 +1,100 @@
+/* marked emits unclassed tags, so style by element within the local class. */
+.prose h1 {
+  font-size: 1.05rem;
+  font-weight: 600;
+  color: #111827;
+  line-height: 1.4;
+  margin-top: 1.25rem;
+  margin-bottom: 0.5rem;
+}
+
+.prose h2 {
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: #111827;
+  margin-top: 1rem;
+  margin-bottom: 0.4rem;
+}
+
+.prose h3,
+.prose h4 {
+  font-size: 0.875rem;
+  font-weight: 600;
+  color: #374151;
+  margin-top: 0.875rem;
+  margin-bottom: 0.3rem;
+}
+
+.prose > :first-child {
+  margin-top: 0;
+}
+
+.prose p {
+  font-size: 0.875rem;
+  color: #374151;
+  line-height: 1.65;
+  margin: 0.5rem 0;
+}
+
+/* index.css zeroes padding globally; restore indentation and markers. */
+.prose ul,
+.prose ol {
+  list-style: revert;
+  padding-left: 1.25rem;
+  margin: 0.5rem 0;
+}
+
+.prose li {
+  font-size: 0.875rem;
+  color: #374151;
+  line-height: 1.6;
+  margin: 0.25rem 0;
+}
+
+.prose li > ul,
+.prose li > ol {
+  margin: 0.25rem 0;
+}
+
+.prose a {
+  color: #2563eb;
+  overflow-wrap: anywhere;
+}
+
+.prose strong {
+  font-weight: 600;
+  color: #111827;
+}
+
+.prose hr {
+  border: 0;
+  border-top: 1px solid #e5e7eb;
+  margin: 1.25rem 0;
+}
+
+.prose blockquote {
+  border-left: 3px solid #e5e7eb;
+  padding-left: 0.75rem;
+  color: #6b7280;
+  margin: 0.5rem 0;
+}
+
+.prose code {
+  font-size: 0.8125rem;
+  background: #f3f4f6;
+  border-radius: 4px;
+  padding: 0.1rem 0.25rem;
+}
+
+.prose pre {
+  background: #f3f4f6;
+  border-radius: 6px;
+  padding: 0.75rem;
+  overflow-x: auto;
+  margin: 0.5rem 0;
+}
+
+.prose pre code {
+  background: none;
+  padding: 0;
+}

@@ -17,6 +17,18 @@ export interface TimelineEntry {
   contentSections: ContentSection[]
 }
 
+export interface ReviewNoteMeta {
+  id: string
+  title: string
+  file: string
+  tags: string[]
+  createdDate: string
+}
+
+export interface ReviewNote extends ReviewNoteMeta {
+  html: string
+}
+
 export interface TagTreeNode {
   label: string
   path: string
