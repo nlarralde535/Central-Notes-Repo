@@ -3,9 +3,9 @@ tags:
   - ToDo
 dueDate:
 priority: 1
-category: "Plate"
-status: "todo"
-createdDate: "2026-07-18"
+category: Plate
+status: done
+createdDate: 2026-07-18
 ---
 # Description 
 Use the plastic letter stencils to trace out SHAME ON YOU on a piece of cardboard,then use our Exacto knife to cut out the message

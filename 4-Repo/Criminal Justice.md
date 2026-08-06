@@ -4,7 +4,7 @@ tags:
   - Plates/Group/WantToDo
   - Plate/CriminalJustice
 priority: A
-focusedSource: "[[Intro to Criminal Justice - Dr Daniel Clay]]"
+focusedSource: "[[City of Houston Code of Ordinances 1]]"
 correspondingTags:
   - aaa
   - bbb

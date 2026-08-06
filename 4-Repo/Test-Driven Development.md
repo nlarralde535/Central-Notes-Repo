@@ -16,7 +16,8 @@ While researching BDD i believe we heard a talk given by Ian Cooper wherein he s
 # Tag: "Note/Book/TDD"
 ```dataview
 LIST
-FROM #Note/Book/TDD  
+FROM #Note/Book/TDD 
+SORT createdDate ASC
 ```
 
 # Tag: "bbb"

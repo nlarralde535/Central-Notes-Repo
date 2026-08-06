@@ -3,9 +3,9 @@ tags:
   - ToDo
 dueDate:
 priority: 1
-category: "Misc"
-status: "todo"
-createdDate: "2026-07-17"
+category: Misc
+status: done
+createdDate: 2026-07-17
 ---
 # Description 
 ....
