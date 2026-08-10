@@ -1,12 +1,12 @@
 ---
 tags:
   - Project
-status: "nil"
-title: "Read the Houston City Code of Ordinances"
+status: in progress
+title: Read the Houston City Code of Ordinances
 correspondingTags:
   - aaa
   - bbb
-createdDate: "2026-07-14"
+createdDate: 2026-07-14
 dateStarted: "null"
 dateCompleted: "null"
 ---

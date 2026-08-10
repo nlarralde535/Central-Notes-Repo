@@ -4,7 +4,7 @@ tags:
   - Plates/Group/WantToDo
   - Plate/CriminalJustice
 priority: A
-focusedSource: "[[City of Houston Code of Ordinances 1]]"
+focusedSource: "[[City of Houston Code of Ordinances]]"
 correspondingTags:
   - aaa
   - bbb
