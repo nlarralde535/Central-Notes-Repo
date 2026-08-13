@@ -1,9 +1,26 @@
 ---
 tags:
   - Note/Plate/WorkStuff
+  - Note/Plate/Tech/SoftwarePhilosophy/Testing
+  - Note/Project/SoftwareDevelopmentPhilosophy
 aliases:
 createdDate: 09-06-2025
 ---
+# 2026-08-12
+Notes from the bathroom mirror on test process improvement:
+ - what makes up a Test Plan? 
+ - describe the STLC
+ - describe the Test Pyramid
+ - what is the objective of test process improvement? 
+     - transition from addressing defects reactively to preventing defects proactively
+ - describe shift-left testing
+ - what is the primary objective of testing?
+     - to ensure the delivered software product meets all predefined stakeholder requirements, and that it is fit for user consumption
+ - describe traceability
+ - describe the difference between quality assurance and testing
+
+
+
 # 2-16-25
 Notes pertaining to the objectives/purpose of the Growth Chapter QA initiative
  - We should NOT attempt to define a top-down QA process for the entire organization. Rather we should consider the ideal QA process that we would like to see our individual teams implement, and use that as a basis for defining a common process: bottom-up vs. top-down
