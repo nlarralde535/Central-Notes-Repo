@@ -1,4 +1,7 @@
-
+---
+tags:
+  - Note/BathroomMirror
+---
 # Automotive
 ScannerDanner diagnostics book
 https://www.scannerdanner.com/buy-the-book.html

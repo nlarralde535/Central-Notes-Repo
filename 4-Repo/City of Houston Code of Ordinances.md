@@ -23,6 +23,10 @@ SORT createdDate ASC
 ```
 ---
 # Bookmark Log (stack)
+2026-08-10
+Done: reviewed Ch 10 Building and Neighborhood Protection and Ch 13 Emergency Management, Ch 14 Civil Service, Ch 16 Municipal Courts, there's nothing in this chapter worth spending time on right now. Reviewed Ch 18 and created a summary note therefore.
+To Do: pick up Ch 18 with Article 3
+
 2026-08-07
 Done: reviewed Ch 2 table of contents and listed Articles we should read. Read those listed Article and determined none of them contained any information worth noting
 To Do: proceed to Ch 10, review the table of contents and determine which Articles and Divisions seem useful.

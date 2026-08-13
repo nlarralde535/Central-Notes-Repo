@@ -1,3 +1,7 @@
+---
+tags:
+  - Note/BathroomMirror
+---
 Ok Jade (2025, Thailand)
 Revolver (2005)
 The Pink Panther (1964)

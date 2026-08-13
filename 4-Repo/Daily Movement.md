@@ -1,4 +1,7 @@
-
+---
+tags:
+  - Note/BathroomMirror
+---
 # 2026-06-08: Daily Isometric Time Accumulations
  - vertical hangs: 3 minutes
  - horizontal hangs: 1 minute

@@ -1,3 +1,8 @@
+---
+tags:
+  - Note/BathroomMirror
+---
+
 2026-04-01
 # Before Work: 6am - 9am
 [[Electrical]]

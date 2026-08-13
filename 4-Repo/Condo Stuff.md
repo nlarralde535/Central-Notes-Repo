@@ -1,3 +1,7 @@
+---
+tags:
+  - Note/BathroomMirror
+---
 
 ## Master Bathroom repairs
 Bathroom sink faucet
