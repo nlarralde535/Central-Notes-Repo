@@ -18,4 +18,17 @@ Misconduct means an act committed in violation of a penal law of the United Stat
 
 # Article III - Financial Disclosure 
 
-## Sec 
+## Sec. 18-21. - By covered city officials and candidates for city office
+
+(a)
+Notwithstanding the meaning of the term city official as provided in section 18-2 of this Code, only the city officials holding the following positions ... shall be required to comply with the provisions of this article:  (see code for positions)
+
+(b)
+On or before April 30 of each calendar year, each covered city official shall file with the city secretary a financial disclosure statement. The statement shall cover the previous calendar year. The mayor, city council members, and the city attorney shall file a financial disclosure statement pursuant to Chapter 145 of the Local Government Code. 
+
+(f)
+The city secretary shall retain financial disclosure statements for not less than five years from the date of filing. The city secretary shall also maintain a list of the persons who are required to file financial disclosure statements under this article and an index of the statements filed, setting forth names and dates of filing. 
+
+##  Sec. 18-22. - Public records.
+
+All financial disclosure statements required by this article shall be sworn or conform to minimum state law requirements for unsworn declarations and shall constitute public records. The city secretary shall maintain such statements in a manner that is accessible to the public during regular business hours. 

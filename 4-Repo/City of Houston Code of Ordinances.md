@@ -11,8 +11,14 @@ createdDate: 2026-06-23
 [City of Houston Code of Ordinances](https://library.municode.com/tx/houston/codes/code_of_ordinances)
 **6/21/2026:** We don't need to read all of this shit, at least not right now. Some chapters to focus on are chapters 2, 10, 13, 14, 16, 18, 33, 34, 35, 37
 
-Chapter 2
- - Article XVIII
+Chapter 33
+ - Article I
+ - Article VIII
+Chapter 34
+ - Article I
+ - Article II
+ - Article III
+ - Article VI
 
 ---
 # Corresponding Tag: "Note/Source/HoustonCodeOfOrdinances"
@@ -23,6 +29,13 @@ SORT createdDate ASC
 ```
 ---
 # Bookmark Log (stack)
+2026-08-13
+**DONE** 
+ - finished taking notes for Ch 18
+ - identified noteworthy Articles in Ch 33 and 34
+**TODO**
+ - pick up reading Ch 33
+
 2026-08-10
 Done: reviewed Ch 10 Building and Neighborhood Protection and Ch 13 Emergency Management, Ch 14 Civil Service, Ch 16 Municipal Courts, there's nothing in this chapter worth spending time on right now. Reviewed Ch 18 and created a summary note therefore.
 To Do: pick up Ch 18 with Article 3
