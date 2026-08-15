@@ -4,6 +4,13 @@ tags:
 ---
 Audible Audiobook 
 
+# Chapter 5 By the direction of the president 
+Duration  1:30:11
+
+42:00
+eye-for-an-eye retribution against police officers who abused their power and violently assaulted someone
+
+
 # Chapter 4 The Wolf House
 Duration: 2:41:38
 

@@ -28,3 +28,8 @@ https://www.mihaileric.com/The-Emperor-Has-No-Clothes/
 # Stuff from HOSS Al Wong
  - [Linux From Scratch](https://www.linuxfromscratch.org/lfs/download.html)
  - [emacs org mode](https://irreal.org/blog/?p=12817)
+
+# Towards Data Science
+https://towardsdatascience.com/category/artificial-intelligence/agentic-ai/
+
+This blog site seems to contain articles full of practical advice on Agentic programming workflows
