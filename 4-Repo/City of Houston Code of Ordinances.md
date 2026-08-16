@@ -29,6 +29,14 @@ SORT createdDate ASC
 ```
 ---
 # Bookmark Log (stack)
+2026-08-15
+DONE
+ - finished taking notes for Ch 33 Article I
+ - started notes for Ch 33 Article VIII
+TODO
+ - read Super Neighborhood Alliance MOU linked in Ch 33 Article VIII
+ - finish taking notes for Ch 33 Article VIII
+
 2026-08-13
 **DONE** 
  - finished taking notes for Ch 18
