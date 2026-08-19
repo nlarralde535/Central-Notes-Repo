@@ -4,6 +4,19 @@ tags:
 ---
 Audible Audiobook 
 
+# Chapter 8 They don't have cowboys in Korea
+Duration 1:05:59
+
+1:01:20
+Hackworth gets involved with a married woman Mrs. G while at officer school (West Point?), and after a while he becomes bored with the situation but cannot bring himself to directly break it off with Mrs. G, quote:
+    I was never one who liked to give the bad news to ladies. The way I finally escaped was by telling her I had failed the coure and had to leave immediately for Camp Roberts...
+
+# Chapter 7 Hill 400
+Duration 1:09:07
+
+4:00
+Hackworth would pray to God before every mission, not for his own safety or protection, but for God to protect his men. 
+
 # Chapter 6 The only game in town
 Duration 1:40:07
 

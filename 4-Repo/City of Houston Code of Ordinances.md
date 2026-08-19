@@ -11,9 +11,6 @@ createdDate: 2026-06-23
 [City of Houston Code of Ordinances](https://library.municode.com/tx/houston/codes/code_of_ordinances)
 **6/21/2026:** We don't need to read all of this shit, at least not right now. Some chapters to focus on are chapters 2, 10, 13, 14, 16, 18, 33, 34, 35, 37
 
-Chapter 33
- - Article I
- - Article VIII
 Chapter 34
  - Article I
  - Article II
@@ -29,6 +26,13 @@ SORT createdDate ASC
 ```
 ---
 # Bookmark Log (stack)
+2026-08-18
+DONE
+ - read MOU and finished notes for Ch 33
+ - created new note for Ch 33
+TODO
+ - start reading Ch 34
+
 2026-08-15
 DONE
  - finished taking notes for Ch 33 Article I

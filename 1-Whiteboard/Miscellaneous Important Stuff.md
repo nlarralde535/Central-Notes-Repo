@@ -33,3 +33,8 @@ https://www.mihaileric.com/The-Emperor-Has-No-Clothes/
 https://towardsdatascience.com/category/artificial-intelligence/agentic-ai/
 
 This blog site seems to contain articles full of practical advice on Agentic programming workflows
+
+# Gendered Police Violence 
+https://genderedpoliceabuse.substack.com/?utm_source=ig&utm_medium=social&utm_content=link_in_bio
+We found this lady on instagram who reports on police sexual violence. From her substance About Me: 
+    I spend my days researching, reading, and writing on particularly when law enforcement officers are engaging in acts of sexual violence against women and children. Every day, I keep track of cops who have been arrested, charged, or sentenced for sex crimes against their communities. 

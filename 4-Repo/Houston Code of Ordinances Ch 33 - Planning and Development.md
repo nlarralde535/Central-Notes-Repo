@@ -60,6 +60,11 @@ The mayor shall appoint city employees to serve as the city's general liaison to
 
 ### Sec. 33-311. - Formation of super neighborhood councils.
 
+ (b)
+Additional super neighborhood councils may be recognized by the mayor upon determination that the requestors have satisfied the following: 
+-  `. . .see Code for details`
+The director shall promulgate written guidelines that further describe how super neighborhood stakeholders can satisfy the criteria listed above. In addition, the director shall recommend to the mayor whether stakeholders of a proposed super neighborhood council have satisfied the criteria needed to achieve recognition. The mayor shall make the determination regarding recognition.
+ 
  (c)
 The director shall maintain a list of recognized super neighborhood councils for public inspection. 
 
@@ -67,6 +72,12 @@ The director shall maintain a list of recognized super neighborhood councils for
 
 (a)
 The objective of a super neighborhood council is to serve as a forum where stakeholders may identify and discuss broad-based issues that affect their super neighborhood, develop a consensus on community priorities for action, and formulate a plan to address the issues and priorities. 
+
+ (b)
+A super neighborhood council may undertake various activities, including but not limited to the following: 
+ 1. . . .
+ 2. Designation of a representative to serve on the alliance; and 
+ 3.  . . .
 
 ## DIVISION 3. - THE ALLIANCE
 
