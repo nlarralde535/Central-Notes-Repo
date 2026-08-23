@@ -4,8 +4,18 @@ tags:
 ---
 Audible Audiobook 
 
+# Chapter 9 Don't Look Back 
+Duration 3:05:43
+
+24:00
+Hackworth blows up at his CO Colonel Young for not following Army Field Manual protocol. Hackworth then goes to General Cleland to explain the altercation. Cleland agreed with Hackworth's reasoning, but not with his delivery/actions. Cleland tells Hackworth he needed to learn patience and control over his temper. Hackworth agreed, but responded that such control was hard because quote: 
+"I learned in 1950 that was a serious game, people died in it, but guys like Young didn't seem to know this, and it seems like the 'Youngs' were in charge wherever I looked" 
+
 # Chapter 8 They don't have cowboys in Korea
 Duration 1:05:59
+
+1:04:00
+Hackworth described the "final straw" that induced him to leave West Point: the class was given word that one of their classmates had been nominated for (or won) the Medal of Honor, and when the course instructor called the individual's name so that the class could recognize him, he was informed that the individual had been dropped from the officer training course 3 weeks prior due to "poor academic performance". 
 
 1:01:20
 Hackworth gets involved with a married woman Mrs. G while at officer school (West Point?), and after a while he becomes bored with the situation but cannot bring himself to directly break it off with Mrs. G, quote:
