@@ -1,7 +1,7 @@
 ---
 tags:
   - Project
-status: "paused"
+status: "in progress"
 title: "blah"
 correspondingTags:
   - aaa

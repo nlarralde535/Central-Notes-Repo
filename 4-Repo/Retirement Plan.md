@@ -1,7 +1,7 @@
 ---
 tags:
   - Project
-status: "nil"
+status: "todo"
 title: "blah"
 correspondingTags:
   - aaa

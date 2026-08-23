@@ -1,7 +1,7 @@
 ---
 tags:
   - Project/CurrentEventsTimelineApp
-status: in progress
+status: done
 title: blah
 correspondingTags:
   - Note/Project/CurrentEventsTimelineApp

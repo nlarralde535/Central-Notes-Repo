@@ -1,7 +1,7 @@
 ---
 tags:
   - Project
-status: "nil"
+status: "todo"
 title: "Read and understand Texas SBOE social studies curriculum overhaul that was adopted June 2026"
 correspondingTags:
   - Note/CurrentEvents/Politics/Domestic/Local/Texas/Education

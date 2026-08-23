@@ -1,7 +1,7 @@
 ---
 tags:
   - Project
-status: in progress
+status: done
 title: Read the Houston City Code of Ordinances
 correspondingTags:
   - aaa
@@ -16,10 +16,11 @@ We have the city code linked here [[City of Houston Code of Ordinances]]. The ob
 # Requirements 
 We fist need to finish at least [[Intro to Criminal Justice - Dr Daniel Clay]], 
 
-# Corresponding Tag: "aaa"
+# Corresponding Tag: "Note/Source/HoustonCodeOfOrdinances"
 ```dataview
 LIST
-FROM #aaa
+FROM #Note/Source/HoustonCodeOfOrdinances 
+SORT createdDate ASC
 ```
 
 # Corresponding Tag: "bbb"
