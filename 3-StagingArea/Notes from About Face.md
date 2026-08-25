@@ -7,6 +7,21 @@ Audible Audiobook
 # Chapter 9 Don't Look Back 
 Duration 3:05:43
 
+1:57:30
+quote:
+    But the fact was I was slowly beginning  to notice myself developing my own code of conduct, or, rather, a "code of conscience", the rules of which were based on the needs and welfare of my men vs "regulations", or the desires of the higher-ups. 
+
+1:29:00
+Hackworth mentions the unnecessary, burdensome paperwork requirement that was the Korean Certificate of Loss (KCL) meant to enforce accountability for any loss of equipment greater than $50. Quote: 
+    From Congress to the boys in the trenches, the war had become a useless drain. Not just of resources but of credibility. And why the higher-ups didn't just end the thing was beyond everyone's comprehension. 
+This reminds one of the 2026 Iran war.
+
+
+1:10:00
+Hackworth flogs a Korean KATUSA soldier for failing to alert the Americans of approaching enemy soldiers, which led to a surprise ambush. Hackworth expressed remorse about this due to the poor manner in which the Koreans were integrated into the US military. He points to details such as Americans being rotated off of the front are regular intervals, while the KATUSA were not, and how little effort was made to address/bridge the language barrier. 
+It seems like this experience will come up later when Hackworth is serving in Vietnam.
+
+
 24:00
 Hackworth blows up at his CO Colonel Young for not following Army Field Manual protocol. Hackworth then goes to General Cleland to explain the altercation. Cleland agreed with Hackworth's reasoning, but not with his delivery/actions. Cleland tells Hackworth he needed to learn patience and control over his temper. Hackworth agreed, but responded that such control was hard because quote: 
 "I learned in 1950 that was a serious game, people died in it, but guys like Young didn't seem to know this, and it seems like the 'Youngs' were in charge wherever I looked" 
