@@ -4,8 +4,34 @@ tags:
 ---
 Audible Audiobook 
 
+# Chapter 10 Black Shoes
+Duration 2:24:27
+
+1:49:30
+Hackworth makes the following point which reminds us of listening to Ted Postol describe the effectiveness of THAAD interceptors during the 2026 Iran war. quote:
+    "only 3 days after Sputnik, a Pentagon study revealed publicly that the Nike Ajax short-range anti-aircraft and anti-missile missile, despite the billions of dollars spent on the crash program, was ineffective, with a jet aircraft and rocket kill rate of between 30-50%"
+
+1:06:15
+quote:
+"As much as any other factor, civilian interference was what was leading the post-Korea army training program down the tubes "
+
+1:01:00
+Hackworth talks about the difficulty of training educated draftee enlisted men with "a mind of their own" in the post-Korea army.  quote:
+    "The army was never meant to be a democratic organization. ... The fact is,  a soldier's response must be automatic."
+
+8:00
+Hackworth points out the lack of a goal for the Korean War, and lists all the waste of life and material that followed the pointless 3-year war
+
+
+5:00
+Hackworth returns to the States from Korea and has to decide whether to reenlist or to leave the army and go to school. General Cleland recommended school since "the army was changing" and battle experience would matter less than an officer's level of education. Reluctantly, Hackworth decided to leave the army and take Cleland's advice. But he describes disliking civilian life, he calls it boring and laments the absence or rigorous structure and direction that the army provided.
+
 # Chapter 9 Don't Look Back 
 Duration 3:05:43
+
+2:36:00
+Hackworth comments on how callous the front-line soldier becomes in regards to witnessing death of his comrades. quote:
+    "The fact is, generally there no time out for mourning on the battlefield. ... stopping to cry over the first dead soldier would be to condemn the remaining live soldiers. ... To do anything but carry on would be complete dereliction of duty. ... Do what you have to do, and then only later, once things settle down, do you allow yourself to grieve."
 
 1:57:30
 quote:
