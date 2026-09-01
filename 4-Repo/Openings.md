@@ -68,3 +68,4 @@ Are y'all aware that there are horrifying things being done by or facilitated by
  - RHETORICAL: If you studied proposed and existing legislation as closely as you study your Bible then there may well be far less nefarious behavior baked into law.
  - REPLY TO SOCIAL MEDIA POSTS: "This is an entirely emotional response, your claims do not hold up to the merest scrutiny. All you're doing here is stroking your audience, and in return they strike you here in the comments. None of you are taken seriously by anyone who is actually trying to solve problems."
  - RHETORICAL: Can you describe in detail the "correct" way for immigrants to enter the country, such that they are free to live and work without fear of being detained?
+ - RHETORICAL, RELIGIOUS: Are you saying if I read X book/passage from the Bible that I will arrive at exactly your interpretation of that book/passage, without needed any external or extra-Biblical context?

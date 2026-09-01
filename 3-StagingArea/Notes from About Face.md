@@ -4,8 +4,21 @@ tags:
 ---
 Audible Audiobook 
 
+# Chapter 11 This ain't the army Mr. Jones 
+Duration 1:10:16
+
+57:30
+Hackworth talks about the incoming Kennedy administration after the 1960 presidential election. He mentions the problem of Castro in Cuba which Kennedy inherited from Eisenhower, and highlights how the US has sabotaged the Cuban economy from the beginning Quote:
+    "Castro's communistic leanings were growing more apparent by the day. From the start, the US position hadn't helped the situation much....the US moved to deny Cuba access to American sugar markets. In turn, Castro sought and accepted economic assistance from the Soviet Union." 
+
+
+
 # Chapter 10 Black Shoes
 Duration 2:24:27
+
+2:07:00
+Hackworth describes Sargent Creemer's decision to quote the army and sail to Cuba to help Castro. quote: 
+    "I'm 1958 I looked at Castro as Cuba's Patrick Henry"
 
 1:49:30
 Hackworth makes the following point which reminds us of listening to Ted Postol describe the effectiveness of THAAD interceptors during the 2026 Iran war. quote:

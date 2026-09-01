@@ -33,7 +33,7 @@ DONE
  - finished taking notes for Ch 34
  - reread Ch 34 notes to determine where to focus next for learning about HPD
 TODO
- - begin reviewing the [[Texas Code of Criminal Procedure]] including Texas Penal Code and Local Government Code vis-a-vis local LEAs 
+ - begin reviewing the [[Texas Legal Codes]] including Texas Penal Code and Local Government Code vis-a-vis local LEAs 
 
 2026-08-18
 DONE

@@ -1,18 +1,17 @@
 ---
 tags:
   - Question
-status: "nil"
+status: nil
 correspondingTags:
   - aaa
   - bbb
-createdDate: "2026-08-23"
+createdDate: 2026-08-23
 dateStarted: "null"
 dateCompleted: "null"
-description: |
-  Arius of Alexandria is still on the minds of Christians to this day within the Nicene Creed
+description: What was so threatening to Christianity about Arianism?
 ---
 # Description 
-In our study of religion over the last couple weeks we've been focusing on an early church heresy called Arianism which asserted (more or less) that Christ was not fully divine in the way that God is divine, but is rather a "first among equals" in terms of his position amongst the rest of creation. This heresy (I think) was what necessitated the Council of Nicea which produced the Nicene Creed. 
+Arius of Alexandria is still on the minds of Christians to this day within the Nicene Creed.  In our study of religion over the last couple weeks we've been focusing on an early church heresy called Arianism which asserted (more or less) that Christ was not fully divine in the way that God is divine, but is rather a "first among equals" in terms of his position amongst the rest of creation. This heresy (I think) was what necessitated the Council of Nicea which produced the Nicene Creed. 
 
 While listening to a [Catholic podcast](https://youtu.be/oH6_ZPiay9g?is=iEnnXWPxwibg2VAd) on the subject of Arianism by a bishop out of California, the presenter states that Arianism had to be rejected because Jesus
  1. needs to be fully divine in order to be able to grant us salvation/redemption 

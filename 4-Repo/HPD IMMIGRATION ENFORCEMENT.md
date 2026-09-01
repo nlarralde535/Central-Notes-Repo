@@ -1,16 +1,15 @@
 ---
 tags:
   - Question
-status: "in progress"
+  - Note/City_of_Houston/Police
+status: in progress
 correspondingTags:
   - aaa
   - bbb
-createdDate: "2026-08-16"
+createdDate: 2026-08-16
 dateStarted: "null"
 dateCompleted: "null"
-description: |
-  What to expect regarding changes to HPD 
-  immigration enforcement?
+description: What to expect regarding changes to HPD immigration enforcement?
 ---
 # Description 
 ### Point 0 

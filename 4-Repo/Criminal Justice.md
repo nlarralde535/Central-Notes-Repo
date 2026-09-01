@@ -4,10 +4,10 @@ tags:
   - Plates/Group/WantToDo
   - Plate/CriminalJustice
 priority: A
-focusedSource: "[[City of Houston Code of Ordinances]]"
+focusedSource: "[[Texas Legal Codes]]"
 correspondingTags:
-  - aaa
-  - bbb
+  - Note/City_of_Houston/Police
+  - Note/CurrentEvents/Politics/Domestic/Local/Houston/HPD
 createdDate: 2026-02-16
 ---
 ## Priority: 
@@ -40,14 +40,16 @@ FROM #Note/Plate/CriminalJustice/Source
      - Police in America: An Introduction. By Samuel Walker & Charles Katz, 2022
 
 
-# Corresponding Tag: "aaa"
+# Corresponding Tag: "Note/City_of_Houston/Police"
 ```dataview
 LIST
-FROM #aaa
+FROM #Note/City_of_Houston/Police and -#Note/CurrentEvents/Politics/Domestic/Local/Houston/HPD
+SORT createdDate ASC
 ```
 
-# Corresponding Tag: "bbb"
+# Corresponding Tag: "Note/CurrentEvents/Politics/Domestic/Local/Houston/HPD"
 ```dataview
 LIST
-FROM #bbb
+FROM #Note/CurrentEvents/Politics/Domestic/Local/Houston/HPD 
+SORT createDate ASC
 ```
