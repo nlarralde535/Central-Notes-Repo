@@ -66,3 +66,7 @@ Learning is characterized by long periods of frustrating grind punctuated by Aha
 # We decide what matters and what does not matter. And something that matters only matters for as long as we decide that it should matter.
 
 # How do you eat an elephant? One bite at a time
+
+# The more sweat in the training ground, the less blood is shed on the battlefield 
+
+# How someone arrives at their conclusions is at least as important as the conclusions themselves 

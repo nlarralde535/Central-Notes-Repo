@@ -4,6 +4,12 @@ tags:
 ---
 Audible Audiobook 
 
+# Chapter 12 the vanguards 
+Duration 3:15:38
+
+45:00
+Hackworth describes the Pentomic Structure plan meant for defending Europe in the event of nuclear war. He casts doubt on the plan and it's effectiveness. He also comments on how the army, particularly so in infantry, praised and encouraged aggressive gung-ho "can-do, don't think" Lt Wonderboy types who didn't think too much or assess/analyze their orders. Hackworth says being labeled "too cerebral" was a bad thing.
+
 # Chapter 11 This ain't the army Mr. Jones 
 Duration 1:10:16
 

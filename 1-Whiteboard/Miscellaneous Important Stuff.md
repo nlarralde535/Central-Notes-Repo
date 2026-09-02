@@ -42,3 +42,9 @@ We found this lady on instagram who reports on police sexual violence. From her 
 # Hassan physics reels on Instagram
 https://hassanihssan.substack.com/
 This is the substack of the guy who makes lovely, well-written and interesting videos on mathematics and philosophy on Instagram 
+
+# Office of the Inspector General semiannual reports to Congress 
+Spring 2026 report
+https://oig.hhs.gov/reports/all/2026/spring-2026-semiannual-report-to-congress/
+Since its 1976 establishment, the Office of Inspector General (OIG) has been at the forefront of the Nation's efforts to fight waste, fraud and abuse and to improve the efficiency of more than 100 Department of Health & Human Services (HHS) programs. The majority of the agency’s resources go towards the oversight of Medicare and Medicaid — programs that represent a significant part of the Federal budget and that affect this country's most vulnerable citizens.
+
