@@ -7,6 +7,29 @@ Audible Audiobook
 # Chapter 12 the vanguards 
 Duration 3:15:38
 
+2:37:00
+Hackworth tells the story of his driver flipping their new model Jeep. Hackworth bemoans the influx of new "Wonder Gear" which he describes as "all the army's experiments that made it past the prototype phase and into the hands of human guinea pig troopers. Much, in general terms, was useless, and some was out right dangerous." 
+
+
+2:12:00
+Hackworth describes Colonel Glover Johns being reassigned from his post in West Berlin. The following are points that Hackworth notes from Johns' farewell address to his troops: 
+ - teach and lead by example
+ - strive to do small things well 
+ - be a "do-er" and a self-starter.
+ - Aggressiveness and initiative are important, but so is stopping and thinking before you act
+ - strive for self improvement through constant self-realization and never be satisfied 
+ - ask of any project "how can it be done better?"
+ - don't over-inspect or over-supervise; allow your people room to make mistakes and learn from them
+ - keep your people informed, telling them What, How, and Why to maintain their confidence 
+ - learn to speak and write well
+ - have consideration for others
+ - 
+ - 
+
+2:00:00
+Hackworth explaining to a newly arrived officer under his command that Sargent Sweeney knows more about infantry than the new officer ever will, quote 
+    "... And when you're a Colonel sitting in the Pentagon with your feet up on a desk, Sweeney will still be out commanding a platoon somewhere, isn't that right Sweeney "
+
 45:00
 Hackworth describes the Pentomic Structure plan meant for defending Europe in the event of nuclear war. He casts doubt on the plan and it's effectiveness. He also comments on how the army, particularly so in infantry, praised and encouraged aggressive gung-ho "can-do, don't think" Lt Wonderboy types who didn't think too much or assess/analyze their orders. Hackworth says being labeled "too cerebral" was a bad thing.
 
