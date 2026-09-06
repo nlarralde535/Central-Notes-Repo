@@ -4,12 +4,18 @@ tags:
 ---
 Audible Audiobook 
 
+# Chapter 13 Screaming Eagles
+Duration 1:42:35
+
+23:00
+Hackworth describes being tasked with testing out the new AR-15 rifle
+
+
 # Chapter 12 the vanguards 
 Duration 3:15:38
 
 2:37:00
 Hackworth tells the story of his driver flipping their new model Jeep. Hackworth bemoans the influx of new "Wonder Gear" which he describes as "all the army's experiments that made it past the prototype phase and into the hands of human guinea pig troopers. Much, in general terms, was useless, and some was out right dangerous." 
-
 
 2:12:00
 Hackworth describes Colonel Glover Johns being reassigned from his post in West Berlin. The following are points that Hackworth notes from Johns' farewell address to his troops: 
@@ -23,8 +29,6 @@ Hackworth describes Colonel Glover Johns being reassigned from his post in West 
  - keep your people informed, telling them What, How, and Why to maintain their confidence 
  - learn to speak and write well
  - have consideration for others
- - 
- - 
 
 2:00:00
 Hackworth explaining to a newly arrived officer under his command that Sargent Sweeney knows more about infantry than the new officer ever will, quote 

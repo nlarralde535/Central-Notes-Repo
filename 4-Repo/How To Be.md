@@ -8,6 +8,7 @@ createdDate: 2026-02-15
 ---
 # Systems > Individuals, Systems > tools
 Individuals in 1-1 interactions are far more open and amenable to reason than groups are. Groups need systems to operate rationally. Do not introduce a new tool to solve a problem without first establishing a framework system defining the use of that tool and the corresponding assessment of its efficacy: tools in isolation are not sufficient.
+   The only system that can last is a system that everyone (enough someones) operating within it understands. When everyone (enough someones) understand(s) the rules, anyone can apply the following exigencies. 
 
 # Question!
 Ask as many "Why?"s as possible. 
