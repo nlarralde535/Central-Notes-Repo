@@ -1,8 +1,8 @@
 ---
 tags:
-  - Plates/Plate
-  - Plates/Group/WantToDo
-  - Plate/CriminalJustice
+  - Plate/WhatToDo
+isActive: "Y"
+AP: 
 priority: A
 focusedSource: "[[Texas Legal Codes]]"
 correspondingTags:
@@ -17,11 +17,12 @@ We got the idea to study Criminal Justice from Huey P. Newton and Bobby Seale
 
 **6/21/2026:** This Plate came out of out reading Huey Newton and learning about the Black Panther Party around the beginning of this year. Huey understood that a solid understanding of the laws and procedures of the land makes navigating society and applying real meaningful pressure to citizens and systems alike far more effective and sustainable. Continued reading of Huey and other Panthers is part of this Plate's curriculum, but there is necessarily also study of general criminal justice topics (like Huey studied at Merritt College in Oakland) as well as the City of Houston Code of Ordinances.
 
-## Sources: 
+## Resources: 
 **Note:** While (1) and (2) provide important motivation and guidance, it is most immediately practical to study (5), (3), and (4), in that order.
 ```dataview
-LIST
-FROM #Note/Plate/CriminalJustice/Source 
+TABLE progressionPosition AS "Progression Position", isInFocus AS "In Focus?", AP
+FROM #Note/Plate/CriminalJustice/Resource 
+SORT isInFocus DESC, progressionPosition ASC
 ```
 ## Textbooks from SHSU Criminal Justice curriculum
  - Intro to Criminal Justice, SHSU

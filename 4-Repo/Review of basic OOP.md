@@ -1,8 +1,10 @@
 ---
 tags:
-  - Note/Plate/Tech/Source/SoftwareDevelopmentPhilosophy
+  - Note/Plate/Tech/Resource/SoftwareDevelopmentPhilosophy
 plate: Tech
-progressionPosition: "4"
+progressionPosition: "3"
+isInFocus: Y
+AP: 
 createdDate: 2026-06-12
 ---
 # Description

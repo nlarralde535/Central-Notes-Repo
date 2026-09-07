@@ -1,8 +1,9 @@
 ---
 tags:
-  - Note/Plate/Tech/Source/Linux
-plate: ""
+  - Note/Plate/Tech/Resource/Linux
+plate: "Tech"
 progressionPosition: "2"
+isInFocus: "n"
 createdDate: 2026-06-23
 ---
 # Description

@@ -1,8 +1,10 @@
 ---
 tags:
-  - Note/Plate/Tech/Source/Linux
+  - Note/Plate/Tech/Resource/Linux
 plate: Tech
 progressionPosition: "1"
+isInFocus: "Y"
+AP: "finish all assigned chapters"
 createdDate: 2026-06-12
 ---
 # Description

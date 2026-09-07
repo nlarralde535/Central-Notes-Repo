@@ -4,6 +4,7 @@ tags:
   - Plates/Plate
   - Plates/Template
 priority: "A | B | C | D"
+isActive: "y | n"
 correspondingTags:
   - aaa
   - bbb

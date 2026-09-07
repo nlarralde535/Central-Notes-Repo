@@ -1,7 +1,7 @@
 ---
 tags:
-  - Plate/PersonalFinanceAndRetirement
-  - Plates/Plate
+  - Plate/this
+isActive: n
 priority: "C"
 correspondingTags:
   - aaa

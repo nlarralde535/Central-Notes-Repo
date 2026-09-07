@@ -38,6 +38,7 @@ Reliable voices we believe we have found:
 ```dataview
 LIST
 FROM #Note/Book/LessonsLearnedInSoftwareTesting 
+SORT createdDate ASC
 ```
 ### Test Driven Development 
 ```dataview
@@ -61,4 +62,20 @@ FROM #bbb
 ```
 
 # LOG
-6-29-2026: this project note was created and the content of the previous note was copied over into this one. (I didn't realize there was already a Project note for this when I stared making this one)
+2026-09-2
+**Done:**
+ - finished capturing our margin notes from TDD
+**To Do:**
+ - reread our captured notes from TDD and *Lessons Learned in Software Testing* , use them to
+     - update our resume and cover letter
+     - modify our agentic workflow
+
+2026-06-29
+**Note:**
+this project note was created and the content of the previous note was copied over into this one. (I didn't realize there was already a Project note for this when I stared making this one)
+
+2026-05-14
+**Done:**
+ - finished capturing our margin notes from *Lessons Learned in Software Testing*
+**To Do:**
+ - start reading TDD

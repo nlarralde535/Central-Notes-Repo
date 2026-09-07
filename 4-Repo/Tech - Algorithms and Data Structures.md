@@ -3,6 +3,7 @@ tags:
   - Plate/Tech/AlgorithmsDataStructures
   - Plates/Plate
 priority: "B"
+isActive: "n"
 correspondingTags:
   - aaa
   - bbb

@@ -1,8 +1,7 @@
 ---
 tags:
-  - Plates/Plate
-  - Plates/Group/HaveToDo
-  - Note/Plate/Electrical
+  - Plate/this
+isActive: n
 priority: "D"
 correspondingTags:
   - ElectricalTheory

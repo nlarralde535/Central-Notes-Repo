@@ -1,7 +1,10 @@
 ---
 tags:
   - Book/LessonsLearnedInSoftwareTesting
+  - Note/Plate/Tech/Resource/SoftwareDevelopmentPhilosophy
 status: "done"
+progressionPosition: "1"
+isInFocus: n
 title: blah
 correspondingTags:
   - Note/Book/LessonsLearnedInSoftwareTesting

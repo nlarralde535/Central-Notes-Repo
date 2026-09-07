@@ -1,8 +1,7 @@
 ---
 tags:
-  - Plates/Group/WantToDo
-  - Plates/Plate
-  - Plate/Movement
+  - Plate/this
+isActive: n
 priority: "D"
 correspondingTags:
   - aaa

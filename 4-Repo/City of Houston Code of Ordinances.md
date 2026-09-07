@@ -1,10 +1,11 @@
 ---
 tags:
-  - Note/Plate/CriminalJustice/Source
+  - Note/Plate/CriminalJustice/Resource
 plate: Criminal Justice
 correspondingTags:
   - Note/Source/HoustonCodeOfOrdinances
 progressionPosition: "5"
+isInFocus: n
 createdDate: 2026-06-23
 ---
 # Description

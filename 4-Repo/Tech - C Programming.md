@@ -3,6 +3,7 @@ tags:
   - Plate/Tech/CProgramming
   - Plates/Plate
 priority: "B"
+isActive: "n"
 correspondingTags:
   - aaa
   - bbb

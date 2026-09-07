@@ -1,8 +1,10 @@
 ---
 tags:
-  - Note/Plate/CriminalJustice/Source
+  - Note/Plate/CriminalJustice/Resource
 plate: Criminal Justice
-progressionPosition: "5"
+progressionPosition: "6"
+isInFocus: Y
+AP: 
 createdDate: 2026-06-23
 ---
 # Description

@@ -1,24 +1,22 @@
 ---
 tags:
-  - Plate/Tech/Networking
+  - Plate/Tech/Databases
   - Plates/Plate
-priority: "B"
+priority: "A | B | C | D"
 isActive: "n"
 correspondingTags:
   - aaa
   - bbb
-createdDate: 2026-06-23
+createdDate: "2026-09-07"
 ---
-## Priority: 
-
 ## Description:
 
-## Sources: 
+# Sources
 ```dataview
-LIST
-FROM #Note/Plate/Tech/Source/Networking 
+TABLE progressionPosition
+FROM #Note/Plate/_____/Source 
+SORT progressionPosition ASC
 ```
-## Progression:
 
 # Corresponding Tag: "aaa"
 ```dataview
@@ -32,3 +30,5 @@ LIST
 FROM #bbb
 ```
 
+# LOG
+...

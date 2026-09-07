@@ -3,6 +3,8 @@ tags:
   - Plates/Group/WantToDo
   - Plates/Plate
   - Note/Plate/Finance
+  - Plate/WhatToDo
+isActive: "n"
 priority: "D"
 correspondingTags:
   - aaa

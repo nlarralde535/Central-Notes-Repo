@@ -1,8 +1,10 @@
 ---
 tags:
-  - Note/Plate/CriminalJustice/Source
+  - Note/Plate/CriminalJustice/Resource
 plate: Criminal Justice
 progressionPosition: "4"
+isInFocus: n
+
 createdDate: 2026-06-23
 ---
 # Description
