@@ -17,6 +17,7 @@ This is similar to [[Accounting]] in that our studies of Economics has made it c
 ## Sources: 
 Default **AP**: 1/3 
 Default **ap**: 4x15min Pomodoro
+ - [Warren Buffett letters to shareholders](https://www.berkshirehathaway.com/letters/letters.html)
  - [Corporate Finance Course, Farhat Lectures](https://www.youtube.com/playlist?list=PLxP0KZzCGFYNlFeFjk9D8sPYLaeGU6_pX)
  - [Financial Markets with Robert Shiller, Yale Courses](https://www.youtube.com/playlist?list=PL8FB14A2200B87185)
  - [Financial Theory with John Geanakoplos, Yale Courses](https://www.youtube.com/playlist?list=PLEDC55106E0BA18FC)
