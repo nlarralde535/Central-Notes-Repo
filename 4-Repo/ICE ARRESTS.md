@@ -14,6 +14,7 @@ description: What determines whether a person is subject to ICE arrest and deten
 ICE arrests seem random but surely they are not. There is some obscure mechanism by which immigrants are made vulnerable to ICE apprehension and detention. What is this mechanism?
 
 Links: 
+ - https://www.congress.gov/crs_external_products/LSB/PDF/LSB10362/LSB10362.7.pdf
  - https://www.americanimmigrationcouncil.org/fact-sheet/ice-cbp-legal-analysis/
  - https://attorneys.media/the-real-numbers-behind-ices-2026-enforcement-surge-and-who-it-targeted/
  - https://www.wilneroreilly.com/who-does-ice-target-during-immigration-raids-criteria-impact/
