@@ -4,6 +4,20 @@ tags:
 ---
 Audible Audiobook 
 
+# Chapter 14 Tim's Traveling Trouble
+Duration 1:57:29
+
+1:24:30
+"at Ya Dang the North Vietnamese took heavy casualties in order to learn how to fight us ... [and they succeeded in their mission]"
+
+1:20:00
+Hackworth describes the Battle of the Ya Drang Valley which lead to 200 Americans KIA. He describes how General Westmoreland described the battle none the less as a "victory", despite a fierce VC ambush.
+
+58:00 
+Hackworth describes an altercation with Colonel Timothy, his first CO in Vietnam in 1964(5?). On its face the altercation was about a report that was little more than a cumbersome bit of administrative overhead which Timothy's office continued badgering Hackworth to produce. However, Hackworth explains that the real root cause for his run-ins with the supremely patient Colonel Timothy was to do with his battalion's being subject to test-drive new equipment from army R&D, like the new M16 rifle
+
+
+
 # Chapter 13 Screaming Eagles
 Duration 1:42:35
 

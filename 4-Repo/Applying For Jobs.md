@@ -10,7 +10,23 @@ createdDate: 01-03-2026
 ## Description:
 We have to make this a regular, weekly thing until we get a new job. And even then, we will make this a regular thing going forward. 
 
-**7-14-2026:** instead of applying via the job boards we should do an Internet search for "software companies in <State | region>" and then check the open positions those companies have listed in their careers pages. 
+**7-14-2026:**
+instead of applying via the job boards we should do an Internet search for "software companies in <State | region>" and then check the open positions those companies have listed in their careers pages. 
+
+**2026-09-09:**
+The following tree illustrates the shit we need to look at before we can finally update our resumes in a way that we will be able to discuss in interviews: 
+ - [ ] Nic-Meridian-work-summary
+     - [ ] Formbricks/user-flow-description
+     - [ ] module-federation-description
+     - [ ] TT2-description
+         - [ ] W3Schools React tutorial 
+         - [x] components
+         - [ ] class
+         - [ ] props
+         - [ ] react.dev props 
+         - [ ] events
+         - [ ] Hooks
+
 
 # Bookmark log (stack)
 2026-09-07
