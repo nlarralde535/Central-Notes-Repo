@@ -22,9 +22,9 @@ The following tree illustrates the shit we need to look at before we can finally
          - [ ] W3Schools React tutorial 
          - [x] components
          - [ ] class
-         - [ ] props
-         - [ ] react.dev props 
-         - [ ] events
+         - [x] props
+         - [x] react.dev props 
+         - [x] events
          - [ ] Hooks
 
 

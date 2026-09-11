@@ -4,6 +4,24 @@ tags:
 ---
 Audible Audiobook 
 
+# Chapter 15 The Year of the Horse
+Duration 2:19:16
+
+1:10:00
+Hackworth reminisces on the lessons learned after a deadly guerilla-styleconfrontation with the enemy. He explains that this is where he came to accept that Vietnam was different from WW2 and Korea in that "terrain objectives" we not the principal objectives when hard-won terrain was never held for long.
+
+18;00
+Hackworth describes Gardner single-handedly charging NVA machine gun emplacements and taking out 3 of them with grenades before being killed. 
+    "When someone dies for you, it's the worst cross a combat officer has to bear"
+
+14:00
+Hackworth describes calling in air support and dropping multiple rounds of precision bombs directly onto the NVA position that ambushed the Tiger company. Quote: 
+    "We were being told that our air power would be the ultimate panacea to cure Vietnam of all its communist ills. But if we on the ground were using it as precisely and as excessively as I'd just done on 1 tiny position, and it wasn't doing  the job, then what the hell good was all the saturation bombing in North Vietnam? ... Whatever the answer to this war was I couldn't say, but bombing alone would not be it "
+
+10:00
+Hackworth praises the discipline of the NVA after an element thereof showed tremendous discipline in waiting to fire on a Tiger company that was traversing an open field, as well as displaying the new tactic of "hugging the belt"
+
+
 # Chapter 14 Tim's Traveling Trouble
 Duration 1:57:29
 

@@ -14,7 +14,11 @@ Fast-talking dames
  - The Awful Truth
  - The Lady Eve
  - His Girl Friday 
-
+Morgan's (1972)
+Pulse [Kairo] (2001)
+Holy Mountain (1973)
+Man Behind the Sun (1988)
+Let's Scare Jessica to Death (1971)
 # Books
 My Year of Rest and Relaxation, Ottessa Moshfegh
 Butcher's Crossing, John Williams 
