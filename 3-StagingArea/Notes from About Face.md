@@ -4,11 +4,21 @@ tags:
 ---
 Audible Audiobook 
 
+
+13:00
+Hackworth is paired up with SLA Marshall and meets Moshe Dayan ahí quotes Mao's rules of warfare and questions the US strategy in Vietnam
 # Chapter 15 The Year of the Horse
 Duration 2:19:16
 
+1:57:30
+Hackworth describes the futility of US troopers fighting in the Vietnam Highlands to stop VC crossing the Laos & Cambodia borders. Quote 
+    "It looks me years to understand ... but my troopers knew, and they weren't shy in saying so"
+While tagging along with a rifle platoon Hackworth describes hiking up to talk to some of the troopers. He explains how the troopers pretended not to know he was the XO and quote 
+    "started telling me about the stupidity of it all, that infantry couldn't fight thru this terrain, and that the guy in charge (me) must be one dumb son of a bitch." 
+Hackworth describes loving ever second or their raving, and thought to himself "those kids are the ones who ought to be the god damn generals", saying the Highlands had no strategic value, that the key to the war was winning over and protecting the people. 
+
 1:10:00
-Hackworth reminisces on the lessons learned after a deadly guerilla-styleconfrontation with the enemy. He explains that this is where he came to accept that Vietnam was different from WW2 and Korea in that "terrain objectives" we not the principal objectives when hard-won terrain was never held for long.
+Hackworth reminisces on the lessons learned after a deadly guerilla-style confrontation with the enemy. He explains that this is where he came to accept that Vietnam was different from WW2 and Korea in that "terrain objectives" we not the principal objectives when hard-won terrain was never held for long.
 
 18;00
 Hackworth describes Gardner single-handedly charging NVA machine gun emplacements and taking out 3 of them with grenades before being killed. 

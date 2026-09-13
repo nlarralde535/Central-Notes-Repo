@@ -71,3 +71,6 @@ Learning is characterized by long periods of frustrating grind punctuated by Aha
 # The more sweat in the training ground, the less blood is shed on the battlefield 
 
 # How someone arrives at their conclusions is at least as important as the conclusions themselves 
+
+# Do what you can while you can
+This is equivalent to "the perfect is the enemy of the good": don't wait for conditions to be totally congenial in order to start doing the thing

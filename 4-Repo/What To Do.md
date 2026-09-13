@@ -5,6 +5,8 @@ aliases:
   - _template
 createdDate: 2026-02-15
 ---
+# What I believe 
+
 **I believe** that most Americans hold political beliefs that are logically inconsistent, or beliefs that they have spent little to no time closely examining. 
 
 I believe that these same Americans THINK that they understand their political beliefs thoroughly, and thoroughly understand why they hold them.
@@ -31,6 +33,8 @@ I believe I have a good set of tools for assessing/analyzing suggested answers t
 
 ---
 
+# What I want
+
 I want input from my fellow Americans in regards to answering the question "how should a society govern itself?", since I can't answer that question all by myself .
 
 I want to challenge the confidence with which the average American holds their political beliefs. 
@@ -46,6 +50,12 @@ I want to hold the average American responsible for the policies and actions of 
 I want to physically punish those Americans who would resolutely cling to their ignorance once the consequences of their ignorance, and the consequences of their incoherent political beliefs have been made clear to them.
 
 I want to physically punish the average American who proudly holds selfish, self-centered political beliefs. 
+
+# The point
+
+"reading the fucking manual (documentation)" is a hugely powerful tool/method for making sense of complex subjects and systems. Powerful and exceedingly simple to implement, I make it my responsibility to do so as part of the [[How To Be]] system.
+
+I want others to "read the documentation" with me. I want to induce other to "read the documentation" along with me so that as group we can make informed meaningful assessments of problems and propose relevant solutions. 
 
 
 

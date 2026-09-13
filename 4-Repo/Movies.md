@@ -21,4 +21,6 @@ Man Behind the Sun (1988)
 Let's Scare Jessica to Death (1971)
 # Books
 My Year of Rest and Relaxation, Ottessa Moshfegh
-Butcher's Crossing, John Williams 
+Butcher's Crossing, John Williams
+A Manor to Rue In, GH Glover 
+Victorian Psycho, Victoria Feito
