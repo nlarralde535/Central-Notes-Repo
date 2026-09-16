@@ -4,6 +4,39 @@ tags:
 ---
 Audible Audiobook 
 
+# Chapter 17 Corporate Headquarters 
+Duration 1:53:32
+
+30:00
+Hackworth describes being appointed to the Chief of Information's distinguished speakers team called upon to for "speak about/sell" the war to whomever Syinfo determined, including on college campuses. Quote:
+    Our program was a well choreographed dog-and-pony show designed to convince our listeners that America's purpose in Vietnam was pure ... The only problem with me was that the more I did the rounds with it, the more I knew that what we were saying was bullshit. ... having given up trying to decieve myself (about the war) I couldn't stand that I was deceiving the American people.
+Hackworth describes reading the terms of the French/Vietnamese ceasefire signed in 1956, and for the first time discovered that the Americans were the first ones to have violated the terms of that agreement.
+
+
+28:00
+Hackworth describes the program that he helped establish during his time at the Pentagon for the centralization of training of civilian law enforcement for responding to riots
+
+15:00
+Hackworth describes gross inefficiency in the Army and at the Pentagon and how individual  "empire building" lead to "swollen headquarters under swollen headquarters from the Pentagon on down, all of them justifying their existence from the amount of paperwork they generated, even if most of it duplicated paperwork being done at the higher level and nothing came of it in the end." And finally noting "if the truth were to be known it was a wonder anything got accomplished at all"
+
+# Chapter 16 Fox Seed
+Duration 2:00:20
+
+1:25:00
+Hackworth describes his discussions with North Vietnamese POWs, and how he would present himself to them as simply a historian/journalist interested in understanding the motivations of the VC. This would get them to open up and share insights into VC morale that made Hackworth realize that quote 
+    ...while I too could see the enemy getting physically weaker, I also saw his will growing stronger
+These POWs made it clear to Hackworth that they were perfectly capable of fighting  for as long as it took, 10, 15, 20 years, to defeat the Americans, just as they had done to the French.
+
+1:17:00
+Hackworth describes the prevailing reliance on self-reported and often made up "body count " figures as a measure of mission success. He compares body count stats to the instruction of the Certificate of Loss from his days in Korea.
+
+
+1:11:00 - 1:14:00
+Hackworth describes the manner in which Operation Paul Revere 4 was analyzed by the army thru an outdated WW2 lens as opposed to the guerilla warfare reality of Vietnam, and then taken to with the "M1 pencil" to make it look like a success. And Hackworth laments SLA Marshall for not using his significant influence to expose the discrepancy to higher army leadership.
+
+1:05:00
+Hackworth describes how after spending a significant amount of time traveling around Vietnam with SLA Marshall, he became disillusioned by the gap between his idea of SLAM and how the general actually behaved. Quote: 
+    It was hard to watch an idol movie  closer and closer to the edge of the pedestal I had put him on. ... I was beginning to see that SLAM was less a military analyst than a military ambulance chaser, more a voyeur than a warrior
 
 13:00
 Hackworth is paired up with SLA Marshall and meets Moshe Dayan ahí quotes Mao's rules of warfare and questions the US strategy in Vietnam
