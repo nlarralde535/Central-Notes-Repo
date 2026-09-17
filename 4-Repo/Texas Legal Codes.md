@@ -21,6 +21,12 @@ Chapters to read
 - [ ] 21
 - [ ] 56A
 
+```dataview
+LIST
+FROM #Note/TexasLegalCodes/CriminalProcedure
+SORT createdDate ASC
+```
+
 [Texas Penal Code](https://texas.public.law/statutes/tex._penal_code)
 Chapters to read
 Note: these chapters all seem relatively short
