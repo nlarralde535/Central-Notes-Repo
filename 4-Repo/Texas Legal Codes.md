@@ -35,43 +35,65 @@ Note: these chapters all seem relatively short
 
 [Texas Local Government Code](https://texas.public.law/statutes/tex._local_gov't_code) 
 Chapters to read 
-Title 2
-  Subtitle A
+Title 2 Organization of Municipal Government 
+  Subtitle A Types of Municipalities 
   - [ ] 5
   - [ ] 6
   - [ ] 7
   - [ ] 8
   - [ ] 9
-  Subtitle B
+  Subtitle B Municipal form of Government 
   - [ ] 21
   - [ ] 22
   - [ ] 23
   - [ ] 24
   - [ ] 25
   - [ ] 26
-  Subtitle D
+  Subtitle D General Powers of Municipalities 
   - [ ] 51
   - [ ] 52
   - [ ] 53
   - [ ] 54
-Title 3
+Title 3 Organization of County Government 
+  - [ ] Subtitle A Organization of Counties
+  - [ ] Subtitle B Commissioners Court & Officers
+Title 4 Finances
   - [ ] Subtitle A
   - [ ] Subtitle B
-Title 4
-  - [ ] Subtitle A
-  - [ ] Subtitle B
-Title 11
-  Subtitle A
+Title 11 Public Safety
+  Subtitle A Municipal Public Safety 
   - [ ] 341
-  Subtitle B
+  Subtitle B County Public Safety
   - [ ] 351
-Title 13
-  Subtitle A
+Title 13 Water and Utilities
+  Subtitle A Municipal Water and Utilities 
   - [ ] 551
   - [ ] 552
 
 
 [Texas Administrative Code](https://texas-sos.appianportalsgov.com/rules-and-meetings?interface=VIEW_TAC)
+Note: sometimes this link works, sometimes it only loads page headers/she'll and not any contents. Sometimes the table of contents will displays, but drilling down to individual chapters displays only a blank page. However, each chapter give you the option to generate a PDF and that seems to work for getting the text of the chapter.
+
+Chapters to read:
+Title 19 Education 
+  Part 2 Texas Education Agency
+  - [ ] 30
+Title 37 Public Safety and Corrections
+  Part 1 Texas Department of Public Safety
+  - [ ] 1
+  Part 7 Texas Commission on Law Enforcement 
+  - [ ] 211
+  - [ ] 215
+  - [ ] 217
+  - [ ] 219
+  - [ ] 221
+  - [ ] 223
+
+
+## Codes noted in the [TCLE Statutes and Rules Handbook](https://tcole.texas.gov/document/tcole-handbook-2025.pdf)
+The following are contained in the handbook: 
+- [ ] Texas Administrative Code chapters 211-29
+- [ ] Texas Occupations Code chapters 1701
 
 
 2026-09-15
