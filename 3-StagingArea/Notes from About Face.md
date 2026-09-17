@@ -7,6 +7,17 @@ Audible Audiobook
 # Chapter 17 Corporate Headquarters 
 Duration 1:53:32
 
+51:00
+Hackworth names another person in the Pentagon who was working to make meaningful change: General Bruce Clark
+
+44:00
+Hackworth describes the two issues that he tried to focus on and fix during his time at the Pentagon
+ 1. getting the unreliable M16 rifle out of infantry 
+ 2. Addressing the too-short combat rotation system
+
+38:00
+Hackworth describes his realization that the goal of "defeating the enemy" would be militarily impossible, and that instead the goal of the US presence in Vietnam has to be to rebuild the country along democratic principles. 
+
 30:00
 Hackworth describes being appointed to the Chief of Information's distinguished speakers team called upon to for "speak about/sell" the war to whomever Syinfo determined, including on college campuses. Quote:
     Our program was a well choreographed dog-and-pony show designed to convince our listeners that America's purpose in Vietnam was pure ... The only problem with me was that the more I did the rounds with it, the more I knew that what we were saying was bullshit. ... having given up trying to decieve myself (about the war) I couldn't stand that I was deceiving the American people.
