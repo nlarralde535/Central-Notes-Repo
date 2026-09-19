@@ -4,8 +4,37 @@ tags:
 ---
 Audible Audiobook 
 
+
+# Chapter 19 Hardcore 
+Duration 3:04:24
+
+17:00
+First mention of Hackworth obligating his men to read Mao's Little Red Book
+
+# Chapter 18 Death Row
+Duration 1:04:28
+
+56:00
+Hackworth on his decision to accept a battalion command assignment in Vietnam (while having other options available to him): 
+"It really was my dream to mold a combat battalion into a perfect fighting force"
+
+52:00
+Hackworth mentions the impact on him had by the book The Betrayal by William Gordon about the "folly of the US pacification effort in Vietnam", and how  it contributed to him seeing himself more and more as "removed from the war and the incompetent managers responsible for it".
+
+50:00
+Hackworth describes his approach to dealing with conscientious objectors during his time leading the training program for infantry at Fort X (idk which fort). He would send the recruits to nearby coffee houses where war protestors were known to gather so the recruit could "get their story straight", then when they came back Hackworth would pretend he'd never met them. Hackworth explains that he did this because he didn't blame anyone for not wanting to fight this pointless war, and he would get the COs transfered out of infantry and into medic duty. 
+
+
+29:00
+Hackworth describes the army's "Project 100,000" recruitment program which targeted the poorest and most disadvantaged Americans with promises of "skills and knowledge". He describes how training standards were lowered in order to get these trainers thru and into the fighting in Vietnam, which was the primary focus of military leadership at the time: replacement bodies.
+
 # Chapter 17 Corporate Headquarters 
 Duration 1:53:32
+
+1:23:00 (?) 
+Hackworth describes the can-do, don't-think military men being mesmerized by intellectuals like Dr. Herman Khan, who in reality was little more than "just another tourist" when it came to the Vietnam war. Quote:
+    "the military men were particularly enthusiastic perhaps because having been so conditioned by their own can-do-ism not to think, they were mesmerized by people who used their brains for a living."
+This reminds us of Joko Wilink being mesmerized by Jordan Peterson. 
 
 51:00
 Hackworth names another person in the Pentagon who was working to make meaningful change: General Bruce Clark

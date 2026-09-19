@@ -18,7 +18,7 @@ createdDate: 2026-06-23
 
 **6/21/2026:** This is one of the basic pillars of tech (as far as we're concerned). Other pillars include Networking, Databases, and basic programming
 
-## Resource: 
+## Resources + Progression: 
 ```dataview
 TABLE progressionPosition AS "Progression Position", isInFocus AS "In Focus?", AP
 FROM #Note/Plate/Tech/Resource/Linux
