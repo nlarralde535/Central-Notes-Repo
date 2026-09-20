@@ -8,6 +8,9 @@ Audible Audiobook
 # Chapter 19 Hardcore 
 Duration 3:04:24
 
+30:30
+Hackworth describes why he likes draftees
+
 17:00
 First mention of Hackworth obligating his men to read Mao's Little Red Book
 

@@ -5,7 +5,7 @@ FROM #Plate/Tech
 SORT isActive DESC
 ```
 
-# What To Do
+# [[What to do and How to be]]
 ```dataview
 TABLE isActive AS "Active?", focusedSource AS "In-Focus Resource", AP
 FROM #Plate/WhatToDo

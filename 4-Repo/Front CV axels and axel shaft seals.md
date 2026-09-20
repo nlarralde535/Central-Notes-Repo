@@ -13,3 +13,10 @@ createdDate: 2026-09-16
  - buy 2 quarts of transmission oil to replace what leaks out
  - use a flat bar to pry the CV axel out of the transmission 
  - when reinserting the axel into the transmission make sure to orient the locking ring with the open side up (at 12-o-clock) to make axel seat into the transmission easier. 
+
+# Done ✅ 
+2026-09-19 
+ - replaced both front axels
+ - replaced driver side axel shaft transmission seal
+ - DID NOT replace passenger side axel shaft transmission seal (Honda have us the wrong part)
+

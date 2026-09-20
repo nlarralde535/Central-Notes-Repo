@@ -19,16 +19,29 @@ The following tree illustrates the shit we need to look at before we can finally
      - [ ] Formbricks/user-flow-description
      - [ ] module-federation-description
      - [ ] TT2-description
-         - [ ] W3Schools React tutorial 
+         - [x] W3Schools React tutorial 
          - [x] components
-         - [ ] class
+         - [x] class
          - [x] props
          - [x] react.dev props 
          - [x] events
-         - [ ] Hooks
+         - [x] Hooks
 
 
-# Bookmark log (stack)
+# Log
+2026-09-19
+Done:
+ - finished initial survey of basic React (over the course of the last week or so at work)
+ - began rereading our curated work summary
+ - decided we will only care about studying/learning a few of the stories we've worked on over this year. These are what we will learn for the purposes of our resume: 
+     - the Databases hub work
+     - the User Satisfaction and Theme Switch surveys
+     - the WordPress install lifecycle 
+To Do:
+ - study the above-mentioned ^ work
+ - study the summaries of related topics we've asked Claude for (TT2, NVData, module federation, etc...)
+ - update our resumes to only focus on these ^ bits of work 
+
 2026-09-07
 **Done:**
  - had Claude update resumes and cover letter using updated work summary I collected from work
