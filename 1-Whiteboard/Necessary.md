@@ -52,6 +52,12 @@ I believe there is a range of relationships somewhere below the absolute best/id
  - organized
 
 ### What I'm Looking For:
+
+I want to meet someone who I'm eager to be around. I want to be excited to see them.
+
+I want to meet someone who is better than me at things I'm interested in improving about myself. I want to follow someone's good example, while also providing my own good examples to be  followed. 
+
+
 I'm looking for stability, someone I can trust and rely on, who makes life easier so we can grow and expand in the ways we each want. A relationship that is more practical/utilitarian than fun/romantic. 
 
 I want to find someone I enjoy being around, and then I want to be around that person (almost) all the time.

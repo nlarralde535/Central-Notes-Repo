@@ -16,6 +16,7 @@ createdDate: 2026-09-16
 
 # Done ✅ 
 2026-09-19 
+217720 miles
  - replaced both front axels
  - replaced driver side axel shaft transmission seal
  - DID NOT replace passenger side axel shaft transmission seal (Honda have us the wrong part)

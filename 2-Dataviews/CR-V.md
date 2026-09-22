@@ -30,5 +30,5 @@ FROM #CR-V/RegularMaintenance/Transmission
 ```dataview
 LIST
 FROM #CR-V/Issues 
-SORT createdDate DESCENDING
+SORT createdDate ASC
 ```

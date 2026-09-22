@@ -8,6 +8,15 @@ Audible Audiobook
 # Chapter 19 Hardcore 
 Duration 3:04:24
 
+1:45:00
+Hackworth describes his approach to fighting the war in a manner that presented as many friendly lives as possible, by fighting the same way the enemy did: "out-G the G"
+
+1:24:00
+Hackworth describes how micro-managing CO Colonel Ira Hunt made a mess of a battle which resulted in only about 40 enemy dead, and then afterwards revised the body count upwards when the number didn't match his memory of the battle, and then personally recounted the battle to a chopper full of journalists. 
+
+1:17:00
+Hackworth describes avoiding visiting his men in the hospital because of the negative effect that seeing men maimed from  carrying out his orders can have on a commander.
+
 30:30
 Hackworth describes why he likes draftees
 

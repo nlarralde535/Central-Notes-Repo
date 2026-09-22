@@ -10,9 +10,9 @@ createdDate: 2026-06-23
 # Codes to Read
 [Texas Code of Criminal Procedure](https://statutes.capitol.texas.gov/?tab=1&code=CR&chapter=CR.1&artSec=)
 Chapters to read 
-- [ ] 1
-- [ ] 2
-- [ ] 2A
+- [x] 1
+- [x] 2 SKIPPED 
+- [x] 2A
 - [ ] 2B
 - [ ] 3
 - [ ] 4
@@ -37,6 +37,7 @@ Note: these chapters all seem relatively short
 - [ ] 38
 - [ ] 42
 - [ ] 46
+- [ ] 49 (added by [[Code of Criminal Procedure Chapter 2A - Officers Powers and Duties]])
 - [ ] 76
 
 [Texas Local Government Code](https://texas.public.law/statutes/tex._local_gov't_code) 
@@ -114,6 +115,14 @@ which compiles relevant Articles/Chapters from various Texas codes including Tex
 This is as important as the [[City of Houston Code of Ordinances]
 
 # Log
+2026-09-21
+DONE
+ - read and took notes on Criminal Procedure Code chapters 1 and 2A
+ - added chapter 49 to Penal Code
+TODO
+ - continue reading Criminal Procedure
+
+
 2026-09-15
 DONE
  - reviewed Code of Criminal Procedure, Penal Code, and Local Government Code 

@@ -2,8 +2,6 @@
 tags:
   - Note
   - CR-V/Issues
-aliases:
-  - _template
 createdDate: 2026-02-01
 ---
 # Note: 
