@@ -13,7 +13,7 @@ Chapters to read
 - [x] 1
 - [x] 2 SKIPPED 
 - [x] 2A
-- [ ] 2B
+- [x] 2B
 - [ ] 3
 - [ ] 4
 - [ ] 14
@@ -115,6 +115,13 @@ which compiles relevant Articles/Chapters from various Texas codes including Tex
 This is as important as the [[City of Houston Code of Ordinances]
 
 # Log
+2026-09-22
+DONE 
+ - read Criminal Procedure chapter 2B
+ - added HPD General Orders to [[City of Houston Police info]] due to repeated mention of "the policy of the law enforcement agency that employs the officer..." in Criminal Procedure chapter 2B
+TODO
+ - continue reading Criminal Procedure 
+
 2026-09-21
 DONE
  - read and took notes on Criminal Procedure Code chapters 1 and 2A

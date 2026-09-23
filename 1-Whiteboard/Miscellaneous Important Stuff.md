@@ -34,12 +34,12 @@ https://towardsdatascience.com/category/artificial-intelligence/agentic-ai/
 
 This blog site seems to contain articles full of practical advice on Agentic programming workflows
 
-# Gendered Police Violence 
+# Gendered Police Violence substack
 https://genderedpoliceabuse.substack.com/?utm_source=ig&utm_medium=social&utm_content=link_in_bio
 We found this lady on instagram who reports on police sexual violence. From her substance About Me: 
     I spend my days researching, reading, and writing on particularly when law enforcement officers are engaging in acts of sexual violence against women and children. Every day, I keep track of cops who have been arrested, charged, or sentenced for sex crimes against their communities. 
 
-# Hassan physics reels on Instagram
+# Hassan physics reels on Instagram substack 
 https://hassanihssan.substack.com/
 This is the substack of the guy who makes lovely, well-written and interesting videos on mathematics and philosophy on Instagram 
 
@@ -51,3 +51,8 @@ Since its 1976 establishment, the Office of Inspector General (OIG) has been at 
 # Developer Roadmap
 https://roadmap.sh/
 Community created roadmaps, guides and articles to help developers grow in their career.
+
+# Reasoned Reality substack 
+https://reasonedreality.substack.com/archive?sort=new
+This person writes about church history, nuances in church teaching, and exposing myths about church doctrine. From the about section: 
+    Good faith asks hard questions. Bad faith silences them. I grew up in fundamentalist Christianity and survived the questions. This space is for the curious, the deconstructing, the spiritual and the rational. Welcome to Reasoned Reality

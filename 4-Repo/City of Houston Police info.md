@@ -5,6 +5,10 @@ aliases:
   - _template
 createdDate: 2026-03-19
 ---
+
+# [HPD General Orders](https://www.houstontx.gov/police/general_orders/index.htm)
+"The Houston Police Department General Orders are a collection of written orders of the Chief of Police that establish the policies and procedures of the Houston Police Department as authorized by the section 34-23 of the City of Houston Code of Ordinances."
+
 # [City of Houston Police divisions](https://www.houstontx.gov/police/divisions/) 
 
 # [HPD Transparency site](https://www.houstontx.gov/police/transparency/index.htm)

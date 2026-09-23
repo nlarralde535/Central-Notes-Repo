@@ -8,8 +8,18 @@ Audible Audiobook
 # Chapter 19 Hardcore 
 Duration 3:04:24
 
+2:50:00 (?)
+Hackworth reminisces about the highly effective work his battalion did, and how even after being visited by a number of generals from the division after one particular battle, no one in the army moved to try to replicate the success of Hackworth's battalion. He says "if only someone in the army had though to implement our strategies..." but in my opinion this is like saying "if only the army were entirely different than it actually was..."
+
+2:41:00
+Hackworth describes his interactions with a brave VC POW with a chunk of flesh missing from one leg who he came to respect completely as a warrior. When Hackworth urged this POW to defect from the VC and help the US he flatly refused. Hackworth comments that
+    "unless we could duplicate their will and conviction, all the cannons, all the helicopters, all the high technology ... would never beat them"
+
+2:27:00
+Hackworth describes the "mere gooks" attitude many American troopers had towards all Vietnamese, friendly or enemy. He describes show he did not share this attitude because he considered the VC a "very worthy adversary "
+
 1:45:00
-Hackworth describes his approach to fighting the war in a manner that presented as many friendly lives as possible, by fighting the same way the enemy did: "out-G the G"
+Hackworth describes his approach to fighting the war in a manner that preserved as many friendly lives as possible, by fighting the same way the enemy did: "out-G the G"
 
 1:24:00
 Hackworth describes how micro-managing CO Colonel Ira Hunt made a mess of a battle which resulted in only about 40 enemy dead, and then afterwards revised the body count upwards when the number didn't match his memory of the battle, and then personally recounted the battle to a chopper full of journalists. 
