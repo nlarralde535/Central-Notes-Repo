@@ -15,10 +15,11 @@ instead of applying via the job boards we should do an Internet search for "soft
 
 **2026-09-09:**
 The following tree illustrates the shit we need to look at before we can finally update our resumes in a way that we will be able to discuss in interviews: 
- - [ ] Nic-Meridian-work-summary
-     - [ ] Formbricks/user-flow-description
+ - [x] Nic-Meridian-work-summary
+     - [x] Formbricks/user-flow-description
      - [ ] module-federation-description
-     - [ ] TT2-description
+     - [x] NVData description 
+     - [x] TT2-description
          - [x] W3Schools React tutorial 
          - [x] components
          - [x] class
@@ -29,6 +30,19 @@ The following tree illustrates the shit we need to look at before we can finally
 
 
 # Log
+2026-09-22
+Done
+ - read the assigned shit, including Formbricks user flow and flowchart
+ - updated Meridian work summary
+To Do
+ - copy updated Meridian work summary over to personal laptop
+ - use updated work summary to update resume to only include mention of the Meridian work we will focus on learning: 
+     - the Databases hub work
+     - the User Satisfaction and Theme Switch surveys
+     - the WordPress install lifecycle 
+ - copy over our `/label-react-nouns` skill to include in our resume
+ - include a summary of how we are going about learning the Meridian system 
+
 2026-09-19
 Done:
  - finished initial survey of basic React (over the course of the last week or so at work)

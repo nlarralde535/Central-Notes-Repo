@@ -14,12 +14,13 @@ Chapters to read
 - [x] 2 SKIPPED 
 - [x] 2A
 - [x] 2B
-- [ ] 3
-- [ ] 4
-- [ ] 14
-- [ ] 19A
-- [ ] 21
-- [ ] 56A
+- [x] 3 SKIPPED
+- [x] 4 SKIPPED
+- [x] 14
+- [x] 15
+- [x] 19A
+- [x] 21
+- [x] 56A SKIPPED 
 
 ```dataview
 LIST
@@ -32,6 +33,7 @@ Chapters to read
 Note: these chapters all seem relatively short
 - [ ] 1
 - [ ] 2
+- [ ] 9 (added by [[Code of Criminal Procedure Chapter 14 - Arrest without warrant]])
 - [ ] 15
 - [ ] 22
 - [ ] 38
@@ -115,6 +117,20 @@ which compiles relevant Articles/Chapters from various Texas codes including Tex
 This is as important as the [[City of Houston Code of Ordinances]
 
 # Log
+2026-09-24
+Done
+ - finished Code of Criminal Procedure 
+ - added Questions and Notes sections to chapters 19A and 21 - keep doing this 
+To Do
+ - start reading Penal Code 
+
+2026-09-23
+Done
+ - skipped chapters 3 and 4 of Criminal Procedure
+ - read and took notes on chapters 14 and 15
+To Do
+ - continue reading Criminal Procedure
+
 2026-09-22
 DONE 
  - read Criminal Procedure chapter 2B
@@ -128,7 +144,6 @@ DONE
  - added chapter 49 to Penal Code
 TODO
  - continue reading Criminal Procedure
-
 
 2026-09-15
 DONE
