@@ -4,6 +4,20 @@ tags:
 ---
 Audible Audiobook 
 
+# Chapter 20 Born to Lose
+Duration 1:37:26
+
+24:30
+Hackworth describes his being momentarily convinced by the "impressive statistics" in official reports of the "ever widening" success of the Vietnamization program underway, despite his first-hand day-to-day experience with the openly corrupt Colleen Han and the battle-shy ARVN which contradicted official reports. Hackworth describes how these reports would have him momentarily second  guessing his own on-the-ground observations. 
+    "If after all my years in Vietnam I could still be taken in, at least momentarily should it have been a surprise how easily and eagerly fooled the tourists still were? And those with a vested interest in Vietnamization."
+
+??:??
+Hackworth describes how if he'd ever thought there was "any appreciation on the Vietnamese part for what we had done for them" that belief vanished during one drinking session with Colonel Hau on the ground in Cambodia where the Colonel drunkenly compared the Americans to Nazis saying 
+    "for you it is a game of power and killing and glory. You killed President Diem, and now your Provincial Reconnaissance Units are killing  our people with abandon...you make our villages disappear as you please..."
+Hackworth describes how he was immediately angry with the Colonel, but by the morning he says he had recognized some truth is his words, saying 
+"the Provincial Reconnaissance Units (PRU) alone bore out Hau's point..."
+
+Note: the PRUs were part of the infamous Phoenix Program led by the CIA
 
 # Chapter 19 Hardcore 
 Duration 3:04:24
