@@ -28,6 +28,10 @@ The following tree illustrates the shit we need to look at before we can finally
          - [x] events
          - [x] Hooks
 
+**2026-09-25**
+We need to determine a way to present our [[Tech - Software Development Philosophy]] work to employers. 
+My initial thought is to simply create a React app that displays our reading progression, as well as the notes we've take so far on the books we've read. 
+We can make a separate repo for this so that the GitHub Pages page will be unique. 
 
 # Log
 2026-09-22
@@ -42,6 +46,10 @@ To Do
      - the WordPress install lifecycle 
  - copy over our `/label-react-nouns` skill to include in our resume
  - include a summary of how we are going about learning the Meridian system 
+ - reread [[Lessons Learned in Software Testing]] and [[Test-Driven Development]] and [[Software Development Philosophy PROJECT]] notes 
+     - use these to update resume
+ - Add the SDE Workflow GitHub to our resume
+ - Make another GitHub repo containing Vim and Git stuff we use at work
 
 2026-09-19
 Done:
@@ -51,10 +59,18 @@ Done:
      - the Databases hub work
      - the User Satisfaction and Theme Switch surveys
      - the WordPress install lifecycle 
+ - reread [[Lessons Learned in Software Testing]] and [[Test-Driven Development]] and [[Software Development Philosophy PROJECT]] notes 
+     - use these to update resume
+ - Add the SDE Workflow GitHub to our resume
+ - Make another GitHub repo containing Vim and Git stuff we use at work
 To Do:
  - study the above-mentioned ^ work
  - study the summaries of related topics we've asked Claude for (TT2, NVData, module federation, etc...)
  - update our resumes to only focus on these ^ bits of work 
+ - reread [[Lessons Learned in Software Testing]] and [[Test-Driven Development]] and [[Software Development Philosophy PROJECT]] notes 
+     - use these to update resume
+ - Add the SDE Workflow GitHub to our resume
+ - Make another GitHub repo containing Vim and Git stuff we use at work
 
 2026-09-07
 **Done:**
