@@ -56,3 +56,11 @@ Community created roadmaps, guides and articles to help developers grow in their
 https://reasonedreality.substack.com/archive?sort=new
 This person writes about church history, nuances in church teaching, and exposing myths about church doctrine. From the about section: 
     Good faith asks hard questions. Bad faith silences them. I grew up in fundamentalist Christianity and survived the questions. This space is for the curious, the deconstructing, the spiritual and the rational. Welcome to Reasoned Reality
+
+
+# Kathryn Edwards economist
+https://www.kedits.com/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&open=false
+From her substack About page:
+    The U.S. economy has incredible strength and some deep structural problems. I use this newsletter to talk about both: explaining the economy and offering solutions to improve it.
+    Many people in economics write to show how smart they are, but I like to write to show how smart you are. Economics is big, and nuanced, and there’s never one single right answer; but it’s not hard.
+    My goal in writing Kedits isn’t to persuade, but to inform. I want to empower readers to feel like they can understand what’s going on in the economy and feel optimistic that it can be better. 

@@ -21,7 +21,6 @@ Chapters to read
 - [x] 19A
 - [x] 21
 - [x] 56A SKIPPED 
-
 ```dataview
 LIST
 FROM #Note/TexasLegalCodes/CriminalProcedure
@@ -29,11 +28,14 @@ SORT createdDate ASC
 ```
 
 [Texas Penal Code](https://texas.public.law/statutes/tex._penal_code)
+https://statutes.capitol.texas.gov/?tab=1&code=PE&chapter=PE.1&artSec=
 Chapters to read
 Note: these chapters all seem relatively short
-- [ ] 1
-- [ ] 2
+- [x] 1
+- [x] 2
+- [x] 6 (added by [[Penal Code Title 1 Ch 1 - General Provisions]])
 - [ ] 9 (added by [[Code of Criminal Procedure Chapter 14 - Arrest without warrant]])
+- [ ] 12 
 - [ ] 15
 - [ ] 22
 - [ ] 38
@@ -41,6 +43,11 @@ Note: these chapters all seem relatively short
 - [ ] 46
 - [ ] 49 (added by [[Code of Criminal Procedure Chapter 2A - Officers Powers and Duties]])
 - [ ] 76
+```dataview
+LIST
+FROM #Note/TexasLegalCodes/PenalCode
+SORT createdDate ASC
+```
 
 [Texas Local Government Code](https://texas.public.law/statutes/tex._local_gov't_code) 
 Chapters to read 
@@ -117,6 +124,12 @@ which compiles relevant Articles/Chapters from various Texas codes including Tex
 This is as important as the [[City of Houston Code of Ordinances]
 
 # Log
+2026-09-25
+Done
+ - started reading Penal Code, read chapters 1 and 2 and 6
+To Do
+ - continue reading Penal Code
+
 2026-09-24
 Done
  - finished Code of Criminal Procedure 

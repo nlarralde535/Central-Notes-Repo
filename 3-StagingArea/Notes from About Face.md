@@ -7,6 +7,16 @@ Audible Audiobook
 # Chapter 20 Born to Lose
 Duration 1:37:26
 
+57:00
+Hackworth describes his decision to remove himself from consideration for further officer training school, required by anyone with aspirations of becoming a General. 
+"Effectively I was ending my career. ...but I no longer have a burning dedication towards the army, or for that matter, towards America as it exists today"
+
+And he describes how he had come to accept that the "price of admission for the American way" (soldiers risking their lives to defend America and her interests)  "...it was only correct to pay it if the product, democracy, was sound. And it was not sound on the corrupt ranks of South Vietnam's government" 
+
+42:00
+Hackworth describes the economy he facilitated while serving as advisor of the 44th Zone. He describes creating markets for concessions, barber services, a rub & tug, a casino, and various other services that funded the lifestyle of the men under his command. I'm addition, the procedes were used to build housing quarters for the Vietnamese soldiers in the 44th Zone, as well as a school for 30-60 children, and covered the salary of a full time teacher therein as well. Hackworth describes this as "the accomplishment I was most proud of" over the year he spent in the 44th Zone.
+
+
 24:30
 Hackworth describes his being momentarily convinced by the "impressive statistics" in official reports of the "ever widening" success of the Vietnamization program underway, despite his first-hand day-to-day experience with the openly corrupt Colleen Han and the battle-shy ARVN which contradicted official reports. Hackworth describes how these reports would have him momentarily second  guessing his own on-the-ground observations. 
     "If after all my years in Vietnam I could still be taken in, at least momentarily should it have been a surprise how easily and eagerly fooled the tourists still were? And those with a vested interest in Vietnamization."
