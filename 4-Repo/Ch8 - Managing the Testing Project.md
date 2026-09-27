@@ -3,7 +3,7 @@ tags:
   - Note/Book/LessonsLearnedInSoftwareTesting
 aliases:
   - _template
-createdDate: 2026-05-14
+createdDate: 2026-05-15
 ---
 # Introduction 
 The testing project is driven by the programming project. What testers do is a reaction to what programmers do. 

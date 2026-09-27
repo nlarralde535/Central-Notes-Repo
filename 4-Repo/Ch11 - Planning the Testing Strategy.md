@@ -3,7 +3,7 @@ tags:
   - Note/Book/LessonsLearnedInSoftwareTesting
 aliases:
   - _template
-createdDate: 2026-05-14
+createdDate: 2026-05-16
 ---
 # Introduction 
 

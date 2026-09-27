@@ -44,6 +44,7 @@ SORT createdDate ASC
 ```dataview
 LIST
 FROM #Note/Book/TDD 
+SORT createdDate ASC
 ```
 
 # Requirements 

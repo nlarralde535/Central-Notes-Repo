@@ -34,6 +34,27 @@ My initial thought is to simply create a React app that displays our reading pro
 We can make a separate repo for this so that the GitHub Pages page will be unique. 
 
 # Log
+2026-09-26
+Done
+ - copied updated Meridian work summary over to personal laptop
+ - used updated work summary to update resume
+ - uploaded copies of SDET and SDE updated resumes from Local_Temp to Google Drive 
+To Do
+ - edit resumes in Google Drive 
+     - use the SOFTWARE DEVELOPER IN TEST I section from SDET resume 
+     - use the SOFTWARE DEVELOPMENT ENGINEER I section from SDE resume 
+     - tailor the Summary section of each to the corresponding role
+     - use the PDFs in Downloads/Software \Testing/ to improve the SDET resume
+ - copy over our `/label-react-nouns` skill to include in our resume
+ - edit SDE resume include a summary of how we are going about learning the Meridian system 
+ - reread [[Lessons Learned in Software Testing]] and [[Test-Driven Development]] and [[Software Development Philosophy PROJECT]] notes 
+     - edit resumes to include relevant info 
+ - edit SDE resume to include link to Agentic Workflow GitHub repo
+ - Make another GitHub repo containing Vim and Git stuff we use at work
+     -  .vimrc from temp_c4
+     - .bashrc aliases
+     - Claude code status bar
+
 2026-09-22
 Done
  - read the assigned shit, including Formbricks user flow and flowchart

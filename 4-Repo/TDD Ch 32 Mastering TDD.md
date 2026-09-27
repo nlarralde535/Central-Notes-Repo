@@ -1,7 +1,7 @@
 ---
 tags:
   - Note/Book/TDD
-createdDate: 2026-08-25
+createdDate: 2026-08-26
 ---
 
 # Chapter 32
