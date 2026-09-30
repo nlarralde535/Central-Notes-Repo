@@ -4,6 +4,38 @@ tags:
 ---
 Audible Audiobook 
 
+# Epilogue 
+Duration 1:15:54
+
+15:00
+"...the US Army has a history of sweeping under the rug it's less-than-stellar accomplishmens"
+
+# Chapter 23 A Handful of Ashes
+Duration 1:15:40
+
+9:00
+Hackworth recalls something he wrote to doctor Rafael Benjamin in 1971 while wrestling  with the decision to go to the press with his grievances against the army: 
+    "...it is unfortunate that one of the opponents in this [nationalistic, regional conflict] happens to be waving the Red flag, because that makes that side the Boogeyman, which old Uncle Sam has apparently sworn to contain, and contain for reasons that are unclear to me except as a kid I was told that the Boogeyman was bad... I think someone like Churchill convinced Uncle Sam of the same thing"
+
+# Chapter 22 Issues and Answers 
+
+20:00
+Hackworth responds to the interviewer's question about the failure of Vietnamization by explaining that the problem is that the South Vietnamese soldiers does not fight for any identifiable unifying cause in the way the North Vietnamese do, and no amount of fancy US military hardware will make up for that. 
+
+
+
+# Chapter 21 A Law unto himself
+Duration 1:49:04
+
+1:48:00
+Hackworth ends this chapter describing his decision to speak to ABC journalist Tucker about his grievances with the army and the conduct of the Vietnam war. He describes believing that by going outside the the army and speaking directly to the American people via this journalist he can "force them to think"
+
+1:42:00
+Hackworth discusses how My Lai impacted his decision to leave the army
+
+1:28:00
+Hackworth describes how the much maligned "combate bum" special forces Green Berets were anathema to the career-focused army ticket punchers, but he says that if they had been allowed to direct the war then the US would have seen alot more success because the special forces guys really knew how to fight the G. 
+
 # Chapter 20 Born to Lose
 Duration 1:37:26
 

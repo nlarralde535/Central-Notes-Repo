@@ -34,10 +34,11 @@ Note: these chapters all seem relatively short
 - [x] 1
 - [x] 2
 - [x] 6 (added by [[Penal Code Title 1 Ch 1 - General Provisions]])
-- [ ] 9 (added by [[Code of Criminal Procedure Chapter 14 - Arrest without warrant]])
+- [x] 9 (added by [[Code of Criminal Procedure Chapter 14 - Arrest without warrant]])
 - [ ] 12 
 - [ ] 15
 - [ ] 22
+- [ ] 30 (added by [[Penal Code Title 2 Ch 9 - Justification Excluding Criminal Responsibility]])
 - [ ] 38
 - [ ] 42
 - [ ] 46
@@ -123,7 +124,17 @@ which compiles relevant Articles/Chapters from various Texas codes including Tex
 2026-06-23
 This is as important as the [[City of Houston Code of Ordinances]
 
+---
 # Log
+2026-09-29
+Done
+ - finished ch 9 of Penal Code 
+To Do
+ - continue reading Penal Code
+ - create a [[Criminal Justice]] resource entry for 
+     - [United States Codes ](https://www.law.cornell.edu/uscode/text)
+     - HPD general orders linked in [[City of Houston Police info]]
+
 2026-09-25
 Done
  - started reading Penal Code, read chapters 1 and 2 and 6
