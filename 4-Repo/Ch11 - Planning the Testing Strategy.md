@@ -49,7 +49,7 @@ NOTE:
 It's probably safer to assume that the test work products you produce will never be consumed directly by anyone other that you their author, OR other testers who are familiar with the test process that produces the test work products. You will always have to INTERPRET the test work products FOR OTHERS: developers, stakeholders, etc. 
 
 # Lesson 280: how to lie with test cases
-"If you take all the briefcase carried by executives and senior managers withing your company, and you like them up to weight them all...what does that information tell you about the future of the company? Nothing. Yet the contents of those briefcases will indeed say alot.
+"If you take all the briefcase carried by executives and senior managers within your company, and you line them up to weight them all...what does that information tell you about the future of the company? Nothing. Yet the contents of those briefcases will indeed say alot.
 
 Test cases are like briefcases. Counting them without regard to their content tells you nothing.
 

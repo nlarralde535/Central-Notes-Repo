@@ -35,8 +35,9 @@ Note: these chapters all seem relatively short
 - [x] 2
 - [x] 6 (added by [[Penal Code Title 1 Ch 1 - General Provisions]])
 - [x] 9 (added by [[Code of Criminal Procedure Chapter 14 - Arrest without warrant]])
-- [ ] 12 
-- [ ] 15
+- [x] 12 (SKIPPED)
+- [x] 15
+- [ ] 19 
 - [ ] 22
 - [ ] 30 (added by [[Penal Code Title 2 Ch 9 - Justification Excluding Criminal Responsibility]])
 - [ ] 38

@@ -33,7 +33,27 @@ We need to determine a way to present our [[Tech - Software Development Philosop
 My initial thought is to simply create a React app that displays our reading progression, as well as the notes we've take so far on the books we've read. 
 We can make a separate repo for this so that the GitHub Pages page will be unique. 
 
+---
 # Log
+2026-10-02
+Done
+- made a work GitHub repo containing Vim and Git stuff we use at work
+     -  .vimrc from temp_c4
+     - bash worktree function + aliases
+     - bash dragon prompt 
+     - Claude code status bar
+ - created SDE Resume Google Doc and fully edited the SDE bulle points
+ - updated SDET resume summary and experience section using info from [[Lessons Learned in Software Testing]] and [[Test-Driven Development]] and [[Software Development Philosophy PROJECT]] notes 
+ - uploaded updated copy of SDET resume to Google Drive
+To Do
+- review and edit the experience section of SDET resume (updated copy is in Local_Temp)
+ - implement the `/label-react-nouns` skill for our personal React project, to include in our resume
+ - edit SDE resume include
+     - a summary of how we are going about learning the Meridian system, including the `/label-react-nouns` skill
+     - a summary of the `llm-wiki` 
+ - apply [[Lessons Learned in Software Testing]] and [[Software Development Philosophy PROJECT]] notes to work Claude
+
+
 2026-09-26
 Done
  - copied updated Meridian work summary over to personal laptop

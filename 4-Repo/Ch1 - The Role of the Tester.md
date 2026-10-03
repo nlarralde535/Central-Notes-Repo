@@ -12,7 +12,7 @@ createdDate: 2026-04-22
 - "You will also find important problems sooner if you know more about the product, the software, and hardware it must interact with, and the people who will use it."
 
 # Lesson 8: you focus on failure so your clients can focus on success
- + Testers to not "verify that the product works". It would take an infinite amount of testing to do so.
+ + Testers do not "verify that the product works". It would take an infinite amount of testing to do so.
  + "The best you could say is 'For the test I performed, I didn't notice that the product DIDN'T work.'"
 
 # Lesson 10: beware of testing "completely"

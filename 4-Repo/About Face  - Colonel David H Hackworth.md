@@ -1,7 +1,7 @@
 ---
 tags:
   - Book
-status: "in-progress"
+status: "done"
 title: blah
 correspondingTags:
   - Note/Book/AboutFace
@@ -26,5 +26,8 @@ FROM #bbb
 ```
 
 # LOG
-2026-08
-began rereading About Face 
+2026-09-29
+finished reading and taking notes 
+
+2026-08-21
+began rereading About Face (Audible audiobook)
