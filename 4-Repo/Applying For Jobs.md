@@ -35,6 +35,21 @@ We can make a separate repo for this so that the GitHub Pages page will be uniqu
 
 ---
 # Log
+2026-10-03
+Done
+- reviewed and edited the experience section of SDET resume (updated copy is in Local_Temp)
+     - uploaded this `.md` file to Google Drive
+ - edited the SDE resume include
+     - a summary of how we are going about learning the Meridian system, including the `/label-react-nouns` skill
+     - a summary of the `llm-wiki` 
+ - created the SDET Google Doc resume
+    - copied the refined sections of each Google Doc resume to the other 
+- finalized formatting and generated resume PDFs
+To Do
+ - implement the `/label-react-nouns` skill for our personal React project, to include in our resume
+ - apply [[Lessons Learned in Software Testing]] and [[Software Development Philosophy PROJECT]] notes to work Claude
+
+
 2026-10-02
 Done
 - made a work GitHub repo containing Vim and Git stuff we use at work
