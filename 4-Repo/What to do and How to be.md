@@ -17,7 +17,7 @@ FROM #Plate/WhatToDo
 SORT isActive DESC
 ```
 
-# Illustrative Flowchart
+# What we are doing:
 ```mermaid
 flowchart TD
 
@@ -69,7 +69,17 @@ s1 & s2 & s4 ==> s5 --> s6
 s3 & s5 -.-> s4 
 ```
 
+---
 # Log
+2026-10-04
+This work is currently only organized in my head. We need to outline a progression, and maybe make a better diagram. 
+For now the things I know we need to do are: 
+ - finish reading [[Texas Legal Codes]] 
+ - read HPD General Orders in [[City of Houston Police info]]
+ - begin working on [[QUESTIONS]] and [[Test Questions]]
+ - write the [[Blindsight + On Bullshit]] summary 
+The [[QUESTIONS]] and [[Test Questions]] are what we need in order to start talking to folks.
+The [[Blindsight + On Bullshit]] summary is to give us a framework for cutting through bullshit.
 
 2026-09-17
 Began bringing some order to this note. Added the "The Point:" section, which we will be modifying and clarifying going forward. But as it stands is pretty well captures the work. Also added the "Relevant Plates" section. 
