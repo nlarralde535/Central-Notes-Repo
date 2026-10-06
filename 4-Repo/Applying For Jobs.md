@@ -47,6 +47,7 @@ Done
 - finalized formatting and generated resume PDFs
 To Do
  - implement the `/label-react-nouns` skill for our personal React project, to include in our resume
+ - add the Agentic Workflow GitHub link to reusme
  - apply [[Lessons Learned in Software Testing]] and [[Software Development Philosophy PROJECT]] notes to work Claude
 
 

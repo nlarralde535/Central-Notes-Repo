@@ -78,6 +78,8 @@ For now the things I know we need to do are:
  - read HPD General Orders in [[City of Houston Police info]]
  - begin working on [[QUESTIONS]] and [[Test Questions]]
  - write the [[Blindsight + On Bullshit]] summary 
+ - read the Bible & biblical criticism
+
 The [[QUESTIONS]] and [[Test Questions]] are what we need in order to start talking to folks.
 The [[Blindsight + On Bullshit]] summary is to give us a framework for cutting through bullshit.
 
