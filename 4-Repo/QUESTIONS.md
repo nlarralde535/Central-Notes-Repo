@@ -10,7 +10,7 @@ createdDate: 09-07-2026
 
 # Questions Table
 ```dataview
-TABLE description, status, dateStarted
+TABLE createdDate, description, status, dateStarted
 FROM #Question and -#Question/Template
-SORT createDate ASC
+SORT createdDate DESC
 ```

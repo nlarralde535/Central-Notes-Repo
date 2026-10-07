@@ -5,11 +5,11 @@ status: "nil"
 correspondingTags:
   - aaa
   - bbb
-createdDate: "2026-07-18"
+createdDate: 2026-07-18
 dateStarted: "null"
 dateCompleted: "null"
 description: |
-  How did the Bundy family win their case against the federal government 
+  How did the Bundy family win their case against the federal government? How did they resist agents of the US government? 
 ---
 # Description 
 We are interested in understanding the defense arguments the Bundy family used to justify their armed standoff with the US BLM. Here are some articles to read: 

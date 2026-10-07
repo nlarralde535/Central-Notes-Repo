@@ -5,7 +5,7 @@ status: "nil"
 correspondingTags:
   - aaa
   - bbb
-createdDate: "2026-07-13"
+createdDate: 2026-07-13
 dateStarted: "null"
 dateCompleted: "null"
 description: |
