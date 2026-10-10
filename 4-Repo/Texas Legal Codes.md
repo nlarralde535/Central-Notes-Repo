@@ -39,8 +39,8 @@ Note: these chapters all seem relatively short
 - [x] 15
 - [x] 19 (SKIPPED )
 - [x] 22
-- [ ] 30 (added by [[Penal Code Title 2 Ch 9 - Justification Excluding Criminal Responsibility]])
-- [ ] 38
+- [x] 30 (added by [[Penal Code Title 2 Ch 9 - Justification Excluding Criminal Responsibility]])
+- [x] 38
 - [ ] 42
 - [ ] 46
 - [ ] 49 (added by [[Code of Criminal Procedure Chapter 2A - Officers Powers and Duties]])
@@ -50,6 +50,14 @@ LIST
 FROM #Note/TexasLegalCodes/PenalCode
 SORT createdDate ASC
 ```
+
+
+
+[Texas Government Code](https://statutes.capitol.texas.gov/?tab=1&code=GV&chapter=GV.411&artSec=411.171)
+Chapters to read
+- [ ] 411, Subchapter H (added by [[Penal Code Title 7 - Chapter 30 Burglary and Criminal Trespass]])
+
+
 
 [Texas Local Government Code](https://texas.public.law/statutes/tex._local_gov't_code) 
 Chapters to read 
@@ -127,6 +135,16 @@ This is as important as the [[City of Houston Code of Ordinances]
 
 ---
 # Log
+2026-10-09
+Done
+ - read Ch 39 and 38 of Penal Code 
+ - added Ch 411 of Government Code 
+To Do
+ - keep reading
+ - create a [[Criminal Justice]] resource entry for 
+     - [United States Codes ](https://www.law.cornell.edu/uscode/text)
+     - HPD general orders linked in [[City of Houston Police info]]
+
 2026-10-03
 Done
  - read ch 15 and ch 22, skipped two chapters
