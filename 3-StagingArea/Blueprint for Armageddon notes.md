@@ -1,5 +1,29 @@
 
+# Episode 53
+
+
 # Episode 52
+
+3:38:00
+Dan in the epilogue to this episode gives a summary of the events covered so far
+ - the assassination of Archduke Ferdinand 
+ - the launch of the war in August 1914
+ - the Battle of the Frontiers when the French army first turns to face the German army
+ - the Race to the Sea along the River Aines
+ - the 1st Battle of Ypres
+ - the true digging-in entrenchment over the course of 1915
+ - the battles on the Eastern front which the Germans win handily
+ - Russia asking for help dealing with the Ottoman Turks mobilizing and moving up into Russia from the south
+ - the British and French failed attempt to force open the Dardanelles 
+
+
+3:32:00
+Dan discusses the Armenian Genocide in 1915 and how genocide in general is not unique to the Turks. He uses the following quote
+    "given the right circumstances, normal human beings are all to ready to kill by category"
+
+2:07:00
+Discussion of shell shock, "drum fire", and a Quote from Ernst Junger about his experience losing his mind temporarily during an artillery barrage
+
 1:39:00
 On the war at sea: relatively new and inexpensive German submarines proved to be very effective against the surface vessels of world-class navies of Britain and France. Germany, a weaker naval power, was using its submarines to disrupt British and French merchant shipping in a way that the allied navies could not defend against. Parallels to drone warfare in Ukraine and Iran.
 

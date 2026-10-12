@@ -6,11 +6,24 @@ createdDate: 2026-08-09
 ---
 
 # Parkwood Baptist Church, Richard
+2026-07
 1) Richard made the point that we are spiritual beings, not material. He pointed to Genesis 1:1 claiming "Genesis says that in the beginning there was nothing, only the spirit." He then turned to Genesis 1:1 pointed at it and read...  ```In the beginning God created the heavens and the earth. 2 Now the earth was formless and empty, darkness was over the surface of the deep, and the Spirit of God was hovering over the waters.```  and he paused when he got to the word "waters". QUESTION:  if in the beginning there was nothing but the spirit, where did these waters come from?
 2) The pastor opened Bible study by saying that one should treat the Bible as the ultimate source of truth in any and all matters. The story in focus this day was that of Daniel interpreting the dream of Babylonian King Nebuchadnezzar. In setting the scene the pastor explained that the ancient city of Babylon was 68 miles in circumference, putting it somewhere between the circumstance of Loop 610 and Beltway 8. QUESTION: Since the Bible does not mention the size of the city of Babylon, how did the pastor come to know this information?  QUESTION: And more importantly, how does a Christian detriment which non-Biblical sources are trustworthy and which  are not? 
 
-# Kingwood Bible Church, Glen
-During Bible study, in the context of talking  about the Czech mission team, Glen mentioned the importance of getting out of one's comfort zone, and of being uncomfortable. This has come up a handful of times, including in the context of interacting with people of other faiths. POINT: This is good for us because discomfort is what I intend to bring.
+# Kingwood Bible Church
+2026-10-10
+This morning at the monthly Men's Breakfast gathering I had a conversation with a man named Christian. This was my first time seeing it meeting him in the time I've been going to KBC, but he is well known and has been a member of the church for a decade. The conversation we had was basically the same conversation Ive had from Richard from Parkwood Baptist: Emily used the term "witnessing", they are attempting to recruit/convert me. 
+
+What started the conversation was the question posed to me "do you know the gospel?". During Christian's explanation of the gospel a number of things he said have stuck in my mind
+ - good works do not matter for one's salvation 
+ - salvation is simply believing the gospel
+ - there is only 1 correct interpretation of the Bible 
+ - reading the Bible is important, but one should not try to interpret it on their own. Instead one should seek others (church) and interpret it as a group 
+
+The point about good works also came up during the Men's Breakfast group discussion. I heard it asserted that there is no defined checklist of things one may mindless check off in order to attain salvation.
+
+2026-06
+Glen, during Bible study, in the context of talking  about the Czech mission team, Glen mentioned the importance of getting out of one's comfort zone, and of being uncomfortable. This has come up a handful of times, including in the context of interacting with people of other faiths. POINT: This is good for us because discomfort is what I intend to bring.
 
 # Christ the King Lutheran 
 2026-09-20

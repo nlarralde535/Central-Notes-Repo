@@ -41,10 +41,10 @@ Note: these chapters all seem relatively short
 - [x] 22
 - [x] 30 (added by [[Penal Code Title 2 Ch 9 - Justification Excluding Criminal Responsibility]])
 - [x] 38
-- [ ] 42
-- [ ] 46
-- [ ] 49 (added by [[Code of Criminal Procedure Chapter 2A - Officers Powers and Duties]])
-- [ ] 76
+- [x] 42
+- [x] 46
+- [x] 49 (added by [[Code of Criminal Procedure Chapter 2A - Officers Powers and Duties]]) SKIPPED 
+- [x] 76
 ```dataview
 LIST
 FROM #Note/TexasLegalCodes/PenalCode
@@ -135,6 +135,16 @@ This is as important as the [[City of Houston Code of Ordinances]
 
 ---
 # Log
+2026-10-10
+Done 
+ - read Ch 42 Penal Code 
+ - started reading Ch 46 Penal Code 
+To Do
+ - keep reading Ch 46 Penal Code
+ - create a [[Criminal Justice]] resource entry for 
+     - [United States Codes ](https://www.law.cornell.edu/uscode/text)
+     - HPD general orders linked in [[City of Houston Police info
+
 2026-10-09
 Done
  - read Ch 39 and 38 of Penal Code 

@@ -4,6 +4,9 @@ tags:
 plate: Criminal Justice
 createdDate: 2026-10-09
 ---
+Questions: 
+ - what is a "lawful arrest"?
+
 # Sec. 38.01.  DEFINITIONS.  In this chapter:
 In this chapter:
 (1)  "Custody" means:
