@@ -1,5 +1,37 @@
 
+# Episode 54
+
+
+Dan describes the German plan to counter the United States' entrance into the war by using Mexico. Germany knows that if they begin "unrestricted submarine warfare" this will almost certainly induce the US to enter the war as more and more Americans die on attacked ships. He cited a Telegram from German foreign secretary Arthur Zimmerman to the Ambassador of Mexico where Germany proposes to "make alliance" with Mexico in the event the US entered the war, and that Mexico would stand to regain territory lost to the US over the previous century.
+
+1:02:30
+Dan describes the ongoing intermittent diplomatic discussions around peace agreements, which has been attempted since before the war broke out. He explains that a principal barrier to peace here in late 1916 is the fact that quote
+    "the war aims of these powers have gotten so out of hand that they bear no resemblance to anything that could be negotiated. 'if the means used to fight the war are total, then so must be the ends. It was almost impossible to stop short of total victory for one side, and unconditional surrender for the other' ... The idea of war aims that were anything short of total surrender by the enemy clashed with your propaganda"
+
+43:30 - 46:00
+Dan describes how President Wilson considered any opposition to his peacetime foreign policy in 1916 not at mere opposition or disagreement, but rather disloyalty. Quote
+    "We still have laws on the books that we're currently using and enforcing during the war on terror that are President Wilson's response to critics who address him negatively in wartime"
+In this section Dan also mentions how internal destabilization at this point in the war was more of a threat to these warring nations as a losing by military defeat. Dan refers to the "home front" and again describes the prevailing attitude held by these warring armies that "everyone was a combatant", including the civilians working on the home front to supply their war machine.
+
+28:00
+Dan describes Presiden Woodrow Wilson's foreign policy approach during WWII, and the corresponding historical interpretations of Wilson's decision-making. Dan describes one class of interpretation which views Wilson as disguising the decision to enter the war within treaties/agreements with the Germans ostensibly designed to protect Americans traveling abroad from being attacked by German subs, and how in reality these treaties/agreements were increasingly impossible for Germany to adhere to. For example, establishing that Americans had a right to travel aboard French and British ships, even if those ships carried munitions or war stuffs or anti-submarine defenses. The German attitude was to point out that Wilson is not holding the French or the British to the same standard, given that the British have blockaded Germany by mining the North Sea and stopping and redirecting German-bound freight liners to British/Allied ports. 
+
+Compare this to in 2026 the US blockades of Cuba and Iran/Strait of Hormuz 
+
 # Episode 53
+
+3:06:00
+Amidst discussion of the Battle of the Somme where for the first time British troops are lost to a senseless meat grinder in the ways the Germans and French have been throughout the war so far, where wave after wave of troops are sent by commanders who clearly see that prior waves are being hung up on German barbed wire which was not destroyed by artillery bombardment as planned, Dan asks "at what point do these commanders behind to be held accountable for not learning?" He quotes a German civilian political leader Bethmann Holvig speaking to the Kaiser about General von Falkenhein 
+    "Where does incompetency end and criminality begin?"
+
+
+
+2:21:00
+"By 1916 the economic side of the war is coming to the fore... when it becomes part of the normal life of all of these counties. "
+
+1:46:00
+Dan again discusses the dramatic change in naval warfare technology which has very expensive and long-production-timeline-having battle ships totally vulnerable to relatively inexpensive and mass-producible naval mines.
+Again, compare this to drone warfare in Ukraine and Iran. 
 
 
 # Episode 52
