@@ -35,7 +35,7 @@ We can make a separate repo for this so that the GitHub Pages page will be uniqu
 
 ---
 # Log
-2026-10-03
+2026-10-03 (updated 2026-10-17)
 Done
 - reviewed and edited the experience section of SDET resume (updated copy is in Local_Temp)
      - uploaded this `.md` file to Google Drive
@@ -45,10 +45,19 @@ Done
  - created the SDET Google Doc resume
     - copied the refined sections of each Google Doc resume to the other 
 - finalized formatting and generated resume PDFs
+- updated LinkedIn and Zip Recruiter profiles 
 To Do
- - implement the `/label-react-nouns` skill for our personal React project, to include in our resume
- - add the Agentic Workflow GitHub link to reusme
+ - repo(s) to add to our resume
+     - the `/label-react-nouns` skill, implemented for our Current Events react project
+     - the `useful-config` stuff from work (see email)
+     - the `useful-harness` stuff from work (see email)
+     - Agentic Workflow (already on Github)
+     - our software testing and [[Software Development Philosophy PROJECT]] notes (TDD, LLiST, software testing PDFs + previous software testing philosophy cover letter )
  - apply [[Lessons Learned in Software Testing]] and [[Software Development Philosophy PROJECT]] notes to work Claude
+- update SDE and SDET resumes according to our `learning/` studies 
+- start applying 
+    - look up tech recruiting firms/services in specific areas/regions 
+    - look up tech firms in specific areas/regions
 
 
 2026-10-02

@@ -2,6 +2,12 @@
 # Episode 54
 
 
+2:36:00 2:41:00
+March 1917, Wilson's speech to Congress saying "we are already at war with Germany, I invite you to confirm that fact", Wilsonian Ideals represent a change of course of US foreign policy from the old fashioned exigencies of Washington or John Quincy Adams in his farewell speech to "not go abroad in search of monsters"
+
+Brittany prime Minister Lloyd George response to Wilson's above letter saying basically "what took you so long?"
+
+??:??
 Dan describes the German plan to counter the United States' entrance into the war by using Mexico. Germany knows that if they begin "unrestricted submarine warfare" this will almost certainly induce the US to enter the war as more and more Americans die on attacked ships. He cited a Telegram from German foreign secretary Arthur Zimmerman to the Ambassador of Mexico where Germany proposes to "make alliance" with Mexico in the event the US entered the war, and that Mexico would stand to regain territory lost to the US over the previous century.
 
 1:02:30
