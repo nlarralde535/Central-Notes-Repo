@@ -1,4 +1,11 @@
 
+# Episode 55
+
+12:00
+Dan introduces the subject of the Soviet revolution and the origins of Communism, in the context of Germany's effort to snuggle Vladimir Lennin back into Russia in the hopes that he would incite changes that would lead to Russia existing the war. Dan describes Lennin as both an ideological fanatic and a organizer/leader/man of action. And he gives the following quote from Winston Churchill 
+    A fanatic is someone  who cannot change their mind and refuses to change the subject
+
+
 # Episode 54
 
 
