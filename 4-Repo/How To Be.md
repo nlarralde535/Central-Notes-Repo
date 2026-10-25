@@ -74,3 +74,12 @@ Learning is characterized by long periods of frustrating grind punctuated by Aha
 
 # Do what you can while you can
 This is equivalent to "the perfect is the enemy of the good": don't wait for conditions to be totally congenial in order to start doing the thing
+
+# Identify and eliminate Information asymmetry
+
+
+# Do not try to convince anyone of anything
+When I'm discussions with opponents, do not have as your first objective the turning of your opponent to your way of thinking. The first objective should be to state your position clearly using the points listed above ^, demonstrating the standard of communication to which to intend to hold your opponent. After that, the objective should to induce your opponent to state their position at least as clearly and you have stated yours. Their ability to do so or not will guide the remainder of the discussion. 
+
+# Most (all?) arguments/positions succumb to nuance after enough scrutiny
+Scrutinize your own arguments and positions until it is clear where the nuance lies. 
