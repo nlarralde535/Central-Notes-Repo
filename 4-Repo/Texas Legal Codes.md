@@ -51,6 +51,10 @@ FROM #Note/TexasLegalCodes/PenalCode
 SORT createdDate ASC
 ```
 
+Codes noted in the [TCLE Statutes and Rules Handbook](https://tcole.texas.gov/document/tcole-handbook-2025.pdf)
+The following are contained in the handbook: 
+- [ ] Texas Administrative Code chapters 211-29
+- [ ] Texas Occupations Code chapters 1701
 
 
 [Texas Government Code](https://statutes.capitol.texas.gov/?tab=1&code=GV&chapter=GV.411&artSec=411.171)
@@ -116,10 +120,6 @@ Title 37 Public Safety and Corrections
   - [ ] 223
 
 
-## Codes noted in the [TCLE Statutes and Rules Handbook](https://tcole.texas.gov/document/tcole-handbook-2025.pdf)
-The following are contained in the handbook: 
-- [ ] Texas Administrative Code chapters 211-29
-- [ ] Texas Occupations Code chapters 1701
 
 
 2026-09-15

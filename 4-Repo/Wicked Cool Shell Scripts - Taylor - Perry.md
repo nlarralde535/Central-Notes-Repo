@@ -3,7 +3,7 @@ tags:
   - Note/Plate/Tech/Resource/Linux
 plate: "Tech"
 progressionPosition: "2"
-isInFocus: "n"
+isInFocus: "Y"
 createdDate: 2026-06-23
 ---
 # Description

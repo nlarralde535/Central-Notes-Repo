@@ -2,6 +2,7 @@
 tags:
   - Note/City_of_Houston/Police
   - Note/WhatToDo
+  - Note/Plate/CriminalJustice/Resource
 aliases:
   - _template
 createdDate: 2026-03-19
@@ -39,3 +40,8 @@ Mission
 The mission of the OPRA is to improve accountability and transparency between the Houston Police Department (HPD) and the community by implementing reforms, reviewing complaint investigations, and fostering open dialogue between the department and the community it polices. Together with HPD’s Internal Affairs Division (IAD), the office aims to ensure that policing in Houston is fair, equitable, and aligned with community needs.
 
 # [Internal Affairs](https://www.houstontx.gov/police/divisions/internal_affairs/index.htm)
+
+# Log
+2026-10-25
+Done
+ - added the `Note/Plate/CriminalJustice/Resource` tag to add this note as a resource to the Criminal Justice Plate
