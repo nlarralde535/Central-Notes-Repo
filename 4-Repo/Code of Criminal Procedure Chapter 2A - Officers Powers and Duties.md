@@ -30,6 +30,11 @@ The following are peace officers
 # Art. 2A.054.  REFUSAL TO ASSIST PEACE OFFICER. 
 A peace officer who summons a person to assist the peace officer in performing any duty shall, if the person refuses, report the person to the proper district or county attorney for prosecution
 
+# Art. 2A.055.  FINE FOR FAILURE TO EXECUTE PROCESS. 
+(a)  A sheriff or other officer who wilfully refuses or neglects to execute any summons, subpoena, or attachment for a witness or any other legal process the officer has a duty to execute is liable for a fine for contempt in an amount in the court's discretion of not less than $10 or more than $200.
+
+(b)  The payment of a fine under Subsection (a) shall be enforced in the same manner as a fine for contempt in a civil case
+
 # Art. 2A.059.  NATIONALITY OR IMMIGRATION STATUS INQUIRY.
 (a)  Subject to Subsection (b), in the course of investigating an alleged criminal offense, a peace officer may inquire as to the nationality or immigration status of a victim of or witness to the offense only if the officer determines that the inquiry is necessary to:
 
@@ -45,10 +50,8 @@ A peace officer who summons a person to assist the peace officer in performing a
 
 # Art. 2A.060.  IMMIGRATION DETAINER REQUESTS.
 (a)  A law enforcement agency that has custody of a person subject to an immigration detainer request issued by United States Immigration and Customs Enforcement shall:
-
-(1)  comply with, honor, and fulfill any request made in the detainer request provided by the federal government; and
-
-(2)  inform the person that the person is being held pursuant to an immigration detainer request issued by United States Immigration and Customs Enforcement.
+    (1)  comply with, honor, and fulfill any request made in the detainer request provided by the federal government; and
+    (2)  inform the person that the person is being held pursuant to an immigration detainer request issued by United States Immigration and Customs Enforcement.
 
 (b)  A law enforcement agency is not required to perform a duty imposed by Subsection (a) with respect to a person who has provided proof that the person is a citizen of the United States or that the person has lawful immigration status in the United States, such as a Texas driver's license or similar government-issued identification
 
@@ -64,6 +67,7 @@ A peace officer who summons a person to assist the peace officer in performing a
 
 (e)  Not later than March 1 of each year, the attorney general shall submit a report regarding all officer-involved injuries or deaths that occurred during the preceding year to the governor and the standing legislative committees with primary jurisdiction over criminal justice matters
 
+- [Peace Officer Involved Shooting Reports](https://www.texasattorneygeneral.gov/open-government/open-reports-and-publications)
 # Art. 2A.207.  LAW ENFORCEMENT AGENCIES: REPORT FOR CERTAIN INJURIES OR DEATHS OF PEACE OFFICERS. 
 (a)  The attorney general by rule shall create a written and electronic form for the reporting by law enforcement agencies of an incident in which a person who is not a peace officer discharges a firearm and causes injury or death to a peace officer who is performing an official duty
 

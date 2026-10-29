@@ -6,13 +6,20 @@ aliases:
   - _template
 createdDate: 2026-04-14
 ---
-### Matthew 25:45
+
+# Bible
+Matthew 25:45
 "whatever you did not do for one of the least of these, you did not do for me."
+
+# George Carlin 
+"I'm not interested in making anybody think, I just want people to know that I'm thinking"
 
 # Christopher Hitchens
 "You give me the awful impression of someone who hasn't read any of the arguments against your position ever." - 2007 on Sean Hannity's Hot Sear program
 
-"That which is asserted without evidence can be dismissed without argument"
+Hitchens' Razor
+"What can be asserted without evidence can also be dismissed without evidence.["
+
 # Stephen J Gould
 "I am, somehow, less interested in the weight and convolutions of Einstein’s brain than in the near certainty that people of equal talent have lived and died in cotton fields and sweatshops."
 

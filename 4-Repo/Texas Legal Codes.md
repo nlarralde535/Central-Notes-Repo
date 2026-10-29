@@ -21,11 +21,8 @@ Chapters to read
 - [x] 19A
 - [x] 21
 - [x] 56A SKIPPED 
-```dataview
-LIST
-FROM #Note/TexasLegalCodes/CriminalProcedure
-SORT createdDate ASC
-```
+
+ - [[Notes on Texas Code of Criminal Procedure]]
 
 [Texas Penal Code](https://texas.public.law/statutes/tex._penal_code)
 https://statutes.capitol.texas.gov/?tab=1&code=PE&chapter=PE.1&artSec=
@@ -135,15 +132,22 @@ This is as important as the [[City of Houston Code of Ordinances]
 
 ---
 # Log
+2026-10-28
+Done
+- created a [[Criminal Justice]] resource entry for 
+    - [United States Codes ](https://www.law.cornell.edu/uscode/text)
+    - HPD general orders linked in [[City of Houston Police info]]
+ - consolidated and summarized Criminal Procedure notes into [[Notes on Texas Code of Criminal Procedure]]
+To Do
+ - consolidate and summarize Penal Code notes
+
+
 2026-10-10
 Done 
  - read Ch 42 Penal Code 
  - started reading Ch 46 Penal Code 
 To Do
  - keep reading Ch 46 Penal Code
- - create a [[Criminal Justice]] resource entry for 
-     - [United States Codes ](https://www.law.cornell.edu/uscode/text)
-     - HPD general orders linked in [[City of Houston Police info
 
 2026-10-09
 Done

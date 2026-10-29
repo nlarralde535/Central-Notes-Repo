@@ -5,12 +5,7 @@ plate: Criminal Justice
 createdDate: 2026-09-24
 ---
 
-Questions
- - Art 21.14 refers to perjury and aggravated perjury, but these are nowhere defined in this chapter. Where in the Codes is perjury defined?
 
-Notes
- - Art 21.16 makes clear why "you can get a grand jury to indict a ham sandwich"
- - Indictments are issued by grand juries, while informations are issued by courts themselves (by district/county attorneys)
 
 ---
 # Art. 21.01. "INDICTMENT". 

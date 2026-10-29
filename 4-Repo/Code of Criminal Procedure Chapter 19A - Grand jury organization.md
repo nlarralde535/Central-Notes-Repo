@@ -5,11 +5,7 @@ plate: Criminal Justice
 createdDate: 2026-09-24
 ---
 
-Questions
- - district judges are responsible for impaneling grand juries. Where are the "districts" defined?
-     - note: the term "judicial district" appears in 19A.201.a-1
-Notes
- - the sections on Grand jury qualifications and challenges to grand juror selection inform the point we often make when discussing why it is ridiculous to allow nation states to adjudicate crimes they allege have been committed against them: "you're not allowed to sit on a jury for a crime committed against yourself"
+
 
 ---
 # SUBCHAPTER A. GENERAL PROVISIONS

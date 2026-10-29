@@ -29,6 +29,7 @@ createdDate: 2026-09-22
         (A)  the commission; and
         (B)  the governing body of each county or municipality served by the agency, if the agency is an agency of a county, municipality, or other political subdivision of this state.
 
+ - [Annual Racial Profiling Reporting](https://tcole.texas.gov/content/racial-profiling-reports)
 
 ## Art. 2B.0054.  REPORTS REQUIRED FOR MOTOR VEHICLE STOPS.  
 (a)  A peace officer who makes a motor vehicle stop shall report to the law enforcement agency that employs the officer information relating to the stop, including ...
