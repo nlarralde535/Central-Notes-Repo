@@ -35,6 +35,26 @@ We can make a separate repo for this so that the GitHub Pages page will be uniqu
 
 ---
 # Log
+2026-10-30
+Done: 
+ - copied over stuff related to 
+     - the `/label-react-nouns` skill
+     - the `useful-config` 
+     - the `useful-harness`  
+ - implemented the `/label-react-nouns` skill for our Current Events react project
+ - added all this ^ to a GitHub repo called `useful`
+To Do
+  - create repo for our [[Lessons Learned in Software Testing]] and [[Software Development Philosophy PROJECT]] notes
+  - add links to GitHub repos to our resume:
+      -  `useful`
+      - `sde-agentic-workflow`
+      - software testing/philosophy stuff
+- apply [[Lessons Learned in Software Testing]] and [[Software Development Philosophy PROJECT]] notes to work Claude
+- update SDE and SDET resumes according to our `learning/` studies 
+- start applying 
+    - look up tech recruiting firms/services in specific areas/regions 
+    - look up tech firms in specific areas/regions
+
 2026-10-03 (updated 2026-10-17)
 Done
 - reviewed and edited the experience section of SDET resume (updated copy is in Local_Temp)
@@ -53,11 +73,6 @@ To Do
      - the `useful-harness` stuff from work (see email)
      - Agentic Workflow (already on Github)
      - our software testing and [[Software Development Philosophy PROJECT]] notes (TDD, LLiST, software testing PDFs + previous software testing philosophy cover letter )
- - apply [[Lessons Learned in Software Testing]] and [[Software Development Philosophy PROJECT]] notes to work Claude
-- update SDE and SDET resumes according to our `learning/` studies 
-- start applying 
-    - look up tech recruiting firms/services in specific areas/regions 
-    - look up tech firms in specific areas/regions
 
 
 2026-10-02
