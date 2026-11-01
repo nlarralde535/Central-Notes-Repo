@@ -27,7 +27,7 @@ The traditional electronic smoke test answers the question "can power be supplie
  - can the board be powered? No.
  - why not? Idk, but I'd start by troubleshooting the areas where the smoke is pouring from.
 
-When the smoke test passes, all we can say is that power was successfully applied to the board. This is important because usually an electronic circuit board is one part of a larger apparatus, and if the circuit board cannot be powered properly then the odds of the overall apparatus function as intended are low. 
+When the smoke test passes, all we can say is that power was successfully applied to the board. This is important because usually an electronic circuit board is one part of a larger apparatus, and if the circuit board cannot be powered properly then the odds of the overall apparatus function as intended are low. The smoke test functions similarly to the Functional Movement Screen with regards to providing clearly signaling the presence or absence of a minimum level of capacity, nothing more. 
 
 The Test Pyramid metaphor begins to seem useful here, and it is. Or at least the concept of testing at different implementation layers seems useful. And THIS is where a tester can truly distinguish themselves and be maximally useful: 
  - understand the IMPLEMENTATION LAYERS of the software you're testing
@@ -39,3 +39,6 @@ This ^ is how you zoom out from the smoke test.
 # Addendum
 
 What does it mean to "understand the implementation layers" of a software product?
+I think "implementation layers" is a different concept from "states" described in [[System for generating functional tests]]
+ - implementation layers refer to static analysis of inert code as it is written, as it exists before even compile time
+ - states refer to the conditions/positions/status/stages of running code, at a particular snapshot in time. 

@@ -35,6 +35,20 @@ We can make a separate repo for this so that the GitHub Pages page will be uniqu
 
 ---
 # Log
+2026-10-31
+Done:
+ -  applied [[Lessons Learned in Software Testing]] and [[Software Development Philosophy PROJECT]] notes to our `sde-agentic-workflow`, commit `e51325e6f5df5` 
+ - created a natural-language repo for our [[Lessons Learned in Software Testing]] and [[Software Development Philosophy PROJECT]] notes: `~/repos/software-philosophy`
+To Do
+  - add links to GitHub repos to our resume:
+      -  `useful`
+      - `sde-agentic-workflow`
+      - `software-philosophy`
+- update SDE and SDET resumes according to our `learning/` studies 
+- start applying 
+    - look up tech recruiting firms/services in specific areas/regions 
+    - look up tech firms in specific areas/regions
+
 2026-10-30
 Done: 
  - copied over stuff related to 
@@ -44,16 +58,7 @@ Done:
  - implemented the `/label-react-nouns` skill for our Current Events react project
  - added all this ^ to a GitHub repo called `useful`
 To Do
-  - create repo for our [[Lessons Learned in Software Testing]] and [[Software Development Philosophy PROJECT]] notes
-  - add links to GitHub repos to our resume:
-      -  `useful`
-      - `sde-agentic-workflow`
-      - software testing/philosophy stuff
-- apply [[Lessons Learned in Software Testing]] and [[Software Development Philosophy PROJECT]] notes to work Claude
-- update SDE and SDET resumes according to our `learning/` studies 
-- start applying 
-    - look up tech recruiting firms/services in specific areas/regions 
-    - look up tech firms in specific areas/regions
+  - 
 
 2026-10-03 (updated 2026-10-17)
 Done
