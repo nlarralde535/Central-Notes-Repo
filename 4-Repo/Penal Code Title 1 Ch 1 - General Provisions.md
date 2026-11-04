@@ -5,11 +5,6 @@ plate: Criminal Justice
 createdDate: 2026-09-25
 ---
 
-Questions
-Notes
- - Sec 1.07 defines "deadly weapon" to include firearms. This i think deals a deadly blow to the "guns don't kill people" bullshit 
- - Sec 1.10 prohibits any agency or political subdivision of the State from helping enforce and Federal anti-gun laws, and penalizes state subdivisions that enter into agreements with the federal government to help enforce such laws
-
 ---
 
 # Sec. 1.02.  OBJECTIVES OF CODE.

@@ -271,6 +271,8 @@ And I don't have a plan for how any of this should go, I don't know how to go fr
 Let me know what you think.
 I don't mean to suggest that I'm completely set in my ways and unable to learn new tricks, but at the same time, at this point in my life I am who I'm going to be (and I like who I am), and I'm trying to find someone who is an easy/seamless fit for me, and visa versa.
 
+I know how to be a supportive, helpful, platonic friend. And I know how to be a committed, supportive romantic partner. I'm not good at any of the stuff in between those two things. 
+
 ### What I'm looking for
  
 

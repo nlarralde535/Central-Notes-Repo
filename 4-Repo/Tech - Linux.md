@@ -5,7 +5,7 @@ tags:
 priority: A
 isActive: "Y"
 AP: "Finish How Linux Works"
-focusedSource: "[[How Linux Works - Ward]]"
+focusedSource: "[[Wicked Cool Shell Scripts - Taylor - Perry]]"
 correspondingTags:
   - aaa
   - bbb

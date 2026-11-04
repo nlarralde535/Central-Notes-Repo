@@ -132,6 +132,12 @@ This is as important as the [[City of Houston Code of Ordinances]
 
 ---
 # Log
+2026-11-03
+Done
+ - created [[Notes on Texas Penal Code]] consolidated note, started working on consolidating Penal Code notes
+To Do
+ - consolidate and summarize Penal Code notes
+
 2026-10-28
 Done
 - created a [[Criminal Justice]] resource entry for 
