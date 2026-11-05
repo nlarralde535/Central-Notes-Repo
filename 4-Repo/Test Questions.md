@@ -21,4 +21,5 @@ See [[QUESTIONS]] as well
 9. When is the last time you changed your mind about something based on new information?
 10. Are you in favor of religious freedom? If so, describe what religious freedom looks like to you.
 11. (To someone who believes they have worked hard to get where they are): do you think everybody should have to work as hard, and sacrifice as much as you have? ...including your own children?
+12. To what extent are you able to explain/characterize the problem(s) you complain about?
 

@@ -23,9 +23,13 @@ I believe I do not fully understand how/why this ^ ceding has happened.
 
 I believe the average American has a responsibility to consider their political beliefs very carefully, due to the outsized impact their government has on world events. 
 
+I believe this responsibility comes directly from the words and intentions of the founders of the Republic.
+
 I believe Americans should be made to feel the real-world consequences of their political beliefs, and of their abdication of the responsibility of participating meaningfully in their system of government. 
 
 I believe the average American should pay far more attention to the policies and actions of their government both at home and abroad. 
+
+I believe that the comfortable standard of living that many Americans enjoy, and which many more strive for, comes at the expense of people in other parts of the world with which these Americans do not concern themselves. 
 
 I believe I do not have all of the answers to the question "how should a society govern itself". 
 
