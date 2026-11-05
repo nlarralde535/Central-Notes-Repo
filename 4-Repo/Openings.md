@@ -6,31 +6,6 @@ aliases:
   - _template
 createdDate: 2026-04-14
 ---
-# Shame on you for:
-
-### National
-- Mass deportation, ICE
-- Cuba blockade
-- Iran War
-- Material support for Israel
-- white nationalists marching in DC on July 4th
-
-### State
- - 2025 Gerrymander
- - Handing voter roles to Trump Administration
- - gun bans don't work, but abortion bans do? 
-     - early childhood development funding 
- - State Board of Education introducing Bible reading into grade school curricula
-
-### Local
-- Kingwood is a comfortable, wealthy suburb that votes conservative
-- Kingwood benefits from City of Houston resources
-    - Metro park & ride 
-    - Dedicated HPD precinct
-- Low voter turnout in state and local elections 
-
---- 
-
 # Openings ♟️:
 
 Can I talk to y'all for a second?
