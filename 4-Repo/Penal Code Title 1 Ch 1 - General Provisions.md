@@ -1,6 +1,4 @@
 ---
-tags:
-  - Note/TexasLegalCodes/PenalCode
 plate: Criminal Justice
 createdDate: 2026-09-25
 ---

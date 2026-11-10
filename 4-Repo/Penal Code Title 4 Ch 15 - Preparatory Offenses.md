@@ -1,6 +1,4 @@
 ---
-tags:
-  - Note/TexasLegalCodes/PenalCode
 plate: Criminal Justice
 createdDate: 2026-10-01
 ---
@@ -20,23 +18,16 @@ createdDate: 2026-10-01
 
 # Sec. 15.02.  CRIMINAL CONSPIRACY.
 (a)  A person commits criminal conspiracy if, with intent that a felony be committed:
-
-(1)  he agrees with one or more persons that they or one or more of them engage in conduct that would constitute the offense;  and
-
-(2)  he or one or more of them performs an overt act in pursuance of the agreement.
+    (1)  he agrees with one or more persons that they or one or more of them engage in conduct that would constitute the offense;  and
+    (2)  he or one or more of them performs an overt act in pursuance of the agreement.
 
 (b)  An agreement constituting a conspiracy may be inferred from acts of the parties.
 
 (c)  It is no defense to prosecution for criminal conspiracy that:
-
-(1)  one or more of the coconspirators is not criminally responsible for the object offense;
-
-(2)  one or more of the coconspirators has been acquitted, so long as two or more coconspirators have not been acquitted;
-
-(3)  one or more of the coconspirators has not been prosecuted or convicted, has been convicted of a different offense, or is immune from prosecution;
-
-(4)  the actor belongs to a class of persons that by definition of the object offense is legally incapable of committing the object offense in an individual capacity;  or
-
-(5)  the object offense was actually committed.
+    (1)  one or more of the coconspirators is not criminally responsible for the object offense;
+    (2)  one or more of the coconspirators has been acquitted, so long as two or more coconspirators have not been acquitted;
+    (3)  one or more of the coconspirators has not been prosecuted or convicted, has been convicted of a different offense, or is immune from prosecution;
+    (4)  the actor belongs to a class of persons that by definition of the object offense is legally incapable of committing the object offense in an individual capacity;  or
+    (5)  the object offense was actually committed.
 
 (d)  An offense under this section is one category lower than the most serious felony that is the object of the conspiracy, and if the most serious felony that is the object of the conspiracy is a state jail felony, the offense is a Class A misdemeanor.  This subsection does not apply to an offense under Section 76.02. 
