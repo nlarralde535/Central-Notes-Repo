@@ -277,7 +277,7 @@ I know how to be a supportive, helpful, platonic friend. And I know how to be a 
  
 
 ### A thought:
-I was walking for a coffee this morning and was thinking about the kind of relationship/partner I'm looking for, trying to define it better, and what occurred to me is this, let me know what you think: I'm someone who prioritizes others over themself, especially when it comes to people I like; making others happy is important to me, but often making other people happy can have negative impacts, and that being said, I'm hoping to find someone such that the things that make them happy are mutually beneficial and positive. 
+I was walking for a coffee this morning and was thinking about the kind of relationship/partner I'm looking for, trying to define it better, and what occurred to me is this, let me know what you think: I'm someone who prioritizes others over himself, especially when it comes to people I like; making others happy is important to me, but often making other people happy can have negative impacts. That being said, I'm hoping to find someone such that the things that make them happy are mutually beneficial and positive. 
 Does that makes sense?
 
 https://youtu.be/Hv0gXgTPveg?si=FeGhIWficnc86Q-x&t=1m28s

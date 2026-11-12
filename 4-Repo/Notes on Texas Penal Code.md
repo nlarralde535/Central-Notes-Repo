@@ -73,5 +73,75 @@ All persons are presumed to be innocent and no person may be convicted of an off
 
 ---
 
-# Chapter
-    
+# Chapter 22 - Assaultive Offenses
+
+Note: 
+The following points seem to contradict the "guns don't kill people" nonsense 
+ - assault becomes aggravated assault with the presence of a deadly weapon
+ - deadly conduct goes from a Class A misdemeanor to a 3rd degree felony when a firearm is discharged 
+
+[[Penal Code Title 5 Ch 22 - Assaultive Offenses]]
+ - threatening someone counts as assault: "intentionally or knowingly threatens another with imminent bodily injury" 
+ - assault is a Class A misdemeanor 
+     - 3rd degree felony if committed against a public servant
+     - 2nd degree felony if committed against a peace officer 
+ - the difference between assault and aggravated assault is 1. degree of bodily injury inflicted (bodily injury vs. "serious" bodily injury) and 2. presence of a deadly weapon (whether used in the assault or merely exhibited)
+     - minimum 2nd degree felony
+ - necessary mental states for assault: "intentionally, knowingly, or recklessly"
+ - deadly conduct: "recklessly engages in conduct that places another in imminent danger of serious bodily injury."
+     -  Class A misdemeanor 
+ - deadly conduct: "knowingly discharges a firearm at or in the direction of ... one or more individuals or a habitation"
+     - 3rd degree felony
+ - terroristic threat is characterized by " threats to commit any offense involving violence to any person or property with intent to..." followed by 6 different things. 
+     - punishments range from Class B misdemeanor to state jail felony
+
+---
+
+# Chapter 30 - Burglary and Criminal Trespass
+
+Note: 
+This chapter contains the specific language required to be written in signage in order to legally prohibits licenced gun owners from entering private property: "a card or other document on which is written language identical to the following ...."
+
+[[Penal Code Title 7 - Chapter 30 Burglary and Criminal Trespass]]
+- criminal trespass
+- "A person may provide notice that firearms are prohibited on the property by posting a sign at each entrance to the property that ... includes language that is identical to or substantially similar to the following: "Pursuant to Section 30.05, Penal Code (criminal trespass), a person may not enter this property with a firearm"
+- criminal trespass
+    - Class C misdemeanor 
+    - Class A misdemeanor if the trespasser fails to depart after being told to
+    - it is a defense to prosecution of the actor holds a license issued under Subchapter H, Chapter 411, Government Code to carry a handgun, and the handgun is concealed or in a holster 
+- trespass by license holder with a concealed handgun 
+    - Class C misdemeanor 
+    - Class A misdemeanor if the trespasser fails to depart after being told to
+
+
+---
+
+# Chapter 38 - Obstructing governmental operation
+
+Questions: 
+ - what is a "lawful arrest"?
+
+[[Penal Code Title 8 - Chapter 38 Obstructing governmental operation]]
+ - failure to identify
+     - Class C to Class B misdemeanor 
+ - resisting arrest or search: "intentionally prevents or obstructs a person he knows is a peace officer ... from effecting an arrest, search, or transportation of the actor or another by using force against the peace officer "
+     - ! ! ! It is no defense to prosecution under this section that the arrest or search was unlawful.
+     - Class A misdemeanor 
+     - 3rd degree felony if the actor uses a deadly weapon
+ - taking weapon from peace officer: "It is a defense to prosecution under this section that the defendant took or attempted to take the weapon from a peace officer ... who was using force against the defendant or another in excess of the amount of force permitted by law"
+ - interference with public duties: "interrupts, disrupts, impedes, or otherwise interferes with a peace officer"
+     - It is a defense to prosecution under this section that the interruption, disruption, impediment, or interference alleged consisted of speech only.
+ 
+---
+
+# Chapter 42 - Disorderly Conduct and related offenses
+
+[[Penal Code Title 9 - Chapter 42 Disorderly Conduct and related offenses]]
+ - disorderly conduct: vulgar language, offensive gestures, abuse or threats, fighting, display or discharge of a firearm 
+     - Class C misdemeanor 
+     - Class B misdemeanor for firearm offenses
+ - riot: "riot" means the assemblage of seven or more persons resulting in conduct which...
+ - given that people are "gathering with others to picket or otherwise express in a nonviolent manner a position on social, economic, political, or religious questions" they must be ordered to disperse before they can be arrested for committing an offense under this chapter.
+     - it is a defense to proseuction "that an order, if given, was manifestly unreasonable in scope"
+- harassment: obscenity and threats 
+    - Class B misdemeanor 
