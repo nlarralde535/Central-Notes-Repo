@@ -7,51 +7,19 @@ isInFocus: Y
 AP: 
 createdDate: 2026-06-23
 ---
-# Codes to Read
-[Texas Code of Criminal Procedure](https://statutes.capitol.texas.gov/?tab=1&code=CR&chapter=CR.1&artSec=)
-Chapters to read 
-- [x] 1
-- [x] 2 SKIPPED 
-- [x] 2A
-- [x] 2B
-- [x] 3 SKIPPED
-- [x] 4 SKIPPED
-- [x] 14
-- [x] 15
-- [x] 19A
-- [x] 21
-- [x] 56A SKIPPED 
+# Codes Read 
 
  - [[Notes on Texas Code of Criminal Procedure]]
+ - [[Notes on Texas Penal Code]]
 
-[Texas Penal Code](https://texas.public.law/statutes/tex._penal_code)
-https://statutes.capitol.texas.gov/?tab=1&code=PE&chapter=PE.1&artSec=
-Chapters to read
-Note: these chapters all seem relatively short
-- [x] 1
-- [x] 2
-- [x] 6 (added by [[Penal Code Title 1 Ch 1 - General Provisions]])
-- [x] 9 (added by [[Code of Criminal Procedure Chapter 14 - Arrest without warrant]])
-- [x] 12 (SKIPPED)
-- [x] 15
-- [x] 19 (SKIPPED )
-- [x] 22
-- [x] 30 (added by [[Penal Code Title 2 Ch 9 - Justification Excluding Criminal Responsibility]])
-- [x] 38
-- [x] 42
-- [x] 46
-- [x] 49 (added by [[Code of Criminal Procedure Chapter 2A - Officers Powers and Duties]]) SKIPPED 
-- [x] 76
-```dataview
-LIST
-FROM #Note/TexasLegalCodes/PenalCode
-SORT createdDate ASC
-```
+
+# Codes to Read
 
 Codes noted in the [TCLE Statutes and Rules Handbook](https://tcole.texas.gov/document/tcole-handbook-2025.pdf)
 The following are contained in the handbook: 
 - [ ] Texas Administrative Code chapters 211-29
 - [ ] Texas Occupations Code chapters 1701
+
 
 
 [Texas Government Code](https://statutes.capitol.texas.gov/?tab=1&code=GV&chapter=GV.411&artSec=411.171)
@@ -132,6 +100,15 @@ This is as important as the [[City of Houston Code of Ordinances]
 
 ---
 # Log
+2026-11-13
+Done
+ - finished [[Notes on Texas Penal Code]]
+ - cleaned up the formatting of this note
+To Do
+ - read TCLE Handbook
+ - read Texas Government Code Chapter 411, Subchapter H
+
+
 2026-11-10
 Done
  - added more notes to the [[Notes on Texas Penal Code]] summary note 

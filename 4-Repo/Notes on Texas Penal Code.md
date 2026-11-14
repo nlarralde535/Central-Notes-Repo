@@ -145,3 +145,44 @@ Questions:
      - it is a defense to proseuction "that an order, if given, was manifestly unreasonable in scope"
 - harassment: obscenity and threats 
     - Class B misdemeanor 
+
+---
+
+# Chapter 46 - Weapons
+
+[[Penal Code Title 10 - Chapter 46 Weapons]]
+ - definitions for terms such as club, firearm and location-restricted knife
+ - without a license you're allowed to carry a handgun 1. in your own premises or 2. in or directly en route to a vehicle you own
+ - unlawful carrying a weapon: "A person commits an offense if the person carries a handgun and intentionally displays the handgun in plain view of another person in a public place"
+     - "It is an exception to the application of this subsection that the handgun was partially or wholly visible but was carried in a holster"
+     - Class A misdemeanor if the weapon is a handgun
+     - Class C misdemeanor if the weapon is a location-restricted knife 
+ - places weapons are prohibited: on the premises of a school or postsecondary educational institution, polling place on election day, courts, hospitals
+     - punishments range from 3rd degree felony to Class C misdemeanor 
+     - license holders may concealed-carry on school campuses
+     - license holders commit an offense when they "intentionally or knowingly display the handgun in plain view of another person"
+
+---
+
+# Chapter 76 Terroristic Offenses
+
+Sec. 76.02.  TERRORISM.
+(a)  A person commits an offense if the person:
+    (1)  commits or conspires to commit an offense under:
+        (A)  Chapter 19;
+        (B)  Section 20.02;
+        (C)  Section 20.03;
+        (D)  Section 20A.02;
+        (E)  Section 22.02;
+        (F)  Section 22.021;
+        (G)  Section 22.05, if punishable as a felony;
+        (H)  Section 22.07, if punishable as a felony;
+        (I)  Section 22.09;
+        (J)  Section 28.02;
+        (K)  Section 28.07, if punishable as a felony;
+        (L)  Section 29.03;
+        (M)  Section 38.152, if punishable as a felony; or
+        (N)  Section 46.08; and
+    (2)  commits or conspires to commit that offense with the intent to:
+        (A)  intimidate or coerce the public or a substantial group of the public; or
+        (B)  influence, by intimidation or coercion, the policy, conduct, or activities of this state, a political subdivision of this state, or the United States
