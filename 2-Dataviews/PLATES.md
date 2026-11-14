@@ -28,12 +28,11 @@ SORT isActive DESC
 flowchart LR
 
 subgraph Texas Legal Codes
-R2[Penal Code consolidation note]
 R3[Read TCLE Statutes and Rules Handbook]
 R4[Read Government Code Ch 411, Subchapter H]
 end
 
-R2 --> R3 --> R4 ---|"| gate"|P2
+R3 --> R4 ---|"| gate"|P2
 
 subgraph P2 [City of Houston Police Info]
 R5[HPD General Orders]
