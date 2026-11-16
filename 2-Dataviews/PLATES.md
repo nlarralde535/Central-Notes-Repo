@@ -24,6 +24,7 @@ SORT isActive DESC
 ---
 # [[What to do and How to be]]
 
+### Primary 
 ```mermaid
 flowchart LR
 
@@ -42,12 +43,36 @@ end
 R5 --> R6
 ```
 
+### Secondary: ESSAYS + QUESTIONS (Weekends?)
+```mermaid
+flowchart LR
+
+R1[Summarize notes from About Face]
+R2[Summarize notes from Blueprint for Armageddon]
+R3[Read On Bullshit]
+R4[Consolidate notes from Blindsight]
+R5[Blindsight + On Bullshit essay]
+
+R1 --> R2 ---|"| gate"| R3 --> R4 --> R5
+```
+
+### Secondary: History (Regular listening rotation)
+```mermaid
+flowchart LR
+
+R1[1776, McCollough]
+R2[American Creation, Ellis]
+
+R1 --> R2
+```
+
 ```dataview
 TABLE isActive AS "Active?", focusedSource AS "In-Focus Resource", AP
 FROM #Plate/WhatToDo
 SORT isActive DESC
 ```
 
+---
 # this
 ```dataview
 TABLE isActive AS "Active?", focusedSource AS "In-Focus Resource", AP
@@ -58,14 +83,21 @@ SORT isActive DESC
 ---
 
 # Log:
-2026-10-25:
-Done:
- - added diagrams to Tech and What To Do Plate tables above, to give an idea of what we are currently working on and what is next
+2026-11-15
+Done: 
+ - added two more flowcharts to the "What to Do and How to Be" Plate category to capture the work in addition to the primary Plate work we want to begin regularly focusing on
 To Do
  - Finish rewording sources tags to "resource"
  - define AP for all active Plates
      - also determine what the next Plate should be for each AP
  - define AP for all in-focus resources
+
+
+2026-10-25:
+Done:
+ - added diagrams to Tech and What To Do Plate tables above, to give an idea of what we are currently working on and what is next
+To Do
+ - 
 
 2026-09-07:
 **Note:**

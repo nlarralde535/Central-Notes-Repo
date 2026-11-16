@@ -2,7 +2,7 @@
 tags:
   - Note/Plate/History/Source
 plate: History
-progressionPosition: "1"
+progressionPosition: "3"
 createdDate: 2026-06-16
 ---
 # Description
