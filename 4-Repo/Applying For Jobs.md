@@ -35,19 +35,27 @@ We can make a separate repo for this so that the GitHub Pages page will be uniqu
 
 ---
 # Log
+2026-11-14
+Done
+ - added links to GitHub repos to our resume:
+      -  `useful`
+      - `sde-agentic-workflow`
+      - `software-philosophy`
+  - reorganized SDET resume a bit
+To Do
+- add Work:Test Reliability project work to SDET resume 
+    - include heavy mention of Testability 
+- update SDE and SDET resumes according to our `learning/` studies 
+- start applying 
+    - look up tech recruiting firms/services in specific areas/regions 
+    - look up tech firms in specific areas/regions
+
 2026-10-31
 Done:
  -  applied [[Lessons Learned in Software Testing]] and [[Software Development Philosophy PROJECT]] notes to our `sde-agentic-workflow`, commit `e51325e6f5df5` 
  - created a natural-language repo for our [[Lessons Learned in Software Testing]] and [[Software Development Philosophy PROJECT]] notes: `~/repos/software-philosophy`
 To Do
-  - add links to GitHub repos to our resume:
-      -  `useful`
-      - `sde-agentic-workflow`
-      - `software-philosophy`
-- update SDE and SDET resumes according to our `learning/` studies 
-- start applying 
-    - look up tech recruiting firms/services in specific areas/regions 
-    - look up tech firms in specific areas/regions
+- 
 
 2026-10-30
 Done: 

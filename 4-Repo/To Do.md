@@ -14,7 +14,9 @@ This Plate captures all to-do tasks that do not pertain to the other two Plate c
  - [ ] plan ⚡ interview 
  - [x] buy laptop
      - [ ] fix our Dell 5400
- - [ ] 
+ - [ ] pick up carpet shampoo machine
+     - [ ] shampoo carpet
 
 # To Buy
-- [ ] keyboard for Dell 5400
+- [x] keyboard for Dell 5400
+- [x] battery for Dell 5400

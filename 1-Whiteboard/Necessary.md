@@ -181,7 +181,11 @@ I'm curious to know what red flags you perceive about me, or know things you don
 
 What are some of your favorite fictional characters?
 
-### About me
+# About me
+
+I don't flirt with strangers 
+
+I know how to be a supportive, helpful platonic friend, and I know how to be a supportive, committed romantic partner. Im not good at any of the stuff in between.
 
 Sex is cool, but have you ever genuinely liked and been liked by someone?
 
