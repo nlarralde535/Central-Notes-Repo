@@ -239,6 +239,8 @@ I am a planner, I like having some idea of what's going to happen. I think (mayb
 
 I prioritize focusing on the boring/mundane/administrative aspects of life. It's often hard for me to relax unless I know the bills are paid, and my vehicles are in reliable working order, and all responsibilities are accounted for. 
 
+To illustrate what I mean, consider how flossing your teeth is supposed to work: you spend a little time each day flossing, and over time this habit leads to healthy gums and teeth. There's no way to "cram" flossing, you can't make up for years of not flossing by staying up for hours flossing the night before your dentist appointment. Flossing only works of you're consistent. I'm primarily interested in things that are like flossing in this way.
+
 I'm not really big on traditional forms of "fun" or entertainment. Or rather, I don't make having fun/entertainment a priority. I like struggling/learning/grinding through difficult things, and am hoping to find someone to do that kind of thing with. The easy stuff is easy to do, my focus is on doing the hard stuff. 
 
 And I don't have a plan for how any of this should go, I don't know how to go from zero to something with a total stranger, I'm hoping we'll figure that out together.

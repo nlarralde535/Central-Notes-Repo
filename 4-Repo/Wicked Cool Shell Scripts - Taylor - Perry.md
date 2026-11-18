@@ -10,7 +10,7 @@ createdDate: 2026-06-23
 Digital book in our Google Drive
 **6/21/2026:** This will be a good practical review of the material in in [[How Linux Works]]. NOTE: At this point it would be good to also briefly review Sed One-Liners and Awk One-Liners. 
 
-BOOKMARK: Page 55
+BOOKMARK: Page 71
 
 
 # Vocabulary Terms
@@ -18,9 +18,20 @@ BOOKMARK: Page 55
 - compound command: see `bash(1)`
 - `source` or "sourcing" a shell script: see `bash(1)` "SHELL BUILTIN COMMANDS"
 - parameter expansion: see `bash(1)` Parameter Expansion
+- `setuid`: sets the effective user ID of the calling process (see setuid(2))
 
 
 # Notes: 
+Page 66
+Subshells `$()` automatically inherit any functions defined in the shell that spawned them
+
+
+
+Page 64
+"Never run shell scripts under `setuid`" 
+
+
+
 Page 53
 Parameter expansion provides a mechanism for providing a default value when a variable is unset (undefined, uninitialized)
 ```

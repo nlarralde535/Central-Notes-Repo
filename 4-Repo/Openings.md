@@ -45,3 +45,12 @@ Are y'all aware that there are horrifying things being done by or facilitated by
  - RHETORICAL: Can you describe in detail the "correct" way for immigrants to enter the country, such that they are free to live and work without fear of being detained?
  - RHETORICAL, RELIGIOUS: Are you saying if I read X book/passage from the Bible that I will arrive at exactly your interpretation of that book/passage, without needed any external or extra-Biblical context?
  - The only kinds of people you have any hope of converting  over to your way of thinking are folks who were already headed in that direction in the first place, or folks who dont think too much. Anyone who applies even the least amount of scrutiny to the things you people say will steer clear of you. That's why the only people you talk to are people who are already like you.
+
+# Misc rants
+
+You seem like the kinds of people who, back when the practice of forcing kids to be right-handed was abandoned, were surprised to notice there suddenly appearing more and more left-handed people. And you seem like the kinds of people who are incurious about how the things that are came to be. You'd rather make shit up, or go with the first things that occurs to you.
+
+I'm angry because you're asking me to trust you and trust your judgement, but it's clear from listening to you for a brief period that you don't know shit. Or you think the shit you do know is the only shit worth knowing. 
+
+I do not what to be anything like you. I don't want to get to a point where I'm permanently perplexed by the inevitable changes that occur around me. I don't want to ever stop learning  or growing. 
+
