@@ -54,3 +54,5 @@ I'm angry because you're asking me to trust you and trust your judgement, but it
 
 I do not what to be anything like you. I don't want to get to a point where I'm permanently perplexed by the inevitable changes that occur around me. I don't want to ever stop learning  or growing. 
 
+RE: Impeding Anthropic IPO
+Is this seriously the most efficient method for allocating scarce resources? When in the history of markets has someone with something to sell ever said to themselves "You know what, that other guy's product is definitively better than mine, people seem to want it more than they want mine, I'm withdrawing my product form the market so that resources may flow where they're are more clearly wanted and will do the most good"? Never. The attitude sellers bring to the market is "I don't have to have to best product, I just need to convince YOU that I do." See Thank you for Smoking.

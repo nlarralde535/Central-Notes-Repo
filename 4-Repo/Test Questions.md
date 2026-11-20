@@ -23,4 +23,5 @@ See [[QUESTIONS]] as well
 11. (To someone who believes they have worked hard to get where they are): do you think everybody should have to work as hard, and sacrifice as much as you have? ...including your own children?
 12. To what extent are you able to explain/characterize the problem(s) you complain about?
 13. Assuming you consider homelessness a problem, what solutions would you propose to address the problem of homelessness?
+14. (From Optimist Economy podcast host Robin Rouzi, Thanksgiving 2026 episode "Economic Rebuttals Served up Hot"):    "What do working people deserve in this country? What do you think we owe people who work full time in this country?"
 

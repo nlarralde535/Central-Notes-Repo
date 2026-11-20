@@ -90,6 +90,15 @@ FROM #Note/WhatToDo or #Note/HowToBe
 SORT createdDate DESCENDING 
 ```
 
+# Relevant Books 
+
+```dataview
+LIST
+FROM #Book/Plate/WhatToDo 
+SORT createdDate DESCENDING 
+```
+
+
 ---
 # Log
 2026-11-15
