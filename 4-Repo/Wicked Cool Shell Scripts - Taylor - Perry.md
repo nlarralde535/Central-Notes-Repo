@@ -10,7 +10,7 @@ createdDate: 2026-06-23
 Digital book in our Google Drive
 **6/21/2026:** This will be a good practical review of the material in in [[How Linux Works]]. NOTE: At this point it would be good to also briefly review Sed One-Liners and Awk One-Liners. 
 
-BOOKMARK: Page 71
+BOOKMARK: Page 90
 
 
 # Vocabulary Terms
@@ -19,6 +19,16 @@ BOOKMARK: Page 71
 - `source` or "sourcing" a shell script: see `bash(1)` "SHELL BUILTIN COMMANDS"
 - parameter expansion: see `bash(1)` Parameter Expansion
 - `setuid`: sets the effective user ID of the calling process (see setuid(2))
+- `(cmd)` vs. `$(cmd)`:  subshell isolated group vs. command substitution
+
+
+
+# Useful commands
+ - basename 
+ - dirname
+ - tr 
+ - 
+
 
 
 # Notes: 

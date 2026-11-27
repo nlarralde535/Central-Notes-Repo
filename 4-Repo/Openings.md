@@ -45,6 +45,7 @@ Are y'all aware that there are horrifying things being done by or facilitated by
  - RHETORICAL: Can you describe in detail the "correct" way for immigrants to enter the country, such that they are free to live and work without fear of being detained?
  - RHETORICAL, RELIGIOUS: Are you saying if I read X book/passage from the Bible that I will arrive at exactly your interpretation of that book/passage, without needed any external or extra-Biblical context?
  - The only kinds of people you have any hope of converting  over to your way of thinking are folks who were already headed in that direction in the first place, or folks who dont think too much. Anyone who applies even the least amount of scrutiny to the things you people say will steer clear of you. That's why the only people you talk to are people who are already like you.
+ - RHETORICAL+ SELF-REFLECTIVE: when is the last time you admitted you were wrong about something?
 
 # Misc rants
 
@@ -56,3 +57,6 @@ I do not what to be anything like you. I don't want to get to a point where I'm 
 
 RE: Impeding Anthropic IPO
 Is this seriously the most efficient method for allocating scarce resources? When in the history of markets has someone with something to sell ever said to themselves "You know what, that other guy's product is definitively better than mine, people seem to want it more than they want mine, I'm withdrawing my product form the market so that resources may flow where they're are more clearly wanted and will do the most good"? Never. The attitude sellers bring to the market is "I don't have to have to best product, I just need to convince YOU that I do." See Thank you for Smoking.
+
+I want to give you the opportunity to either convince me I'm wrong or to admit that you're wrong, or some combination thereof. When you refuse to engage in either of these then there is a problem that words will not solve. 
+

@@ -16,6 +16,9 @@ createdDate: 2026-06-23
 # Codes to Read
 
 Codes noted in the [TCLE Statutes and Rules Handbook](https://tcole.texas.gov/document/tcole-handbook-2025.pdf)
+
+[[Notes on TCOLE Statutes and Rules Handbook]]
+
 The following are contained in the handbook: 
 - [ ] Texas Administrative Code chapters 211-29
 - [ ] Texas Occupations Code chapters 1701
